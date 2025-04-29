@@ -1,0 +1,122 @@
+{
+  "name": "Tanzania",
+  "iso3": "TZA",
+  "states": [
+    {
+      "name": "Arusha Region",
+      "state_code": "01"
+    },
+    {
+      "name": "Dar es Salaam Region",
+      "state_code": "02"
+    },
+    {
+      "name": "Dodoma Region",
+      "state_code": "03"
+    },
+    {
+      "name": "Geita Region",
+      "state_code": "27"
+    },
+    {
+      "name": "Iringa Region",
+      "state_code": "04"
+    },
+    {
+      "name": "Kagera Region",
+      "state_code": "05"
+    },
+    {
+      "name": "Katavi Region",
+      "state_code": "28"
+    },
+    {
+      "name": "Kigoma Region",
+      "state_code": "08"
+    },
+    {
+      "name": "Kilimanjaro Region",
+      "state_code": "09"
+    },
+    {
+      "name": "Lindi Region",
+      "state_code": "12"
+    },
+    {
+      "name": "Manyara Region",
+      "state_code": "26"
+    },
+    {
+      "name": "Mara Region",
+      "state_code": "13"
+    },
+    {
+      "name": "Morogoro Region",
+      "state_code": "16"
+    },
+    {
+      "name": "Mtwara Region",
+      "state_code": "17"
+    },
+    {
+      "name": "Mwanza Region",
+      "state_code": "18"
+    },
+    {
+      "name": "Njombe Region",
+      "state_code": "29"
+    },
+    {
+      "name": "North Pemba Region",
+      "state_code": "06"
+    },
+    {
+      "name": "Pwani Region",
+      "state_code": "19"
+    },
+    {
+      "name": "Rukwa Region",
+      "state_code": "20"
+    },
+    {
+      "name": "Ruvuma Region",
+      "state_code": "21"
+    },
+    {
+      "name": "Shinyanga Region",
+      "state_code": "22"
+    },
+    {
+      "name": "Simiyu Region",
+      "state_code": "30"
+    },
+    {
+      "name": "Singida Region",
+      "state_code": "23"
+    },
+    {
+      "name": "South Pemba Region",
+      "state_code": "10"
+    },
+    {
+      "name": "Tabora Region",
+      "state_code": "24"
+    },
+    {
+      "name": "Tanga Region",
+      "state_code": "25"
+    },
+    {
+      "name": "Zanzibar Central South Region",
+      "state_code": "11"
+    },
+    {
+      "name": "Zanzibar North Region",
+      "state_code": "07"
+    },
+    {
+      "name": "Zanzibar Urban West Region",
+      "state_code": "15"
+    }
+  ]
+}

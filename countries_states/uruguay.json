@@ -1,0 +1,82 @@
+{
+  "name": "Uruguay",
+  "iso3": "URY",
+  "states": [
+    {
+      "name": "Artigas Department",
+      "state_code": "AR"
+    },
+    {
+      "name": "Canelones Department",
+      "state_code": "CA"
+    },
+    {
+      "name": "Cerro Largo Department",
+      "state_code": "CL"
+    },
+    {
+      "name": "Colonia Department",
+      "state_code": "CO"
+    },
+    {
+      "name": "Durazno Department",
+      "state_code": "DU"
+    },
+    {
+      "name": "Flores Department",
+      "state_code": "FS"
+    },
+    {
+      "name": "Florida Department",
+      "state_code": "FD"
+    },
+    {
+      "name": "Lavalleja Department",
+      "state_code": "LA"
+    },
+    {
+      "name": "Maldonado Department",
+      "state_code": "MA"
+    },
+    {
+      "name": "Montevideo Department",
+      "state_code": "MO"
+    },
+    {
+      "name": "Paysandú Department",
+      "state_code": "PA"
+    },
+    {
+      "name": "Río Negro Department",
+      "state_code": "RN"
+    },
+    {
+      "name": "Rivera Department",
+      "state_code": "RV"
+    },
+    {
+      "name": "Rocha Department",
+      "state_code": "RO"
+    },
+    {
+      "name": "Salto Department",
+      "state_code": "SA"
+    },
+    {
+      "name": "San José Department",
+      "state_code": "SJ"
+    },
+    {
+      "name": "Soriano Department",
+      "state_code": "SO"
+    },
+    {
+      "name": "Tacuarembó Department",
+      "state_code": "TA"
+    },
+    {
+      "name": "Treinta y Tres Department",
+      "state_code": "TT"
+    }
+  ]
+}

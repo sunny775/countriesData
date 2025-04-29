@@ -1,0 +1,98 @@
+{
+  "name": "Chad",
+  "iso3": "TCD",
+  "states": [
+    {
+      "name": "Bahr el Gazel",
+      "state_code": "BG"
+    },
+    {
+      "name": "Batha Region",
+      "state_code": "BA"
+    },
+    {
+      "name": "Borkou",
+      "state_code": "BO"
+    },
+    {
+      "name": "Ennedi Region",
+      "state_code": "EN"
+    },
+    {
+      "name": "Ennedi-Est",
+      "state_code": "EE"
+    },
+    {
+      "name": "Ennedi-Ouest",
+      "state_code": "EO"
+    },
+    {
+      "name": "Guéra Region",
+      "state_code": "GR"
+    },
+    {
+      "name": "Hadjer-Lamis",
+      "state_code": "HL"
+    },
+    {
+      "name": "Kanem Region",
+      "state_code": "KA"
+    },
+    {
+      "name": "Lac Region",
+      "state_code": "LC"
+    },
+    {
+      "name": "Logone Occidental Region",
+      "state_code": "LO"
+    },
+    {
+      "name": "Logone Oriental Region",
+      "state_code": "LR"
+    },
+    {
+      "name": "Mandoul Region",
+      "state_code": "MA"
+    },
+    {
+      "name": "Mayo-Kebbi Est Region",
+      "state_code": "ME"
+    },
+    {
+      "name": "Mayo-Kebbi Ouest Region",
+      "state_code": "MO"
+    },
+    {
+      "name": "Moyen-Chari Region",
+      "state_code": "MC"
+    },
+    {
+      "name": "N'Djamena",
+      "state_code": "ND"
+    },
+    {
+      "name": "Ouaddaï Region",
+      "state_code": "OD"
+    },
+    {
+      "name": "Salamat Region",
+      "state_code": "SA"
+    },
+    {
+      "name": "Sila Region",
+      "state_code": "SI"
+    },
+    {
+      "name": "Tandjilé Region",
+      "state_code": "TA"
+    },
+    {
+      "name": "Tibesti Region",
+      "state_code": "TI"
+    },
+    {
+      "name": "Wadi Fira Region",
+      "state_code": "WF"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "name": "Romania",
+  "iso3": "ROU",
+  "states": [
+    {
+      "name": "Alba",
+      "state_code": "AB"
+    },
+    {
+      "name": "Arad County",
+      "state_code": "AR"
+    },
+    {
+      "name": "Arges",
+      "state_code": "AG"
+    },
+    {
+      "name": "Bacău County",
+      "state_code": "BC"
+    },
+    {
+      "name": "Bihor County",
+      "state_code": "BH"
+    },
+    {
+      "name": "Bistrița-Năsăud County",
+      "state_code": "BN"
+    },
+    {
+      "name": "Botoșani County",
+      "state_code": "BT"
+    },
+    {
+      "name": "Braila",
+      "state_code": "BR"
+    },
+    {
+      "name": "Brașov County",
+      "state_code": "BV"
+    },
+    {
+      "name": "Bucharest",
+      "state_code": "B"
+    },
+    {
+      "name": "Buzău County",
+      "state_code": "BZ"
+    },
+    {
+      "name": "Călărași County",
+      "state_code": "CL"
+    },
+    {
+      "name": "Caraș-Severin County",
+      "state_code": "CS"
+    },
+    {
+      "name": "Cluj County",
+      "state_code": "CJ"
+    },
+    {
+      "name": "Constanța County",
+      "state_code": "CT"
+    },
+    {
+      "name": "Covasna County",
+      "state_code": "CV"
+    },
+    {
+      "name": "Dâmbovița County",
+      "state_code": "DB"
+    },
+    {
+      "name": "Dolj County",
+      "state_code": "DJ"
+    },
+    {
+      "name": "Galați County",
+      "state_code": "GL"
+    },
+    {
+      "name": "Giurgiu County",
+      "state_code": "GR"
+    },
+    {
+      "name": "Gorj County",
+      "state_code": "GJ"
+    },
+    {
+      "name": "Harghita County",
+      "state_code": "HR"
+    },
+    {
+      "name": "Hunedoara County",
+      "state_code": "HD"
+    },
+    {
+      "name": "Ialomița County",
+      "state_code": "IL"
+    },
+    {
+      "name": "Iași County",
+      "state_code": "IS"
+    },
+    {
+      "name": "Ilfov County",
+      "state_code": "IF"
+    },
+    {
+      "name": "Maramureș County",
+      "state_code": "MM"
+    },
+    {
+      "name": "Mehedinți County",
+      "state_code": "MH"
+    },
+    {
+      "name": "Neamț County",
+      "state_code": "NT"
+    },
+    {
+      "name": "Olt County",
+      "state_code": "OT"
+    },
+    {
+      "name": "Prahova County",
+      "state_code": "PH"
+    },
+    {
+      "name": "Sălaj County",
+      "state_code": "SJ"
+    },
+    {
+      "name": "Satu Mare County",
+      "state_code": "SM"
+    },
+    {
+      "name": "Sibiu County",
+      "state_code": "SB"
+    },
+    {
+      "name": "Suceava County",
+      "state_code": "SV"
+    },
+    {
+      "name": "Teleorman County",
+      "state_code": "TR"
+    },
+    {
+      "name": "Timiș County",
+      "state_code": "TM"
+    },
+    {
+      "name": "Tulcea County",
+      "state_code": "TL"
+    },
+    {
+      "name": "Vâlcea County",
+      "state_code": "VL"
+    },
+    {
+      "name": "Vaslui County",
+      "state_code": "VS"
+    },
+    {
+      "name": "Vrancea County",
+      "state_code": "VN"
+    }
+  ]
+}

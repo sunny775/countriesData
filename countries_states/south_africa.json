@@ -1,0 +1,42 @@
+{
+  "name": "South Africa",
+  "iso3": "ZAF",
+  "states": [
+    {
+      "name": "Eastern Cape",
+      "state_code": "EC"
+    },
+    {
+      "name": "Free State",
+      "state_code": "FS"
+    },
+    {
+      "name": "Gauteng",
+      "state_code": "GP"
+    },
+    {
+      "name": "KwaZulu-Natal",
+      "state_code": "KZN"
+    },
+    {
+      "name": "Limpopo",
+      "state_code": "LP"
+    },
+    {
+      "name": "Mpumalanga",
+      "state_code": "MP"
+    },
+    {
+      "name": "North West",
+      "state_code": "NW"
+    },
+    {
+      "name": "Northern Cape",
+      "state_code": "NC"
+    },
+    {
+      "name": "Western Cape",
+      "state_code": "WC"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Cyprus",
+  "iso3": "CYP",
+  "states": [
+    {
+      "name": "Famagusta District",
+      "state_code": "04"
+    },
+    {
+      "name": "Kyrenia District",
+      "state_code": "06"
+    },
+    {
+      "name": "Larnaca District",
+      "state_code": "03"
+    },
+    {
+      "name": "Limassol District",
+      "state_code": "02"
+    },
+    {
+      "name": "Nicosia District",
+      "state_code": "01"
+    },
+    {
+      "name": "Paphos District",
+      "state_code": "05"
+    }
+  ]
+}

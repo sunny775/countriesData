@@ -1,0 +1,106 @@
+{
+  "name": "Venezuela",
+  "iso3": "VEN",
+  "states": [
+    {
+      "name": "Amazonas",
+      "state_code": "Z"
+    },
+    {
+      "name": "Anzoátegui",
+      "state_code": "B"
+    },
+    {
+      "name": "Apure",
+      "state_code": "C"
+    },
+    {
+      "name": "Aragua",
+      "state_code": "D"
+    },
+    {
+      "name": "Barinas",
+      "state_code": "E"
+    },
+    {
+      "name": "Bolívar",
+      "state_code": "F"
+    },
+    {
+      "name": "Capital District",
+      "state_code": "A"
+    },
+    {
+      "name": "Carabobo",
+      "state_code": "G"
+    },
+    {
+      "name": "Cojedes",
+      "state_code": "H"
+    },
+    {
+      "name": "Delta Amacuro",
+      "state_code": "Y"
+    },
+    {
+      "name": "Falcón",
+      "state_code": "I"
+    },
+    {
+      "name": "Federal Dependencies of Venezuela",
+      "state_code": "W"
+    },
+    {
+      "name": "Guárico",
+      "state_code": "J"
+    },
+    {
+      "name": "Lara",
+      "state_code": "K"
+    },
+    {
+      "name": "Mérida",
+      "state_code": "L"
+    },
+    {
+      "name": "Miranda",
+      "state_code": "M"
+    },
+    {
+      "name": "Monagas",
+      "state_code": "N"
+    },
+    {
+      "name": "Nueva Esparta",
+      "state_code": "O"
+    },
+    {
+      "name": "Portuguesa",
+      "state_code": "P"
+    },
+    {
+      "name": "Sucre",
+      "state_code": "R"
+    },
+    {
+      "name": "Táchira",
+      "state_code": "S"
+    },
+    {
+      "name": "Trujillo",
+      "state_code": "T"
+    },
+    {
+      "name": "Vargas",
+      "state_code": "X"
+    },
+    {
+      "name": "Yaracuy",
+      "state_code": "U"
+    },
+    {
+      "name": "Zulia",
+      "state_code": "V"
+    }
+  ]
+}

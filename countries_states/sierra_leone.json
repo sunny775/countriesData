@@ -1,0 +1,22 @@
+{
+  "name": "Sierra Leone",
+  "iso3": "SLE",
+  "states": [
+    {
+      "name": "Eastern Province",
+      "state_code": "E"
+    },
+    {
+      "name": "Northern Province",
+      "state_code": "N"
+    },
+    {
+      "name": "Southern Province",
+      "state_code": "S"
+    },
+    {
+      "name": "Western Area",
+      "state_code": "W"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Zambia",
+  "iso3": "ZMB",
+  "states": [
+    {
+      "name": "Central Province",
+      "state_code": "02"
+    },
+    {
+      "name": "Copperbelt Province",
+      "state_code": "08"
+    },
+    {
+      "name": "Eastern Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Luapula Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Lusaka Province",
+      "state_code": "09"
+    },
+    {
+      "name": "Muchinga Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Northern Province",
+      "state_code": "05"
+    },
+    {
+      "name": "Northwestern Province",
+      "state_code": "06"
+    },
+    {
+      "name": "Southern Province",
+      "state_code": "07"
+    },
+    {
+      "name": "Western Province",
+      "state_code": "01"
+    }
+  ]
+}

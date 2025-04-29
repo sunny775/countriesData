@@ -1,0 +1,30 @@
+{
+  "name": "Eritrea",
+  "iso3": "ERI",
+  "states": [
+    {
+      "name": "Anseba Region",
+      "state_code": "AN"
+    },
+    {
+      "name": "Debub Region",
+      "state_code": "DU"
+    },
+    {
+      "name": "Gash-Barka Region",
+      "state_code": "GB"
+    },
+    {
+      "name": "Maekel Region",
+      "state_code": "MA"
+    },
+    {
+      "name": "Northern Red Sea Region",
+      "state_code": "SK"
+    },
+    {
+      "name": "Southern Red Sea Region",
+      "state_code": "DK"
+    }
+  ]
+}

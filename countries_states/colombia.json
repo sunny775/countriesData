@@ -1,0 +1,134 @@
+{
+  "name": "Colombia",
+  "iso3": "COL",
+  "states": [
+    {
+      "name": "Amazonas Department",
+      "state_code": "AMA"
+    },
+    {
+      "name": "Antioquia Department",
+      "state_code": "ANT"
+    },
+    {
+      "name": "Arauca Department",
+      "state_code": "ARA"
+    },
+    {
+      "name": "Archipelago of Saint Andréws, Providence and Saint Catalina",
+      "state_code": "SAP"
+    },
+    {
+      "name": "Atlántico Department",
+      "state_code": "ATL"
+    },
+    {
+      "name": "Bolívar Department",
+      "state_code": "BOL"
+    },
+    {
+      "name": "Boyacá Department",
+      "state_code": "BOY"
+    },
+    {
+      "name": "Caldas Department",
+      "state_code": "CAL"
+    },
+    {
+      "name": "Caquetá Department",
+      "state_code": "CAQ"
+    },
+    {
+      "name": "Casanare Department",
+      "state_code": "CAS"
+    },
+    {
+      "name": "Cauca Department",
+      "state_code": "CAU"
+    },
+    {
+      "name": "Cesar Department",
+      "state_code": "CES"
+    },
+    {
+      "name": "Chocó Department",
+      "state_code": "CHO"
+    },
+    {
+      "name": "Córdoba Department",
+      "state_code": "COR"
+    },
+    {
+      "name": "Cundinamarca Department",
+      "state_code": "CUN"
+    },
+    {
+      "name": "Guainía Department",
+      "state_code": "GUA"
+    },
+    {
+      "name": "Guaviare Department",
+      "state_code": "GUV"
+    },
+    {
+      "name": "Huila Department",
+      "state_code": "HUI"
+    },
+    {
+      "name": "La Guajira Department",
+      "state_code": "LAG"
+    },
+    {
+      "name": "Magdalena Department",
+      "state_code": "MAG"
+    },
+    {
+      "name": "Meta",
+      "state_code": "MET"
+    },
+    {
+      "name": "Nariño Department",
+      "state_code": "NAR"
+    },
+    {
+      "name": "Norte de Santander Department",
+      "state_code": "NSA"
+    },
+    {
+      "name": "Putumayo Department",
+      "state_code": "PUT"
+    },
+    {
+      "name": "Quindío Department",
+      "state_code": "QUI"
+    },
+    {
+      "name": "Risaralda Department",
+      "state_code": "RIS"
+    },
+    {
+      "name": "Santander Department",
+      "state_code": "SAN"
+    },
+    {
+      "name": "Sucre Department",
+      "state_code": "SUC"
+    },
+    {
+      "name": "Tolima Department",
+      "state_code": "TOL"
+    },
+    {
+      "name": "Valle del Cauca Department",
+      "state_code": "VAC"
+    },
+    {
+      "name": "Vaupés Department",
+      "state_code": "VAU"
+    },
+    {
+      "name": "Vichada Department",
+      "state_code": "VID"
+    }
+  ]
+}

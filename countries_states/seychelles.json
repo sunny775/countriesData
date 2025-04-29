@@ -1,0 +1,102 @@
+{
+  "name": "Seychelles",
+  "iso3": "SYC",
+  "states": [
+    {
+      "name": "Anse Boileau",
+      "state_code": "02"
+    },
+    {
+      "name": "Anse Royale",
+      "state_code": "05"
+    },
+    {
+      "name": "Anse-aux-Pins",
+      "state_code": "01"
+    },
+    {
+      "name": "Au Cap",
+      "state_code": "04"
+    },
+    {
+      "name": "Baie Lazare",
+      "state_code": "06"
+    },
+    {
+      "name": "Baie Sainte Anne",
+      "state_code": "07"
+    },
+    {
+      "name": "Beau Vallon",
+      "state_code": "08"
+    },
+    {
+      "name": "Bel Air",
+      "state_code": "09"
+    },
+    {
+      "name": "Bel Ombre",
+      "state_code": "10"
+    },
+    {
+      "name": "Cascade",
+      "state_code": "11"
+    },
+    {
+      "name": "Glacis",
+      "state_code": "12"
+    },
+    {
+      "name": "Grand'Anse Mahé",
+      "state_code": "13"
+    },
+    {
+      "name": "Grand'Anse Praslin",
+      "state_code": "14"
+    },
+    {
+      "name": "La Digue",
+      "state_code": "15"
+    },
+    {
+      "name": "La Rivière Anglaise",
+      "state_code": "16"
+    },
+    {
+      "name": "Les Mamelles",
+      "state_code": "24"
+    },
+    {
+      "name": "Mont Buxton",
+      "state_code": "17"
+    },
+    {
+      "name": "Mont Fleuri",
+      "state_code": "18"
+    },
+    {
+      "name": "Plaisance",
+      "state_code": "19"
+    },
+    {
+      "name": "Pointe La Rue",
+      "state_code": "20"
+    },
+    {
+      "name": "Port Glaud",
+      "state_code": "21"
+    },
+    {
+      "name": "Roche Caiman",
+      "state_code": "25"
+    },
+    {
+      "name": "Saint Louis",
+      "state_code": "22"
+    },
+    {
+      "name": "Takamaka",
+      "state_code": "23"
+    }
+  ]
+}

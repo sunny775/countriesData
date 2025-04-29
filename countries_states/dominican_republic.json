@@ -1,0 +1,130 @@
+{
+  "name": "Dominican Republic",
+  "iso3": "DOM",
+  "states": [
+    {
+      "name": "Azua Province",
+      "state_code": "02"
+    },
+    {
+      "name": "Baoruco Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Barahona Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Dajabón Province",
+      "state_code": "05"
+    },
+    {
+      "name": "Distrito Nacional",
+      "state_code": "01"
+    },
+    {
+      "name": "Duarte Province",
+      "state_code": "06"
+    },
+    {
+      "name": "El Seibo Province",
+      "state_code": "08"
+    },
+    {
+      "name": "Espaillat Province",
+      "state_code": "09"
+    },
+    {
+      "name": "Hato Mayor Province",
+      "state_code": "30"
+    },
+    {
+      "name": "Hermanas Mirabal Province",
+      "state_code": "19"
+    },
+    {
+      "name": "Independencia",
+      "state_code": "10"
+    },
+    {
+      "name": "La Altagracia Province",
+      "state_code": "11"
+    },
+    {
+      "name": "La Romana Province",
+      "state_code": "12"
+    },
+    {
+      "name": "La Vega Province",
+      "state_code": "13"
+    },
+    {
+      "name": "María Trinidad Sánchez Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Monseñor Nouel Province",
+      "state_code": "28"
+    },
+    {
+      "name": "Monte Cristi Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Monte Plata Province",
+      "state_code": "29"
+    },
+    {
+      "name": "Pedernales Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Peravia Province",
+      "state_code": "17"
+    },
+    {
+      "name": "Puerto Plata Province",
+      "state_code": "18"
+    },
+    {
+      "name": "Samaná Province",
+      "state_code": "20"
+    },
+    {
+      "name": "San Cristóbal Province",
+      "state_code": "21"
+    },
+    {
+      "name": "San José de Ocoa Province",
+      "state_code": "31"
+    },
+    {
+      "name": "San Juan Province",
+      "state_code": "22"
+    },
+    {
+      "name": "San Pedro de Macorís",
+      "state_code": "23"
+    },
+    {
+      "name": "Sánchez Ramírez Province",
+      "state_code": "24"
+    },
+    {
+      "name": "Santiago Province",
+      "state_code": "25"
+    },
+    {
+      "name": "Santiago Rodríguez Province",
+      "state_code": "26"
+    },
+    {
+      "name": "Santo Domingo Province",
+      "state_code": "32"
+    },
+    {
+      "name": "Valverde Province",
+      "state_code": "27"
+    }
+  ]
+}

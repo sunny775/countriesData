@@ -1,0 +1,158 @@
+{
+  "name": "Indonesia",
+  "iso3": "IDN",
+  "states": [
+    {
+      "name": "Aceh",
+      "state_code": "AC"
+    },
+    {
+      "name": "Bali",
+      "state_code": "BA"
+    },
+    {
+      "name": "Bangka Belitung Islands",
+      "state_code": "BB"
+    },
+    {
+      "name": "Banten",
+      "state_code": "BT"
+    },
+    {
+      "name": "Bengkulu",
+      "state_code": "BE"
+    },
+    {
+      "name": "Central Java",
+      "state_code": "JT"
+    },
+    {
+      "name": "Central Kalimantan",
+      "state_code": "KT"
+    },
+    {
+      "name": "Central Sulawesi",
+      "state_code": "ST"
+    },
+    {
+      "name": "East Java",
+      "state_code": "JI"
+    },
+    {
+      "name": "East Kalimantan",
+      "state_code": "KI"
+    },
+    {
+      "name": "East Nusa Tenggara",
+      "state_code": "NT"
+    },
+    {
+      "name": "Gorontalo",
+      "state_code": "GO"
+    },
+    {
+      "name": "Jakarta",
+      "state_code": "JK"
+    },
+    {
+      "name": "Jambi",
+      "state_code": "JA"
+    },
+    {
+      "name": "Kalimantan",
+      "state_code": "KA"
+    },
+    {
+      "name": "Lampung",
+      "state_code": "LA"
+    },
+    {
+      "name": "Lesser Sunda Islands",
+      "state_code": "NU"
+    },
+    {
+      "name": "Maluku",
+      "state_code": "MA"
+    },
+    {
+      "name": "Maluku Islands",
+      "state_code": "ML"
+    },
+    {
+      "name": "North Kalimantan",
+      "state_code": "KU"
+    },
+    {
+      "name": "North Maluku",
+      "state_code": "MU"
+    },
+    {
+      "name": "North Sulawesi",
+      "state_code": "SA"
+    },
+    {
+      "name": "North Sumatra",
+      "state_code": "SU"
+    },
+    {
+      "name": "Papua",
+      "state_code": "PA"
+    },
+    {
+      "name": "Riau",
+      "state_code": "RI"
+    },
+    {
+      "name": "Riau Islands",
+      "state_code": "KR"
+    },
+    {
+      "name": "South Kalimantan",
+      "state_code": "KS"
+    },
+    {
+      "name": "South Sulawesi",
+      "state_code": "SN"
+    },
+    {
+      "name": "South Sumatra",
+      "state_code": "SS"
+    },
+    {
+      "name": "Southeast Sulawesi",
+      "state_code": "SG"
+    },
+    {
+      "name": "Special Region of Yogyakarta",
+      "state_code": "YO"
+    },
+    {
+      "name": "Sulawesi",
+      "state_code": "SL"
+    },
+    {
+      "name": "Sumatra",
+      "state_code": "SM"
+    },
+    {
+      "name": "West Java",
+      "state_code": "JB"
+    },
+    {
+      "name": "West Nusa Tenggara",
+      "state_code": "NB"
+    },
+    {
+      "name": "West Papua",
+      "state_code": "PB"
+    },
+    {
+      "name": "West Sulawesi",
+      "state_code": "SR"
+    },
+    {
+      "name": "West Sumatra",
+      "state_code": "SB"
+    }
+  ]
+}

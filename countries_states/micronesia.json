@@ -1,0 +1,22 @@
+{
+  "name": "Micronesia",
+  "iso3": "FSM",
+  "states": [
+    {
+      "name": "Chuuk State",
+      "state_code": "TRK"
+    },
+    {
+      "name": "Kosrae State",
+      "state_code": "KSA"
+    },
+    {
+      "name": "Pohnpei State",
+      "state_code": "PNI"
+    },
+    {
+      "name": "Yap State",
+      "state_code": "YAP"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Sudan",
+  "iso3": "SDN",
+  "states": [
+    {
+      "name": "Al Jazirah",
+      "state_code": "GZ"
+    },
+    {
+      "name": "Al Qadarif",
+      "state_code": "GD"
+    },
+    {
+      "name": "Blue Nile",
+      "state_code": "NB"
+    },
+    {
+      "name": "Central Darfur",
+      "state_code": "DC"
+    },
+    {
+      "name": "East Darfur",
+      "state_code": "DE"
+    },
+    {
+      "name": "Kassala",
+      "state_code": "KA"
+    },
+    {
+      "name": "Khartoum",
+      "state_code": "KH"
+    },
+    {
+      "name": "North Darfur",
+      "state_code": "DN"
+    },
+    {
+      "name": "North Kordofan",
+      "state_code": "KN"
+    },
+    {
+      "name": "Northern",
+      "state_code": "NO"
+    },
+    {
+      "name": "Red Sea",
+      "state_code": "RS"
+    },
+    {
+      "name": "River Nile",
+      "state_code": "NR"
+    },
+    {
+      "name": "Sennar",
+      "state_code": "SI"
+    },
+    {
+      "name": "South Darfur",
+      "state_code": "DS"
+    },
+    {
+      "name": "South Kordofan",
+      "state_code": "KS"
+    },
+    {
+      "name": "West Darfur",
+      "state_code": "DW"
+    },
+    {
+      "name": "West Kordofan",
+      "state_code": "GK"
+    },
+    {
+      "name": "White Nile",
+      "state_code": "NW"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Madagascar",
+  "iso3": "MDG",
+  "states": [
+    {
+      "name": "Antananarivo Province",
+      "state_code": "T"
+    },
+    {
+      "name": "Antsiranana Province",
+      "state_code": "D"
+    },
+    {
+      "name": "Fianarantsoa Province",
+      "state_code": "F"
+    },
+    {
+      "name": "Mahajanga Province",
+      "state_code": "M"
+    },
+    {
+      "name": "Toamasina Province",
+      "state_code": "A"
+    },
+    {
+      "name": "Toliara Province",
+      "state_code": "U"
+    }
+  ]
+}

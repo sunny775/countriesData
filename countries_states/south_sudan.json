@@ -1,0 +1,46 @@
+{
+  "name": "South Sudan",
+  "iso3": "SSD",
+  "states": [
+    {
+      "name": "Central Equatoria",
+      "state_code": "EC"
+    },
+    {
+      "name": "Eastern Equatoria",
+      "state_code": "EE"
+    },
+    {
+      "name": "Jonglei State",
+      "state_code": "JG"
+    },
+    {
+      "name": "Lakes",
+      "state_code": "LK"
+    },
+    {
+      "name": "Northern Bahr el Ghazal",
+      "state_code": "BN"
+    },
+    {
+      "name": "Unity",
+      "state_code": "UY"
+    },
+    {
+      "name": "Upper Nile",
+      "state_code": "NU"
+    },
+    {
+      "name": "Warrap",
+      "state_code": "WR"
+    },
+    {
+      "name": "Western Bahr el Ghazal",
+      "state_code": "BW"
+    },
+    {
+      "name": "Western Equatoria",
+      "state_code": "EW"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Argentina",
+  "iso3": "ARG",
+  "states": [
+    {
+      "name": "Autonomous City Of Buenos Aires",
+      "state_code": "C"
+    },
+    {
+      "name": "Buenos Aires Province",
+      "state_code": "B"
+    },
+    {
+      "name": "Catamarca Province",
+      "state_code": "K"
+    },
+    {
+      "name": "Chaco Province",
+      "state_code": "H"
+    },
+    {
+      "name": "Chubut Province",
+      "state_code": "U"
+    },
+    {
+      "name": "Córdoba Province",
+      "state_code": "X"
+    },
+    {
+      "name": "Corrientes",
+      "state_code": "W"
+    },
+    {
+      "name": "Entre Ríos Province",
+      "state_code": "E"
+    },
+    {
+      "name": "Formosa Province",
+      "state_code": "P"
+    },
+    {
+      "name": "Jujuy Province",
+      "state_code": "Y"
+    },
+    {
+      "name": "La Pampa",
+      "state_code": "L"
+    },
+    {
+      "name": "La Rioja Province",
+      "state_code": "F"
+    },
+    {
+      "name": "Mendoza",
+      "state_code": "M"
+    },
+    {
+      "name": "Misiones Province",
+      "state_code": "N"
+    },
+    {
+      "name": "Neuquén Province",
+      "state_code": "Q"
+    },
+    {
+      "name": "Río Negro Province",
+      "state_code": "R"
+    },
+    {
+      "name": "Salta Province",
+      "state_code": "A"
+    },
+    {
+      "name": "San Juan Province",
+      "state_code": "J"
+    },
+    {
+      "name": "San Luis Province",
+      "state_code": "D"
+    },
+    {
+      "name": "Santa Cruz Province",
+      "state_code": "Z"
+    },
+    {
+      "name": "Santa Fe Province",
+      "state_code": "S"
+    },
+    {
+      "name": "Santiago del Estero Province",
+      "state_code": "G"
+    },
+    {
+      "name": "Tierra del Fuego Province",
+      "state_code": "V"
+    },
+    {
+      "name": "Tucumán Province",
+      "state_code": "T"
+    }
+  ]
+}

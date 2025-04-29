@@ -1,0 +1,50 @@
+{
+  "name": "Korea North",
+  "iso3": "PRK",
+  "states": [
+    {
+      "name": "Chagang Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Kangwon Province",
+      "state_code": "07"
+    },
+    {
+      "name": "North Hamgyong Province",
+      "state_code": "09"
+    },
+    {
+      "name": "North Hwanghae Province",
+      "state_code": "06"
+    },
+    {
+      "name": "North Pyongan Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Pyongyang",
+      "state_code": "01"
+    },
+    {
+      "name": "Rason",
+      "state_code": "13"
+    },
+    {
+      "name": "Ryanggang Province",
+      "state_code": "10"
+    },
+    {
+      "name": "South Hamgyong Province",
+      "state_code": "08"
+    },
+    {
+      "name": "South Hwanghae Province",
+      "state_code": "05"
+    },
+    {
+      "name": "South Pyongan Province",
+      "state_code": "02"
+    }
+  ]
+}

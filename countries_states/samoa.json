@@ -1,0 +1,50 @@
+{
+  "name": "Samoa",
+  "iso3": "WSM",
+  "states": [
+    {
+      "name": "A'ana",
+      "state_code": "AA"
+    },
+    {
+      "name": "Aiga-i-le-Tai",
+      "state_code": "AL"
+    },
+    {
+      "name": "Atua",
+      "state_code": "AT"
+    },
+    {
+      "name": "Fa'asaleleaga",
+      "state_code": "FA"
+    },
+    {
+      "name": "Gaga'emauga",
+      "state_code": "GE"
+    },
+    {
+      "name": "Gaga'ifomauga",
+      "state_code": "GI"
+    },
+    {
+      "name": "Palauli",
+      "state_code": "PA"
+    },
+    {
+      "name": "Satupa'itea",
+      "state_code": "SA"
+    },
+    {
+      "name": "Tuamasaga",
+      "state_code": "TU"
+    },
+    {
+      "name": "Va'a-o-Fonoti",
+      "state_code": "VF"
+    },
+    {
+      "name": "Vaisigano",
+      "state_code": "VS"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Djibouti",
+  "iso3": "DJI",
+  "states": [
+    {
+      "name": "Ali Sabieh Region",
+      "state_code": "AS"
+    },
+    {
+      "name": "Arta Region",
+      "state_code": "AR"
+    },
+    {
+      "name": "Dikhil Region",
+      "state_code": "DI"
+    },
+    {
+      "name": "Djibouti",
+      "state_code": "DJ"
+    },
+    {
+      "name": "Obock Region",
+      "state_code": "OB"
+    },
+    {
+      "name": "Tadjourah Region",
+      "state_code": "TA"
+    }
+  ]
+}

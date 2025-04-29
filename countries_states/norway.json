@@ -1,0 +1,90 @@
+{
+  "name": "Norway",
+  "iso3": "NOR",
+  "states": [
+    {
+      "name": "Akershus",
+      "state_code": "02"
+    },
+    {
+      "name": "Buskerud",
+      "state_code": "06"
+    },
+    {
+      "name": "Finnmark",
+      "state_code": "20"
+    },
+    {
+      "name": "Hedmark",
+      "state_code": "04"
+    },
+    {
+      "name": "Hordaland",
+      "state_code": "12"
+    },
+    {
+      "name": "Jan Mayen",
+      "state_code": "22"
+    },
+    {
+      "name": "Møre og Romsdal",
+      "state_code": "15"
+    },
+    {
+      "name": "Nord-Trøndelag",
+      "state_code": "17"
+    },
+    {
+      "name": "Nordland",
+      "state_code": "18"
+    },
+    {
+      "name": "Oppland",
+      "state_code": "05"
+    },
+    {
+      "name": "Oslo",
+      "state_code": "03"
+    },
+    {
+      "name": "Østfold",
+      "state_code": "01"
+    },
+    {
+      "name": "Rogaland",
+      "state_code": "11"
+    },
+    {
+      "name": "Sogn og Fjordane",
+      "state_code": "14"
+    },
+    {
+      "name": "Sør-Trøndelag",
+      "state_code": "16"
+    },
+    {
+      "name": "Svalbard",
+      "state_code": "21"
+    },
+    {
+      "name": "Telemark",
+      "state_code": "08"
+    },
+    {
+      "name": "Troms",
+      "state_code": "19"
+    },
+    {
+      "name": "Trøndelag",
+      "state_code": "50"
+    },
+    {
+      "name": "Vest-Agder",
+      "state_code": "10"
+    },
+    {
+      "name": "Vestfold",
+      "state_code": "07"
+    }
+  ]
+}

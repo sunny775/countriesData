@@ -1,0 +1,62 @@
+{
+  "name": "Syria",
+  "iso3": "SYR",
+  "states": [
+    {
+      "name": "Al-Hasakah Governorate",
+      "state_code": "HA"
+    },
+    {
+      "name": "Al-Raqqah Governorate",
+      "state_code": "RA"
+    },
+    {
+      "name": "Aleppo Governorate",
+      "state_code": "HL"
+    },
+    {
+      "name": "As-Suwayda Governorate",
+      "state_code": "SU"
+    },
+    {
+      "name": "Damascus Governorate",
+      "state_code": "DI"
+    },
+    {
+      "name": "Daraa Governorate",
+      "state_code": "DR"
+    },
+    {
+      "name": "Deir ez-Zor Governorate",
+      "state_code": "DY"
+    },
+    {
+      "name": "Hama Governorate",
+      "state_code": "HM"
+    },
+    {
+      "name": "Homs Governorate",
+      "state_code": "HI"
+    },
+    {
+      "name": "Idlib Governorate",
+      "state_code": "ID"
+    },
+    {
+      "name": "Latakia Governorate",
+      "state_code": "LA"
+    },
+    {
+      "name": "Quneitra Governorate",
+      "state_code": "QU"
+    },
+    {
+      "name": "Rif Dimashq Governorate",
+      "state_code": "RD"
+    },
+    {
+      "name": "Tartus Governorate",
+      "state_code": "TA"
+    }
+  ]
+}

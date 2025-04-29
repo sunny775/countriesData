@@ -1,0 +1,82 @@
+{
+  "name": "Nepal",
+  "iso3": "NPL",
+  "states": [
+    {
+      "name": "Bagmati Zone",
+      "state_code": "BA"
+    },
+    {
+      "name": "Bheri Zone",
+      "state_code": "BH"
+    },
+    {
+      "name": "Central Region",
+      "state_code": "1"
+    },
+    {
+      "name": "Dhaulagiri Zone",
+      "state_code": "DH"
+    },
+    {
+      "name": "Eastern Development Region",
+      "state_code": "4"
+    },
+    {
+      "name": "Far-Western Development Region",
+      "state_code": "5"
+    },
+    {
+      "name": "Gandaki Zone",
+      "state_code": "GA"
+    },
+    {
+      "name": "Janakpur Zone",
+      "state_code": "JA"
+    },
+    {
+      "name": "Karnali Zone",
+      "state_code": "KA"
+    },
+    {
+      "name": "Kosi Zone",
+      "state_code": "KO"
+    },
+    {
+      "name": "Lumbini Zone",
+      "state_code": "LU"
+    },
+    {
+      "name": "Mahakali Zone",
+      "state_code": "MA"
+    },
+    {
+      "name": "Mechi Zone",
+      "state_code": "ME"
+    },
+    {
+      "name": "Mid-Western Region",
+      "state_code": "2"
+    },
+    {
+      "name": "Narayani Zone",
+      "state_code": "NA"
+    },
+    {
+      "name": "Rapti Zone",
+      "state_code": "RA"
+    },
+    {
+      "name": "Sagarmatha Zone",
+      "state_code": "SA"
+    },
+    {
+      "name": "Seti Zone",
+      "state_code": "SE"
+    },
+    {
+      "name": "Western Region",
+      "state_code": "3"
+    }
+  ]
+}

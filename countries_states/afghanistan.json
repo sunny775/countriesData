@@ -1,0 +1,138 @@
+{
+  "name": "Afghanistan",
+  "iso3": "AFG",
+  "states": [
+    {
+      "name": "Badakhshan",
+      "state_code": "BDS"
+    },
+    {
+      "name": "Badghis",
+      "state_code": "BDG"
+    },
+    {
+      "name": "Baghlan",
+      "state_code": "BGL"
+    },
+    {
+      "name": "Balkh",
+      "state_code": "BAL"
+    },
+    {
+      "name": "Bamyan",
+      "state_code": "BAM"
+    },
+    {
+      "name": "Daykundi",
+      "state_code": "DAY"
+    },
+    {
+      "name": "Farah",
+      "state_code": "FRA"
+    },
+    {
+      "name": "Faryab",
+      "state_code": "FYB"
+    },
+    {
+      "name": "Ghazni",
+      "state_code": "GHA"
+    },
+    {
+      "name": "Ghōr",
+      "state_code": "GHO"
+    },
+    {
+      "name": "Helmand",
+      "state_code": "HEL"
+    },
+    {
+      "name": "Herat",
+      "state_code": "HER"
+    },
+    {
+      "name": "Jowzjan",
+      "state_code": "JOW"
+    },
+    {
+      "name": "Kabul",
+      "state_code": "KAB"
+    },
+    {
+      "name": "Kandahar",
+      "state_code": "KAN"
+    },
+    {
+      "name": "Kapisa",
+      "state_code": "KAP"
+    },
+    {
+      "name": "Khost",
+      "state_code": "KHO"
+    },
+    {
+      "name": "Kunar",
+      "state_code": "KNR"
+    },
+    {
+      "name": "Kunduz Province",
+      "state_code": "KDZ"
+    },
+    {
+      "name": "Laghman",
+      "state_code": "LAG"
+    },
+    {
+      "name": "Logar",
+      "state_code": "LOG"
+    },
+    {
+      "name": "Nangarhar",
+      "state_code": "NAN"
+    },
+    {
+      "name": "Nimruz",
+      "state_code": "NIM"
+    },
+    {
+      "name": "Nuristan",
+      "state_code": "NUR"
+    },
+    {
+      "name": "Paktia",
+      "state_code": "PIA"
+    },
+    {
+      "name": "Paktika",
+      "state_code": "PKA"
+    },
+    {
+      "name": "Panjshir",
+      "state_code": "PAN"
+    },
+    {
+      "name": "Parwan",
+      "state_code": "PAR"
+    },
+    {
+      "name": "Samangan",
+      "state_code": "SAM"
+    },
+    {
+      "name": "Sar-e Pol",
+      "state_code": "SAR"
+    },
+    {
+      "name": "Takhar",
+      "state_code": "TAK"
+    },
+    {
+      "name": "Urozgan",
+      "state_code": "URU"
+    },
+    {
+      "name": "Zabul",
+      "state_code": "ZAB"
+    }
+  ]
+}

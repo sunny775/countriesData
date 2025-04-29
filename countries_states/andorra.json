@@ -1,0 +1,34 @@
+{
+  "name": "Andorra",
+  "iso3": "AND",
+  "states": [
+    {
+      "name": "Andorra la Vella",
+      "state_code": "07"
+    },
+    {
+      "name": "Canillo",
+      "state_code": "02"
+    },
+    {
+      "name": "Encamp",
+      "state_code": "03"
+    },
+    {
+      "name": "Escaldes-Engordany",
+      "state_code": "08"
+    },
+    {
+      "name": "La Massana",
+      "state_code": "04"
+    },
+    {
+      "name": "Ordino",
+      "state_code": "05"
+    },
+    {
+      "name": "Sant Julià de Lòria",
+      "state_code": "06"
+    }
+  ]
+}

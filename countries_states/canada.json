@@ -1,0 +1,58 @@
+{
+  "name": "Canada",
+  "iso3": "CAN",
+  "states": [
+    {
+      "name": "Alberta",
+      "state_code": "AB"
+    },
+    {
+      "name": "British Columbia",
+      "state_code": "BC"
+    },
+    {
+      "name": "Manitoba",
+      "state_code": "MB"
+    },
+    {
+      "name": "New Brunswick",
+      "state_code": "NB"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "state_code": "NL"
+    },
+    {
+      "name": "Northwest Territories",
+      "state_code": "NT"
+    },
+    {
+      "name": "Nova Scotia",
+      "state_code": "NS"
+    },
+    {
+      "name": "Nunavut",
+      "state_code": "NU"
+    },
+    {
+      "name": "Ontario",
+      "state_code": "ON"
+    },
+    {
+      "name": "Prince Edward Island",
+      "state_code": "PE"
+    },
+    {
+      "name": "Quebec",
+      "state_code": "QC"
+    },
+    {
+      "name": "Saskatchewan",
+      "state_code": "SK"
+    },
+    {
+      "name": "Yukon",
+      "state_code": "YT"
+    }
+  ]
+}

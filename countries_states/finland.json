@@ -1,0 +1,90 @@
+{
+  "name": "Finland",
+  "iso3": "FIN",
+  "states": [
+    {
+      "name": "Åland Islands",
+      "state_code": "01"
+    },
+    {
+      "name": "Central Finland",
+      "state_code": "08"
+    },
+    {
+      "name": "Central Ostrobothnia",
+      "state_code": "07"
+    },
+    {
+      "name": "Eastern Finland Province",
+      "state_code": "IS"
+    },
+    {
+      "name": "Finland Proper",
+      "state_code": "19"
+    },
+    {
+      "name": "Kainuu",
+      "state_code": "05"
+    },
+    {
+      "name": "Kymenlaakso",
+      "state_code": "09"
+    },
+    {
+      "name": "Lapland",
+      "state_code": "LL"
+    },
+    {
+      "name": "North Karelia",
+      "state_code": "13"
+    },
+    {
+      "name": "Northern Ostrobothnia",
+      "state_code": "14"
+    },
+    {
+      "name": "Northern Savonia",
+      "state_code": "15"
+    },
+    {
+      "name": "Ostrobothnia",
+      "state_code": "12"
+    },
+    {
+      "name": "Oulu Province",
+      "state_code": "OL"
+    },
+    {
+      "name": "Päijänne Tavastia",
+      "state_code": "16"
+    },
+    {
+      "name": "Pirkanmaa",
+      "state_code": "11"
+    },
+    {
+      "name": "Satakunta",
+      "state_code": "17"
+    },
+    {
+      "name": "South Karelia",
+      "state_code": "02"
+    },
+    {
+      "name": "Southern Ostrobothnia",
+      "state_code": "03"
+    },
+    {
+      "name": "Southern Savonia",
+      "state_code": "04"
+    },
+    {
+      "name": "Tavastia Proper",
+      "state_code": "06"
+    },
+    {
+      "name": "Uusimaa",
+      "state_code": "18"
+    }
+  ]
+}

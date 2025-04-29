@@ -1,0 +1,38 @@
+{
+  "name": "Tuvalu",
+  "iso3": "TUV",
+  "states": [
+    {
+      "name": "Funafuti",
+      "state_code": "FUN"
+    },
+    {
+      "name": "Nanumanga",
+      "state_code": "NMG"
+    },
+    {
+      "name": "Nanumea",
+      "state_code": "NMA"
+    },
+    {
+      "name": "Niutao Island Council",
+      "state_code": "NIT"
+    },
+    {
+      "name": "Nui",
+      "state_code": "NUI"
+    },
+    {
+      "name": "Nukufetau",
+      "state_code": "NKF"
+    },
+    {
+      "name": "Nukulaelae",
+      "state_code": "NKL"
+    },
+    {
+      "name": "Vaitupu",
+      "state_code": "VAI"
+    }
+  ]
+}

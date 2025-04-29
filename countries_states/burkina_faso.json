@@ -1,0 +1,234 @@
+{
+  "name": "Burkina Faso",
+  "iso3": "BFA",
+  "states": [
+    {
+      "name": "Balé Province",
+      "state_code": "BAL"
+    },
+    {
+      "name": "Bam Province",
+      "state_code": "BAM"
+    },
+    {
+      "name": "Banwa Province",
+      "state_code": "BAN"
+    },
+    {
+      "name": "Bazèga Province",
+      "state_code": "BAZ"
+    },
+    {
+      "name": "Boucle du Mouhoun Region",
+      "state_code": "01"
+    },
+    {
+      "name": "Bougouriba Province",
+      "state_code": "BGR"
+    },
+    {
+      "name": "Boulgou",
+      "state_code": "BLG"
+    },
+    {
+      "name": "Cascades Region",
+      "state_code": "02"
+    },
+    {
+      "name": "Centre",
+      "state_code": "03"
+    },
+    {
+      "name": "Centre-Est Region",
+      "state_code": "04"
+    },
+    {
+      "name": "Centre-Nord Region",
+      "state_code": "05"
+    },
+    {
+      "name": "Centre-Ouest Region",
+      "state_code": "06"
+    },
+    {
+      "name": "Centre-Sud Region",
+      "state_code": "07"
+    },
+    {
+      "name": "Comoé Province",
+      "state_code": "COM"
+    },
+    {
+      "name": "Est Region",
+      "state_code": "08"
+    },
+    {
+      "name": "Ganzourgou Province",
+      "state_code": "GAN"
+    },
+    {
+      "name": "Gnagna Province",
+      "state_code": "GNA"
+    },
+    {
+      "name": "Gourma Province",
+      "state_code": "GOU"
+    },
+    {
+      "name": "Hauts-Bassins Region",
+      "state_code": "09"
+    },
+    {
+      "name": "Houet Province",
+      "state_code": "HOU"
+    },
+    {
+      "name": "Ioba Province",
+      "state_code": "IOB"
+    },
+    {
+      "name": "Kadiogo Province",
+      "state_code": "KAD"
+    },
+    {
+      "name": "Kénédougou Province",
+      "state_code": "KEN"
+    },
+    {
+      "name": "Komondjari Province",
+      "state_code": "KMD"
+    },
+    {
+      "name": "Kompienga Province",
+      "state_code": "KMP"
+    },
+    {
+      "name": "Kossi Province",
+      "state_code": "KOS"
+    },
+    {
+      "name": "Koulpélogo Province",
+      "state_code": "KOP"
+    },
+    {
+      "name": "Kouritenga Province",
+      "state_code": "KOT"
+    },
+    {
+      "name": "Kourwéogo Province",
+      "state_code": "KOW"
+    },
+    {
+      "name": "Léraba Province",
+      "state_code": "LER"
+    },
+    {
+      "name": "Loroum Province",
+      "state_code": "LOR"
+    },
+    {
+      "name": "Mouhoun",
+      "state_code": "MOU"
+    },
+    {
+      "name": "Nahouri Province",
+      "state_code": "NAO"
+    },
+    {
+      "name": "Namentenga Province",
+      "state_code": "NAM"
+    },
+    {
+      "name": "Nayala Province",
+      "state_code": "NAY"
+    },
+    {
+      "name": "Nord Region, Burkina Faso",
+      "state_code": "10"
+    },
+    {
+      "name": "Noumbiel Province",
+      "state_code": "NOU"
+    },
+    {
+      "name": "Oubritenga Province",
+      "state_code": "OUB"
+    },
+    {
+      "name": "Oudalan Province",
+      "state_code": "OUD"
+    },
+    {
+      "name": "Passoré Province",
+      "state_code": "PAS"
+    },
+    {
+      "name": "Plateau-Central Region",
+      "state_code": "11"
+    },
+    {
+      "name": "Poni Province",
+      "state_code": "PON"
+    },
+    {
+      "name": "Sahel Region",
+      "state_code": "12"
+    },
+    {
+      "name": "Sanguié Province",
+      "state_code": "SNG"
+    },
+    {
+      "name": "Sanmatenga Province",
+      "state_code": "SMT"
+    },
+    {
+      "name": "Séno Province",
+      "state_code": "SEN"
+    },
+    {
+      "name": "Sissili Province",
+      "state_code": "SIS"
+    },
+    {
+      "name": "Soum Province",
+      "state_code": "SOM"
+    },
+    {
+      "name": "Sourou Province",
+      "state_code": "SOR"
+    },
+    {
+      "name": "Sud-Ouest Region",
+      "state_code": "13"
+    },
+    {
+      "name": "Tapoa Province",
+      "state_code": "TAP"
+    },
+    {
+      "name": "Tuy Province",
+      "state_code": "TUI"
+    },
+    {
+      "name": "Yagha Province",
+      "state_code": "YAG"
+    },
+    {
+      "name": "Yatenga Province",
+      "state_code": "YAT"
+    },
+    {
+      "name": "Ziro Province",
+      "state_code": "ZIR"
+    },
+    {
+      "name": "Zondoma Province",
+      "state_code": "ZON"
+    },
+    {
+      "name": "Zoundwéogo Province",
+      "state_code": "ZOU"
+    }
+  ]
+}

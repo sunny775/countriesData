@@ -1,0 +1,14 @@
+{
+  "name": "Marshall Islands",
+  "iso3": "MHL",
+  "states": [
+    {
+      "name": "Ralik Chain",
+      "state_code": "L"
+    },
+    {
+      "name": "Ratak Chain",
+      "state_code": "T"
+    }
+  ]
+}

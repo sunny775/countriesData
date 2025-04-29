@@ -1,0 +1,46 @@
+{
+  "name": "Solomon Islands",
+  "iso3": "SLB",
+  "states": [
+    {
+      "name": "Central Province",
+      "state_code": "CE"
+    },
+    {
+      "name": "Choiseul Province",
+      "state_code": "CH"
+    },
+    {
+      "name": "Guadalcanal Province",
+      "state_code": "GU"
+    },
+    {
+      "name": "Honiara",
+      "state_code": "CT"
+    },
+    {
+      "name": "Isabel Province",
+      "state_code": "IS"
+    },
+    {
+      "name": "Makira-Ulawa Province",
+      "state_code": "MK"
+    },
+    {
+      "name": "Malaita Province",
+      "state_code": "ML"
+    },
+    {
+      "name": "Rennell and Bellona Province",
+      "state_code": "RB"
+    },
+    {
+      "name": "Temotu Province",
+      "state_code": "TE"
+    },
+    {
+      "name": "Western Province",
+      "state_code": "WE"
+    }
+  ]
+}

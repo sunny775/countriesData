@@ -1,0 +1,90 @@
+{
+  "name": "Guatemala",
+  "iso3": "GTM",
+  "states": [
+    {
+      "name": "Alta Verapaz Department",
+      "state_code": "AV"
+    },
+    {
+      "name": "Baja Verapaz Department",
+      "state_code": "BV"
+    },
+    {
+      "name": "Chimaltenango Department",
+      "state_code": "CM"
+    },
+    {
+      "name": "Chiquimula Department",
+      "state_code": "CQ"
+    },
+    {
+      "name": "El Progreso Department",
+      "state_code": "PR"
+    },
+    {
+      "name": "Escuintla Department",
+      "state_code": "ES"
+    },
+    {
+      "name": "Guatemala Department",
+      "state_code": "GU"
+    },
+    {
+      "name": "Huehuetenango Department",
+      "state_code": "HU"
+    },
+    {
+      "name": "Izabal Department",
+      "state_code": "IZ"
+    },
+    {
+      "name": "Jalapa Department",
+      "state_code": "JA"
+    },
+    {
+      "name": "Jutiapa Department",
+      "state_code": "JU"
+    },
+    {
+      "name": "Petén Department",
+      "state_code": "PE"
+    },
+    {
+      "name": "Quetzaltenango Department",
+      "state_code": "QZ"
+    },
+    {
+      "name": "Quiché Department",
+      "state_code": "QC"
+    },
+    {
+      "name": "Retalhuleu Department",
+      "state_code": "RE"
+    },
+    {
+      "name": "Sacatepéquez Department",
+      "state_code": "SA"
+    },
+    {
+      "name": "San Marcos Department",
+      "state_code": "SM"
+    },
+    {
+      "name": "Santa Rosa Department",
+      "state_code": "SR"
+    },
+    {
+      "name": "Sololá Department",
+      "state_code": "SO"
+    },
+    {
+      "name": "Suchitepéquez Department",
+      "state_code": "SU"
+    },
+    {
+      "name": "Totonicapán Department",
+      "state_code": "TO"
+    }
+  ]
+}

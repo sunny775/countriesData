@@ -1,0 +1,90 @@
+{
+  "name": "Mongolia",
+  "iso3": "MNG",
+  "states": [
+    {
+      "name": "Arkhangai Province",
+      "state_code": "073"
+    },
+    {
+      "name": "Bayan-Ölgii Province",
+      "state_code": "071"
+    },
+    {
+      "name": "Bayankhongor Province",
+      "state_code": "069"
+    },
+    {
+      "name": "Bulgan Province",
+      "state_code": "067"
+    },
+    {
+      "name": "Darkhan-Uul Province",
+      "state_code": "037"
+    },
+    {
+      "name": "Dornod Province",
+      "state_code": "061"
+    },
+    {
+      "name": "Dornogovi Province",
+      "state_code": "063"
+    },
+    {
+      "name": "Dundgovi Province",
+      "state_code": "059"
+    },
+    {
+      "name": "Govi-Altai Province",
+      "state_code": "065"
+    },
+    {
+      "name": "Govisümber Province",
+      "state_code": "064"
+    },
+    {
+      "name": "Khentii Province",
+      "state_code": "039"
+    },
+    {
+      "name": "Khovd Province",
+      "state_code": "043"
+    },
+    {
+      "name": "Khövsgöl Province",
+      "state_code": "041"
+    },
+    {
+      "name": "Ömnögovi Province",
+      "state_code": "053"
+    },
+    {
+      "name": "Orkhon Province",
+      "state_code": "035"
+    },
+    {
+      "name": "Övörkhangai Province",
+      "state_code": "055"
+    },
+    {
+      "name": "Selenge Province",
+      "state_code": "049"
+    },
+    {
+      "name": "Sükhbaatar Province",
+      "state_code": "051"
+    },
+    {
+      "name": "Töv Province",
+      "state_code": "047"
+    },
+    {
+      "name": "Uvs Province",
+      "state_code": "046"
+    },
+    {
+      "name": "Zavkhan Province",
+      "state_code": "057"
+    }
+  ]
+}

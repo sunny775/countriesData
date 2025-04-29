@@ -1,0 +1,42 @@
+{
+  "name": "Austria",
+  "iso3": "AUT",
+  "states": [
+    {
+      "name": "Burgenland",
+      "state_code": "1"
+    },
+    {
+      "name": "Carinthia",
+      "state_code": "2"
+    },
+    {
+      "name": "Lower Austria",
+      "state_code": "3"
+    },
+    {
+      "name": "Salzburg",
+      "state_code": "5"
+    },
+    {
+      "name": "Styria",
+      "state_code": "6"
+    },
+    {
+      "name": "Tyrol",
+      "state_code": "7"
+    },
+    {
+      "name": "Upper Austria",
+      "state_code": "4"
+    },
+    {
+      "name": "Vienna",
+      "state_code": "9"
+    },
+    {
+      "name": "Vorarlberg",
+      "state_code": "8"
+    }
+  ]
+}

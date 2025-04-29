@@ -1,0 +1,142 @@
+{
+  "name": "China",
+  "iso3": "CHN",
+  "states": [
+    {
+      "name": "Anhui",
+      "state_code": "AH"
+    },
+    {
+      "name": "Beijing",
+      "state_code": "BJ"
+    },
+    {
+      "name": "Chongqing",
+      "state_code": "CQ"
+    },
+    {
+      "name": "Fujian",
+      "state_code": "FJ"
+    },
+    {
+      "name": "Gansu",
+      "state_code": "GS"
+    },
+    {
+      "name": "Guangdong",
+      "state_code": "GD"
+    },
+    {
+      "name": "Guangxi Zhuang Autonomous Region",
+      "state_code": "GX"
+    },
+    {
+      "name": "Guizhou",
+      "state_code": "GZ"
+    },
+    {
+      "name": "Hainan",
+      "state_code": "HI"
+    },
+    {
+      "name": "Hebei",
+      "state_code": "HE"
+    },
+    {
+      "name": "Heilongjiang",
+      "state_code": "HL"
+    },
+    {
+      "name": "Henan",
+      "state_code": "HA"
+    },
+    {
+      "name": "Hong Kong",
+      "state_code": "HK"
+    },
+    {
+      "name": "Hubei",
+      "state_code": "HB"
+    },
+    {
+      "name": "Hunan",
+      "state_code": "HN"
+    },
+    {
+      "name": "Inner Mongolia",
+      "state_code": "NM"
+    },
+    {
+      "name": "Jiangsu",
+      "state_code": "JS"
+    },
+    {
+      "name": "Jiangxi",
+      "state_code": "JX"
+    },
+    {
+      "name": "Jilin",
+      "state_code": "JL"
+    },
+    {
+      "name": "Keelung",
+      "state_code": "TW-KEE"
+    },
+    {
+      "name": "Liaoning",
+      "state_code": "LN"
+    },
+    {
+      "name": "Macau",
+      "state_code": "MO"
+    },
+    {
+      "name": "Ningxia Hui Autonomous Region",
+      "state_code": "NX"
+    },
+    {
+      "name": "Qinghai",
+      "state_code": "QH"
+    },
+    {
+      "name": "Shaanxi",
+      "state_code": "SN"
+    },
+    {
+      "name": "Shandong",
+      "state_code": "SD"
+    },
+    {
+      "name": "Shanghai",
+      "state_code": "SH"
+    },
+    {
+      "name": "Shanxi",
+      "state_code": "SX"
+    },
+    {
+      "name": "Sichuan",
+      "state_code": "SC"
+    },
+    {
+      "name": "Taiwan Province, People's Republic of China",
+      "state_code": "TW"
+    },
+    {
+      "name": "Tibet Autonomous Region",
+      "state_code": "XZ"
+    },
+    {
+      "name": "Xinjiang",
+      "state_code": "XJ"
+    },
+    {
+      "name": "Yunnan",
+      "state_code": "YN"
+    },
+    {
+      "name": "Zhejiang",
+      "state_code": "ZJ"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Peru",
+  "iso3": "PER",
+  "states": [
+    {
+      "name": "Amazonas",
+      "state_code": "AMA"
+    },
+    {
+      "name": "Áncash",
+      "state_code": "ANC"
+    },
+    {
+      "name": "Apurímac",
+      "state_code": "APU"
+    },
+    {
+      "name": "Arequipa",
+      "state_code": "ARE"
+    },
+    {
+      "name": "Ayacucho",
+      "state_code": "AYA"
+    },
+    {
+      "name": "Cajamarca",
+      "state_code": "CAJ"
+    },
+    {
+      "name": "Callao",
+      "state_code": "CAL"
+    },
+    {
+      "name": "Cusco",
+      "state_code": "CUS"
+    },
+    {
+      "name": "Huancavelica",
+      "state_code": "HUV"
+    },
+    {
+      "name": "Huanuco",
+      "state_code": "HUC"
+    },
+    {
+      "name": "Ica",
+      "state_code": "ICA"
+    },
+    {
+      "name": "Junín",
+      "state_code": "JUN"
+    },
+    {
+      "name": "La Libertad",
+      "state_code": "LAL"
+    },
+    {
+      "name": "Lambayeque",
+      "state_code": "LAM"
+    },
+    {
+      "name": "Lima",
+      "state_code": "LIM"
+    },
+    {
+      "name": "Madre de Dios",
+      "state_code": "MDD"
+    },
+    {
+      "name": "Moquegua",
+      "state_code": "MOQ"
+    },
+    {
+      "name": "Pasco",
+      "state_code": "PAS"
+    },
+    {
+      "name": "Piura",
+      "state_code": "PIU"
+    },
+    {
+      "name": "Puno",
+      "state_code": "PUN"
+    },
+    {
+      "name": "San Martín",
+      "state_code": "SAM"
+    },
+    {
+      "name": "Tacna",
+      "state_code": "TAC"
+    },
+    {
+      "name": "Tumbes",
+      "state_code": "TUM"
+    },
+    {
+      "name": "Ucayali",
+      "state_code": "UCA"
+    }
+  ]
+}

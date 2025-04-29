@@ -1,0 +1,62 @@
+{
+  "name": "Georgia",
+  "iso3": "GEO",
+  "states": [
+    {
+      "name": "Adjara",
+      "state_code": "AJ"
+    },
+    {
+      "name": "Autonomous Republic of Abkhazia",
+      "state_code": "AB"
+    },
+    {
+      "name": "Guria",
+      "state_code": "GU"
+    },
+    {
+      "name": "Imereti",
+      "state_code": "IM"
+    },
+    {
+      "name": "Kakheti",
+      "state_code": "KA"
+    },
+    {
+      "name": "Khelvachauri Municipality",
+      "state_code": "29"
+    },
+    {
+      "name": "Kvemo Kartli",
+      "state_code": "KK"
+    },
+    {
+      "name": "Mtskheta-Mtianeti",
+      "state_code": "MM"
+    },
+    {
+      "name": "Racha-Lechkhumi and Kvemo Svaneti",
+      "state_code": "RL"
+    },
+    {
+      "name": "Samegrelo-Zemo Svaneti",
+      "state_code": "SZ"
+    },
+    {
+      "name": "Samtskhe-Javakheti",
+      "state_code": "SJ"
+    },
+    {
+      "name": "Senaki Municipality",
+      "state_code": "50"
+    },
+    {
+      "name": "Shida Kartli",
+      "state_code": "SK"
+    },
+    {
+      "name": "Tbilisi",
+      "state_code": "TB"
+    }
+  ]
+}

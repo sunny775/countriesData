@@ -1,0 +1,34 @@
+{
+  "name": "Costa Rica",
+  "iso3": "CRI",
+  "states": [
+    {
+      "name": "Alajuela Province",
+      "state_code": "A"
+    },
+    {
+      "name": "Guanacaste Province",
+      "state_code": "G"
+    },
+    {
+      "name": "Heredia Province",
+      "state_code": "H"
+    },
+    {
+      "name": "Limón Province",
+      "state_code": "L"
+    },
+    {
+      "name": "Provincia de Cartago",
+      "state_code": "C"
+    },
+    {
+      "name": "Puntarenas Province",
+      "state_code": "P"
+    },
+    {
+      "name": "San José Province",
+      "state_code": "SJ"
+    }
+  ]
+}

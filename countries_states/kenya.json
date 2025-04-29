@@ -1,0 +1,222 @@
+{
+  "name": "Kenya",
+  "iso3": "KEN",
+  "states": [
+    {
+      "name": "Baringo County",
+      "state_code": "01"
+    },
+    {
+      "name": "Bomet County",
+      "state_code": "02"
+    },
+    {
+      "name": "Bungoma County",
+      "state_code": "03"
+    },
+    {
+      "name": "Busia County",
+      "state_code": "04"
+    },
+    {
+      "name": "Central Province",
+      "state_code": "200"
+    },
+    {
+      "name": "Coast Province",
+      "state_code": "300"
+    },
+    {
+      "name": "Eastern Province",
+      "state_code": "400"
+    },
+    {
+      "name": "Elgeyo-Marakwet County",
+      "state_code": "05"
+    },
+    {
+      "name": "Embu County",
+      "state_code": "06"
+    },
+    {
+      "name": "Garissa County",
+      "state_code": "07"
+    },
+    {
+      "name": "Homa Bay County",
+      "state_code": "08"
+    },
+    {
+      "name": "Isiolo County",
+      "state_code": "09"
+    },
+    {
+      "name": "Kajiado County",
+      "state_code": "10"
+    },
+    {
+      "name": "Kakamega County",
+      "state_code": "11"
+    },
+    {
+      "name": "Kericho County",
+      "state_code": "12"
+    },
+    {
+      "name": "Kiambu County",
+      "state_code": "13"
+    },
+    {
+      "name": "Kilifi County",
+      "state_code": "14"
+    },
+    {
+      "name": "Kirinyaga County",
+      "state_code": "15"
+    },
+    {
+      "name": "Kisii County",
+      "state_code": "16"
+    },
+    {
+      "name": "Kisumu County",
+      "state_code": "17"
+    },
+    {
+      "name": "Kitui County",
+      "state_code": "18"
+    },
+    {
+      "name": "Kwale County",
+      "state_code": "19"
+    },
+    {
+      "name": "Laikipia County",
+      "state_code": "20"
+    },
+    {
+      "name": "Lamu County",
+      "state_code": "21"
+    },
+    {
+      "name": "Machakos County",
+      "state_code": "22"
+    },
+    {
+      "name": "Makueni County",
+      "state_code": "23"
+    },
+    {
+      "name": "Mandera County",
+      "state_code": "24"
+    },
+    {
+      "name": "Marsabit County",
+      "state_code": "25"
+    },
+    {
+      "name": "Meru County",
+      "state_code": "26"
+    },
+    {
+      "name": "Migori County",
+      "state_code": "27"
+    },
+    {
+      "name": "Mombasa County",
+      "state_code": "28"
+    },
+    {
+      "name": "Muranga County",
+      "state_code": "29"
+    },
+    {
+      "name": "Nairobi",
+      "state_code": "110"
+    },
+    {
+      "name": "Nakuru District",
+      "state_code": "31"
+    },
+    {
+      "name": "Nandi District",
+      "state_code": "32"
+    },
+    {
+      "name": "Narok County",
+      "state_code": "33"
+    },
+    {
+      "name": "North Eastern Province",
+      "state_code": "500"
+    },
+    {
+      "name": "Nyamira District",
+      "state_code": "34"
+    },
+    {
+      "name": "Nyandarua County",
+      "state_code": "35"
+    },
+    {
+      "name": "Nyanza Province",
+      "state_code": "600"
+    },
+    {
+      "name": "Nyeri County",
+      "state_code": "36"
+    },
+    {
+      "name": "Rift Valley Province",
+      "state_code": "700"
+    },
+    {
+      "name": "Samburu County",
+      "state_code": "37"
+    },
+    {
+      "name": "Siaya County",
+      "state_code": "38"
+    },
+    {
+      "name": "Taita–Taveta County",
+      "state_code": "39"
+    },
+    {
+      "name": "Tana River County",
+      "state_code": "40"
+    },
+    {
+      "name": "Tharaka Nithi County",
+      "state_code": "41"
+    },
+    {
+      "name": "Trans-Nzoia District",
+      "state_code": "42"
+    },
+    {
+      "name": "Turkana County",
+      "state_code": "43"
+    },
+    {
+      "name": "Uasin Gishu District",
+      "state_code": "44"
+    },
+    {
+      "name": "Vihiga District",
+      "state_code": "45"
+    },
+    {
+      "name": "Wajir County",
+      "state_code": "46"
+    },
+    {
+      "name": "West Pokot County",
+      "state_code": "47"
+    },
+    {
+      "name": "Western Province",
+      "state_code": "800"
+    }
+  ]
+}

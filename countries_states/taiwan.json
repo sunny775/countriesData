@@ -1,0 +1,98 @@
+{
+  "name": "Taiwan",
+  "iso3": "TWN",
+  "states": [
+    {
+      "name": "Changhua County",
+      "state_code": "CHA"
+    },
+    {
+      "name": "Chiayi City",
+      "state_code": "CYQ"
+    },
+    {
+      "name": "Chiayi County",
+      "state_code": "CYI"
+    },
+    {
+      "name": "Hsinchu",
+      "state_code": "HSZ"
+    },
+    {
+      "name": "Hsinchu County",
+      "state_code": "HSQ"
+    },
+    {
+      "name": "Hualien County",
+      "state_code": "HUA"
+    },
+    {
+      "name": "Kaohsiung",
+      "state_code": "KHH"
+    },
+    {
+      "name": "Kaohsiung County",
+      "state_code": "KHQ"
+    },
+    {
+      "name": "Kinmen",
+      "state_code": "KIN"
+    },
+    {
+      "name": "Lienchiang County",
+      "state_code": "LIE"
+    },
+    {
+      "name": "Miaoli County",
+      "state_code": "MIA"
+    },
+    {
+      "name": "Nantou County",
+      "state_code": "NAN"
+    },
+    {
+      "name": "Penghu County",
+      "state_code": "PEN"
+    },
+    {
+      "name": "Pingtung County",
+      "state_code": "PIF"
+    },
+    {
+      "name": "Taichung",
+      "state_code": "TXG"
+    },
+    {
+      "name": "Taichung County",
+      "state_code": "TXQ"
+    },
+    {
+      "name": "Tainan",
+      "state_code": "TNN"
+    },
+    {
+      "name": "Tainan County",
+      "state_code": "TNQ"
+    },
+    {
+      "name": "Taipei",
+      "state_code": "TPE"
+    },
+    {
+      "name": "Taitung County",
+      "state_code": "TTT"
+    },
+    {
+      "name": "Taoyuan City",
+      "state_code": "TAO"
+    },
+    {
+      "name": "Yilan County",
+      "state_code": "ILA"
+    },
+    {
+      "name": "Yunlin County",
+      "state_code": "YUN"
+    }
+  ]
+}

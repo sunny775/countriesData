@@ -1,0 +1,30 @@
+{
+  "name": "Gambia The",
+  "iso3": "GMB",
+  "states": [
+    {
+      "name": "Banjul",
+      "state_code": "B"
+    },
+    {
+      "name": "Central River Division",
+      "state_code": "M"
+    },
+    {
+      "name": "Lower River Division",
+      "state_code": "L"
+    },
+    {
+      "name": "North Bank Division",
+      "state_code": "N"
+    },
+    {
+      "name": "Upper River Division",
+      "state_code": "U"
+    },
+    {
+      "name": "West Coast Division",
+      "state_code": "W"
+    }
+  ]
+}

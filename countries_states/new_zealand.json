@@ -1,0 +1,74 @@
+{
+  "name": "New Zealand",
+  "iso3": "NZL",
+  "states": [
+    {
+      "name": "Auckland Region",
+      "state_code": "AUK"
+    },
+    {
+      "name": "Bay of Plenty Region",
+      "state_code": "BOP"
+    },
+    {
+      "name": "Canterbury Region",
+      "state_code": "CAN"
+    },
+    {
+      "name": "Chatham Islands",
+      "state_code": "CIT"
+    },
+    {
+      "name": "Gisborne District",
+      "state_code": "GIS"
+    },
+    {
+      "name": "Hawke's Bay Region",
+      "state_code": "HKB"
+    },
+    {
+      "name": "Manawatu-Wanganui Region",
+      "state_code": "MWT"
+    },
+    {
+      "name": "Marlborough Region",
+      "state_code": "MBH"
+    },
+    {
+      "name": "Nelson Region",
+      "state_code": "NSN"
+    },
+    {
+      "name": "Northland Region",
+      "state_code": "NTL"
+    },
+    {
+      "name": "Otago Region",
+      "state_code": "OTA"
+    },
+    {
+      "name": "Southland Region",
+      "state_code": "STL"
+    },
+    {
+      "name": "Taranaki Region",
+      "state_code": "TKI"
+    },
+    {
+      "name": "Tasman District",
+      "state_code": "TAS"
+    },
+    {
+      "name": "Waikato Region",
+      "state_code": "WKO"
+    },
+    {
+      "name": "Wellington Region",
+      "state_code": "WGN"
+    },
+    {
+      "name": "West Coast Region",
+      "state_code": "WTC"
+    }
+  ]
+}

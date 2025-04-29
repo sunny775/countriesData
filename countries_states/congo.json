@@ -1,0 +1,54 @@
+{
+  "name": "Congo",
+  "iso3": "COG",
+  "states": [
+    {
+      "name": "Bouenza Department",
+      "state_code": "11"
+    },
+    {
+      "name": "Brazzaville",
+      "state_code": "BZV"
+    },
+    {
+      "name": "Cuvette Department",
+      "state_code": "8"
+    },
+    {
+      "name": "Cuvette-Ouest Department",
+      "state_code": "15"
+    },
+    {
+      "name": "Kouilou Department",
+      "state_code": "5"
+    },
+    {
+      "name": "Lékoumou Department",
+      "state_code": "2"
+    },
+    {
+      "name": "Likouala Department",
+      "state_code": "7"
+    },
+    {
+      "name": "Niari Department",
+      "state_code": "9"
+    },
+    {
+      "name": "Plateaux Department",
+      "state_code": "14"
+    },
+    {
+      "name": "Pointe-Noire",
+      "state_code": "16"
+    },
+    {
+      "name": "Pool Department",
+      "state_code": "12"
+    },
+    {
+      "name": "Sangha Department",
+      "state_code": "13"
+    }
+  ]
+}

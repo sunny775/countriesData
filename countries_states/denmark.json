@@ -1,0 +1,26 @@
+{
+  "name": "Denmark",
+  "iso3": "DNK",
+  "states": [
+    {
+      "name": "Capital Region of Denmark",
+      "state_code": "84"
+    },
+    {
+      "name": "Central Denmark Region",
+      "state_code": "82"
+    },
+    {
+      "name": "North Denmark Region",
+      "state_code": "81"
+    },
+    {
+      "name": "Region of Southern Denmark",
+      "state_code": "83"
+    },
+    {
+      "name": "Region Zealand",
+      "state_code": "85"
+    }
+  ]
+}

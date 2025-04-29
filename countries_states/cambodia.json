@@ -1,0 +1,98 @@
+{
+  "name": "Cambodia",
+  "iso3": "KHM",
+  "states": [
+    {
+      "name": "Banteay Meanchey Province",
+      "state_code": "1"
+    },
+    {
+      "name": "Battambang Province",
+      "state_code": "2"
+    },
+    {
+      "name": "Kampong Cham Province",
+      "state_code": "3"
+    },
+    {
+      "name": "Kampong Chhnang Province",
+      "state_code": "4"
+    },
+    {
+      "name": "Kampong Speu Province",
+      "state_code": "5"
+    },
+    {
+      "name": "Kampot Province",
+      "state_code": "7"
+    },
+    {
+      "name": "Kandal Province",
+      "state_code": "8"
+    },
+    {
+      "name": "Kep Province",
+      "state_code": "23"
+    },
+    {
+      "name": "Koh Kong Province",
+      "state_code": "9"
+    },
+    {
+      "name": "Kratié Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Mondulkiri Province",
+      "state_code": "11"
+    },
+    {
+      "name": "Oddar Meanchey Province",
+      "state_code": "22"
+    },
+    {
+      "name": "Pailin Province",
+      "state_code": "24"
+    },
+    {
+      "name": "Phnom Penh",
+      "state_code": "12"
+    },
+    {
+      "name": "Preah Vihear Province",
+      "state_code": "13"
+    },
+    {
+      "name": "Prey Veng Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Pursat Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Ratanakiri Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Siem Reap Province",
+      "state_code": "17"
+    },
+    {
+      "name": "Sihanoukville Province",
+      "state_code": "18"
+    },
+    {
+      "name": "Stung Treng Province",
+      "state_code": "19"
+    },
+    {
+      "name": "Svay Rieng Province",
+      "state_code": "20"
+    },
+    {
+      "name": "Takéo Province",
+      "state_code": "21"
+    }
+  ]
+}

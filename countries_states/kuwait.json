@@ -1,0 +1,30 @@
+{
+  "name": "Kuwait",
+  "iso3": "KWT",
+  "states": [
+    {
+      "name": "Al Ahmadi Governorate",
+      "state_code": "AH"
+    },
+    {
+      "name": "Al Farwaniyah Governorate",
+      "state_code": "FA"
+    },
+    {
+      "name": "Al Jahra Governorate",
+      "state_code": "JA"
+    },
+    {
+      "name": "Capital Governorate",
+      "state_code": "KU"
+    },
+    {
+      "name": "Hawalli Governorate",
+      "state_code": "HA"
+    },
+    {
+      "name": "Mubarak Al-Kabeer Governorate",
+      "state_code": "MU"
+    }
+  ]
+}

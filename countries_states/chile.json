@@ -1,0 +1,70 @@
+{
+  "name": "Chile",
+  "iso3": "CHL",
+  "states": [
+    {
+      "name": "Antofagasta Region",
+      "state_code": "AN"
+    },
+    {
+      "name": "Araucanía Region",
+      "state_code": "AR"
+    },
+    {
+      "name": "Arica y Parinacota Region",
+      "state_code": "AP"
+    },
+    {
+      "name": "Atacama Region",
+      "state_code": "AT"
+    },
+    {
+      "name": "Aysén Region",
+      "state_code": "AI"
+    },
+    {
+      "name": "Bío Bío Region",
+      "state_code": "BI"
+    },
+    {
+      "name": "Coquimbo Region",
+      "state_code": "CO"
+    },
+    {
+      "name": "Los Lagos Region",
+      "state_code": "LL"
+    },
+    {
+      "name": "Los Ríos Region",
+      "state_code": "LR"
+    },
+    {
+      "name": "Magellan and the Chilean Antarctic Region",
+      "state_code": "MA"
+    },
+    {
+      "name": "Maule Region",
+      "state_code": "ML"
+    },
+    {
+      "name": "Ñuble Region",
+      "state_code": "NB"
+    },
+    {
+      "name": "O'Higgins",
+      "state_code": "LI"
+    },
+    {
+      "name": "Santiago Metropolitan Region",
+      "state_code": "RM"
+    },
+    {
+      "name": "Tarapacá Region",
+      "state_code": "TA"
+    },
+    {
+      "name": "Valparaíso",
+      "state_code": "VS"
+    }
+  ]
+}

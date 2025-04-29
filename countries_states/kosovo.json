@@ -1,0 +1,34 @@
+{
+  "name": "Kosovo",
+  "iso3": "XKX",
+  "states": [
+    {
+      "name": "Đakovica District (Gjakove)",
+      "state_code": null
+    },
+    {
+      "name": "Gjilan District",
+      "state_code": null
+    },
+    {
+      "name": "Kosovska Mitrovica District",
+      "state_code": null
+    },
+    {
+      "name": "Peć District",
+      "state_code": null
+    },
+    {
+      "name": "Pristina (Priştine)",
+      "state_code": null
+    },
+    {
+      "name": "Prizren District",
+      "state_code": null
+    },
+    {
+      "name": "Uroševac District (Ferizaj)",
+      "state_code": null
+    }
+  ]
+}

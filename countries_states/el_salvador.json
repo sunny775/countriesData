@@ -1,0 +1,62 @@
+{
+  "name": "El Salvador",
+  "iso3": "SLV",
+  "states": [
+    {
+      "name": "Ahuachapán Department",
+      "state_code": "AH"
+    },
+    {
+      "name": "Cabañas Department",
+      "state_code": "CA"
+    },
+    {
+      "name": "Chalatenango Department",
+      "state_code": "CH"
+    },
+    {
+      "name": "Cuscatlán Department",
+      "state_code": "CU"
+    },
+    {
+      "name": "La Libertad Department",
+      "state_code": "LI"
+    },
+    {
+      "name": "La Paz Department",
+      "state_code": "PA"
+    },
+    {
+      "name": "La Unión Department",
+      "state_code": "UN"
+    },
+    {
+      "name": "Morazán Department",
+      "state_code": "MO"
+    },
+    {
+      "name": "San Miguel Department",
+      "state_code": "SM"
+    },
+    {
+      "name": "San Salvador Department",
+      "state_code": "SS"
+    },
+    {
+      "name": "San Vicente Department",
+      "state_code": "SV"
+    },
+    {
+      "name": "Santa Ana Department",
+      "state_code": "SA"
+    },
+    {
+      "name": "Sonsonate Department",
+      "state_code": "SO"
+    },
+    {
+      "name": "Usulután Department",
+      "state_code": "US"
+    }
+  ]
+}

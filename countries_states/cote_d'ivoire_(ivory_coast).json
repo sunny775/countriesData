@@ -1,0 +1,130 @@
+{
+  "name": "Cote D'Ivoire (Ivory Coast)",
+  "iso3": "CIV",
+  "states": [
+    {
+      "name": "Abidjan",
+      "state_code": "AB"
+    },
+    {
+      "name": "Agnéby",
+      "state_code": "16"
+    },
+    {
+      "name": "Bafing Region",
+      "state_code": "17"
+    },
+    {
+      "name": "Bas-Sassandra District",
+      "state_code": "BS"
+    },
+    {
+      "name": "Bas-Sassandra Region",
+      "state_code": "09"
+    },
+    {
+      "name": "Comoé District",
+      "state_code": "CM"
+    },
+    {
+      "name": "Denguélé District",
+      "state_code": "DN"
+    },
+    {
+      "name": "Denguélé Region",
+      "state_code": "10"
+    },
+    {
+      "name": "Dix-Huit Montagnes",
+      "state_code": "06"
+    },
+    {
+      "name": "Fromager",
+      "state_code": "18"
+    },
+    {
+      "name": "Gôh-Djiboua District",
+      "state_code": "GD"
+    },
+    {
+      "name": "Haut-Sassandra",
+      "state_code": "02"
+    },
+    {
+      "name": "Lacs District",
+      "state_code": "LC"
+    },
+    {
+      "name": "Lacs Region",
+      "state_code": "07"
+    },
+    {
+      "name": "Lagunes District",
+      "state_code": "LG"
+    },
+    {
+      "name": "Lagunes region",
+      "state_code": "01"
+    },
+    {
+      "name": "Marahoué Region",
+      "state_code": "12"
+    },
+    {
+      "name": "Montagnes District",
+      "state_code": "MG"
+    },
+    {
+      "name": "Moyen-Cavally",
+      "state_code": "19"
+    },
+    {
+      "name": "Moyen-Comoé",
+      "state_code": "05"
+    },
+    {
+      "name": "N'zi-Comoé",
+      "state_code": "11"
+    },
+    {
+      "name": "Sassandra-Marahoué District",
+      "state_code": "SM"
+    },
+    {
+      "name": "Savanes Region",
+      "state_code": "03"
+    },
+    {
+      "name": "Sud-Bandama",
+      "state_code": "15"
+    },
+    {
+      "name": "Sud-Comoé",
+      "state_code": "13"
+    },
+    {
+      "name": "Vallée du Bandama District",
+      "state_code": "VB"
+    },
+    {
+      "name": "Vallée du Bandama Region",
+      "state_code": "04"
+    },
+    {
+      "name": "Woroba District",
+      "state_code": "WR"
+    },
+    {
+      "name": "Worodougou",
+      "state_code": "14"
+    },
+    {
+      "name": "Yamoussoukro",
+      "state_code": "YM"
+    },
+    {
+      "name": "Zanzan Region",
+      "state_code": "ZZ"
+    }
+  ]
+}

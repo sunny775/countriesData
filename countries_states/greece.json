@@ -1,0 +1,158 @@
+{
+  "name": "Greece",
+  "iso3": "GRC",
+  "states": [
+    {
+      "name": "Achaea Regional Unit",
+      "state_code": "13"
+    },
+    {
+      "name": "Aetolia-Acarnania Regional Unit",
+      "state_code": "01"
+    },
+    {
+      "name": "Arcadia Prefecture",
+      "state_code": "12"
+    },
+    {
+      "name": "Argolis Regional Unit",
+      "state_code": "11"
+    },
+    {
+      "name": "Attica Region",
+      "state_code": "I"
+    },
+    {
+      "name": "Boeotia Regional Unit",
+      "state_code": "03"
+    },
+    {
+      "name": "Central Greece Region",
+      "state_code": "H"
+    },
+    {
+      "name": "Central Macedonia",
+      "state_code": "B"
+    },
+    {
+      "name": "Chania Regional Unit",
+      "state_code": "94"
+    },
+    {
+      "name": "Corfu Prefecture",
+      "state_code": "22"
+    },
+    {
+      "name": "Corinthia Regional Unit",
+      "state_code": "15"
+    },
+    {
+      "name": "Crete Region",
+      "state_code": "M"
+    },
+    {
+      "name": "Drama Regional Unit",
+      "state_code": "52"
+    },
+    {
+      "name": "East Attica Regional Unit",
+      "state_code": "A2"
+    },
+    {
+      "name": "East Macedonia and Thrace",
+      "state_code": "A"
+    },
+    {
+      "name": "Epirus Region",
+      "state_code": "D"
+    },
+    {
+      "name": "Euboea",
+      "state_code": "04"
+    },
+    {
+      "name": "Grevena Prefecture",
+      "state_code": "51"
+    },
+    {
+      "name": "Imathia Regional Unit",
+      "state_code": "53"
+    },
+    {
+      "name": "Ioannina Regional Unit",
+      "state_code": "33"
+    },
+    {
+      "name": "Ionian Islands Region",
+      "state_code": "F"
+    },
+    {
+      "name": "Karditsa Regional Unit",
+      "state_code": "41"
+    },
+    {
+      "name": "Kastoria Regional Unit",
+      "state_code": "56"
+    },
+    {
+      "name": "Kefalonia Prefecture",
+      "state_code": "23"
+    },
+    {
+      "name": "Kilkis Regional Unit",
+      "state_code": "57"
+    },
+    {
+      "name": "Kozani Prefecture",
+      "state_code": "58"
+    },
+    {
+      "name": "Laconia",
+      "state_code": "16"
+    },
+    {
+      "name": "Larissa Prefecture",
+      "state_code": "42"
+    },
+    {
+      "name": "Lefkada Regional Unit",
+      "state_code": "24"
+    },
+    {
+      "name": "Pella Regional Unit",
+      "state_code": "59"
+    },
+    {
+      "name": "Peloponnese Region",
+      "state_code": "J"
+    },
+    {
+      "name": "Phthiotis Prefecture",
+      "state_code": "06"
+    },
+    {
+      "name": "Preveza Prefecture",
+      "state_code": "34"
+    },
+    {
+      "name": "Serres Prefecture",
+      "state_code": "62"
+    },
+    {
+      "name": "South Aegean",
+      "state_code": "L"
+    },
+    {
+      "name": "Thessaloniki Regional Unit",
+      "state_code": "54"
+    },
+    {
+      "name": "West Greece Region",
+      "state_code": "G"
+    },
+    {
+      "name": "West Macedonia Region",
+      "state_code": "C"
+    }
+  ]
+}

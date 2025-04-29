@@ -1,0 +1,258 @@
+{
+  "name": "Vietnam",
+  "iso3": "VNM",
+  "states": [
+    {
+      "name": "An Giang",
+      "state_code": "44"
+    },
+    {
+      "name": "Bà Rịa-Vũng Tàu",
+      "state_code": "43"
+    },
+    {
+      "name": "Bắc Giang",
+      "state_code": "54"
+    },
+    {
+      "name": "Bắc Kạn",
+      "state_code": "53"
+    },
+    {
+      "name": "Bạc Liêu",
+      "state_code": "55"
+    },
+    {
+      "name": "Bắc Ninh",
+      "state_code": "56"
+    },
+    {
+      "name": "Bến Tre",
+      "state_code": "50"
+    },
+    {
+      "name": "Bình Dương",
+      "state_code": "57"
+    },
+    {
+      "name": "Bình Định",
+      "state_code": "31"
+    },
+    {
+      "name": "Bình Phước",
+      "state_code": "58"
+    },
+    {
+      "name": "Bình Thuận",
+      "state_code": "40"
+    },
+    {
+      "name": "Cà Mau",
+      "state_code": "59"
+    },
+    {
+      "name": "Cao Bằng",
+      "state_code": "04"
+    },
+    {
+      "name": "Da Nang",
+      "state_code": "DN"
+    },
+    {
+      "name": "Đắk Lắk",
+      "state_code": "33"
+    },
+    {
+      "name": "Đắk Nông",
+      "state_code": "72"
+    },
+    {
+      "name": "Điện Biên",
+      "state_code": "71"
+    },
+    {
+      "name": "Đồng Nai",
+      "state_code": "39"
+    },
+    {
+      "name": "Đồng Tháp",
+      "state_code": "45"
+    },
+    {
+      "name": "Gia Lai",
+      "state_code": "30"
+    },
+    {
+      "name": "Hà Giang",
+      "state_code": "03"
+    },
+    {
+      "name": "Hà Nam",
+      "state_code": "63"
+    },
+    {
+      "name": "Hà Tây",
+      "state_code": "15"
+    },
+    {
+      "name": "Hà Tĩnh",
+      "state_code": "23"
+    },
+    {
+      "name": "Hải Dương",
+      "state_code": "61"
+    },
+    {
+      "name": "Haiphong",
+      "state_code": "HP"
+    },
+    {
+      "name": "Hanoi",
+      "state_code": "HN"
+    },
+    {
+      "name": "Hậu Giang",
+      "state_code": "73"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "state_code": "SG"
+    },
+    {
+      "name": "Hòa Bình",
+      "state_code": "14"
+    },
+    {
+      "name": "Hưng Yên",
+      "state_code": "66"
+    },
+    {
+      "name": "Khánh Hòa",
+      "state_code": "34"
+    },
+    {
+      "name": "Kiên Giang",
+      "state_code": "47"
+    },
+    {
+      "name": "Kon Tum",
+      "state_code": "28"
+    },
+    {
+      "name": "Lai Châu",
+      "state_code": "01"
+    },
+    {
+      "name": "Lâm Đồng",
+      "state_code": "35"
+    },
+    {
+      "name": "Lạng Sơn",
+      "state_code": "09"
+    },
+    {
+      "name": "Lào Cai",
+      "state_code": "02"
+    },
+    {
+      "name": "Long An",
+      "state_code": "41"
+    },
+    {
+      "name": "Nam Định",
+      "state_code": "67"
+    },
+    {
+      "name": "Nghệ An",
+      "state_code": "22"
+    },
+    {
+      "name": "Ninh Bình",
+      "state_code": "18"
+    },
+    {
+      "name": "Ninh Thuận",
+      "state_code": "36"
+    },
+    {
+      "name": "Phú Thọ",
+      "state_code": "68"
+    },
+    {
+      "name": "Phú Yên",
+      "state_code": "32"
+    },
+    {
+      "name": "Quảng Bình",
+      "state_code": "24"
+    },
+    {
+      "name": "Quảng Nam",
+      "state_code": "27"
+    },
+    {
+      "name": "Quảng Ngãi",
+      "state_code": "29"
+    },
+    {
+      "name": "Quảng Ninh",
+      "state_code": "13"
+    },
+    {
+      "name": "Quảng Trị",
+      "state_code": "25"
+    },
+    {
+      "name": "Sóc Trăng",
+      "state_code": "52"
+    },
+    {
+      "name": "Sơn La",
+      "state_code": "05"
+    },
+    {
+      "name": "Tây Ninh",
+      "state_code": "37"
+    },
+    {
+      "name": "Thái Bình",
+      "state_code": "20"
+    },
+    {
+      "name": "Thái Nguyên",
+      "state_code": "69"
+    },
+    {
+      "name": "Thanh Hóa",
+      "state_code": "21"
+    },
+    {
+      "name": "Thừa Thiên-Huế",
+      "state_code": "26"
+    },
+    {
+      "name": "Tiền Giang",
+      "state_code": "46"
+    },
+    {
+      "name": "Trà Vinh",
+      "state_code": "51"
+    },
+    {
+      "name": "Tuyên Quang",
+      "state_code": "07"
+    },
+    {
+      "name": "Vĩnh Long",
+      "state_code": "49"
+    },
+    {
+      "name": "Vĩnh Phúc",
+      "state_code": "70"
+    },
+    {
+      "name": "Yên Bái",
+      "state_code": "06"
+    }
+  ]
+}

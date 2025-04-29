@@ -1,0 +1,74 @@
+{
+  "name": "Paraguay",
+  "iso3": "PRY",
+  "states": [
+    {
+      "name": "Alto Paraguay Department",
+      "state_code": "16"
+    },
+    {
+      "name": "Alto Paraná Department",
+      "state_code": "10"
+    },
+    {
+      "name": "Amambay Department",
+      "state_code": "13"
+    },
+    {
+      "name": "Boquerón Department",
+      "state_code": "19"
+    },
+    {
+      "name": "Caaguazú",
+      "state_code": "5"
+    },
+    {
+      "name": "Caazapá",
+      "state_code": "6"
+    },
+    {
+      "name": "Canindeyú",
+      "state_code": "14"
+    },
+    {
+      "name": "Central Department",
+      "state_code": "11"
+    },
+    {
+      "name": "Concepción Department",
+      "state_code": "1"
+    },
+    {
+      "name": "Cordillera Department",
+      "state_code": "3"
+    },
+    {
+      "name": "Guairá Department",
+      "state_code": "4"
+    },
+    {
+      "name": "Itapúa",
+      "state_code": "7"
+    },
+    {
+      "name": "Misiones Department",
+      "state_code": "8"
+    },
+    {
+      "name": "Ñeembucú Department",
+      "state_code": "12"
+    },
+    {
+      "name": "Paraguarí Department",
+      "state_code": "9"
+    },
+    {
+      "name": "Presidente Hayes Department",
+      "state_code": "15"
+    },
+    {
+      "name": "San Pedro Department",
+      "state_code": "2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tajikistan",
+  "iso3": "TJK",
+  "states": [
+    {
+      "name": "districts of Republican Subordination",
+      "state_code": "RA"
+    },
+    {
+      "name": "Gorno-Badakhshan Autonomous Province",
+      "state_code": "GB"
+    },
+    {
+      "name": "Khatlon Province",
+      "state_code": "KT"
+    },
+    {
+      "name": "Sughd Province",
+      "state_code": "SU"
+    }
+  ]
+}

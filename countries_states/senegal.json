@@ -1,0 +1,62 @@
+{
+  "name": "Senegal",
+  "iso3": "SEN",
+  "states": [
+    {
+      "name": "Dakar",
+      "state_code": "DK"
+    },
+    {
+      "name": "Diourbel Region",
+      "state_code": "DB"
+    },
+    {
+      "name": "Fatick",
+      "state_code": "FK"
+    },
+    {
+      "name": "Kaffrine",
+      "state_code": "KA"
+    },
+    {
+      "name": "Kaolack",
+      "state_code": "KL"
+    },
+    {
+      "name": "Kédougou",
+      "state_code": "KE"
+    },
+    {
+      "name": "Kolda",
+      "state_code": "KD"
+    },
+    {
+      "name": "Louga",
+      "state_code": "LG"
+    },
+    {
+      "name": "Matam",
+      "state_code": "MT"
+    },
+    {
+      "name": "Saint-Louis",
+      "state_code": "SL"
+    },
+    {
+      "name": "Sédhiou",
+      "state_code": "SE"
+    },
+    {
+      "name": "Tambacounda Region",
+      "state_code": "TC"
+    },
+    {
+      "name": "Thiès Region",
+      "state_code": "TH"
+    },
+    {
+      "name": "Ziguinchor",
+      "state_code": "ZG"
+    }
+  ]
+}

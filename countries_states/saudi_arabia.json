@@ -1,0 +1,58 @@
+{
+  "name": "Saudi Arabia",
+  "iso3": "SAU",
+  "states": [
+    {
+      "name": "'Asir Region",
+      "state_code": "14"
+    },
+    {
+      "name": "Al Bahah Region",
+      "state_code": "11"
+    },
+    {
+      "name": "Al Jawf Region",
+      "state_code": "12"
+    },
+    {
+      "name": "Al Madinah Region",
+      "state_code": "03"
+    },
+    {
+      "name": "Al-Qassim Region",
+      "state_code": "05"
+    },
+    {
+      "name": "Eastern Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Ha'il Region",
+      "state_code": "06"
+    },
+    {
+      "name": "Jizan Region",
+      "state_code": "09"
+    },
+    {
+      "name": "Makkah Region",
+      "state_code": "02"
+    },
+    {
+      "name": "Najran Region",
+      "state_code": "10"
+    },
+    {
+      "name": "Northern Borders Region",
+      "state_code": "08"
+    },
+    {
+      "name": "Riyadh Region",
+      "state_code": "01"
+    },
+    {
+      "name": "Tabuk Region",
+      "state_code": "07"
+    }
+  ]
+}

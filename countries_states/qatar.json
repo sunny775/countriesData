@@ -1,0 +1,38 @@
+{
+  "name": "Qatar",
+  "iso3": "QAT",
+  "states": [
+    {
+      "name": "Al Daayen",
+      "state_code": "ZA"
+    },
+    {
+      "name": "Al Khor",
+      "state_code": "KH"
+    },
+    {
+      "name": "Al Rayyan Municipality",
+      "state_code": "RA"
+    },
+    {
+      "name": "Al Wakrah",
+      "state_code": "WA"
+    },
+    {
+      "name": "Al-Shahaniya",
+      "state_code": "SH"
+    },
+    {
+      "name": "Doha",
+      "state_code": "DA"
+    },
+    {
+      "name": "Madinat ash Shamal",
+      "state_code": "MS"
+    },
+    {
+      "name": "Umm Salal Municipality",
+      "state_code": "US"
+    }
+  ]
+}

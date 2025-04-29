@@ -1,0 +1,38 @@
+{
+  "name": "Slovakia",
+  "iso3": "SVK",
+  "states": [
+    {
+      "name": "Banská Bystrica Region",
+      "state_code": "BC"
+    },
+    {
+      "name": "Bratislava Region",
+      "state_code": "BL"
+    },
+    {
+      "name": "Košice Region",
+      "state_code": "KI"
+    },
+    {
+      "name": "Nitra Region",
+      "state_code": "NI"
+    },
+    {
+      "name": "Prešov Region",
+      "state_code": "PV"
+    },
+    {
+      "name": "Trenčín Region",
+      "state_code": "TC"
+    },
+    {
+      "name": "Trnava Region",
+      "state_code": "TA"
+    },
+    {
+      "name": "Žilina Region",
+      "state_code": "ZI"
+    }
+  ]
+}

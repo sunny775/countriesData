@@ -1,0 +1,66 @@
+{
+  "name": "Myanmar",
+  "iso3": "MMR",
+  "states": [
+    {
+      "name": "Ayeyarwady Region",
+      "state_code": "07"
+    },
+    {
+      "name": "Bago",
+      "state_code": "02"
+    },
+    {
+      "name": "Chin State",
+      "state_code": "14"
+    },
+    {
+      "name": "Kachin State",
+      "state_code": "11"
+    },
+    {
+      "name": "Kayah State",
+      "state_code": "12"
+    },
+    {
+      "name": "Kayin State",
+      "state_code": "13"
+    },
+    {
+      "name": "Magway Region",
+      "state_code": "03"
+    },
+    {
+      "name": "Mandalay Region",
+      "state_code": "04"
+    },
+    {
+      "name": "Mon State",
+      "state_code": "15"
+    },
+    {
+      "name": "Naypyidaw Union Territory",
+      "state_code": "18"
+    },
+    {
+      "name": "Rakhine State",
+      "state_code": "16"
+    },
+    {
+      "name": "Sagaing Region",
+      "state_code": "01"
+    },
+    {
+      "name": "Shan State",
+      "state_code": "17"
+    },
+    {
+      "name": "Tanintharyi Region",
+      "state_code": "05"
+    },
+    {
+      "name": "Yangon Region",
+      "state_code": "06"
+    }
+  ]
+}

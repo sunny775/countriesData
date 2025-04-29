@@ -1,0 +1,330 @@
+{
+  "name": "Turkey",
+  "iso3": "TUR",
+  "states": [
+    {
+      "name": "Adana Province",
+      "state_code": "01"
+    },
+    {
+      "name": "Adıyaman Province",
+      "state_code": "02"
+    },
+    {
+      "name": "Afyonkarahisar Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Ağrı Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Aksaray Province",
+      "state_code": "68"
+    },
+    {
+      "name": "Amasya Province",
+      "state_code": "05"
+    },
+    {
+      "name": "Ankara Province",
+      "state_code": "06"
+    },
+    {
+      "name": "Antalya Province",
+      "state_code": "07"
+    },
+    {
+      "name": "Ardahan Province",
+      "state_code": "75"
+    },
+    {
+      "name": "Artvin Province",
+      "state_code": "08"
+    },
+    {
+      "name": "Aydın Province",
+      "state_code": "09"
+    },
+    {
+      "name": "Balıkesir Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Bartın Province",
+      "state_code": "74"
+    },
+    {
+      "name": "Batman Province",
+      "state_code": "72"
+    },
+    {
+      "name": "Bayburt Province",
+      "state_code": "69"
+    },
+    {
+      "name": "Bilecik Province",
+      "state_code": "11"
+    },
+    {
+      "name": "Bingöl Province",
+      "state_code": "12"
+    },
+    {
+      "name": "Bitlis Province",
+      "state_code": "13"
+    },
+    {
+      "name": "Bolu Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Burdur Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Bursa Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Çanakkale Province",
+      "state_code": "17"
+    },
+    {
+      "name": "Çankırı Province",
+      "state_code": "18"
+    },
+    {
+      "name": "Çorum Province",
+      "state_code": "19"
+    },
+    {
+      "name": "Denizli Province",
+      "state_code": "20"
+    },
+    {
+      "name": "Diyarbakır Province",
+      "state_code": "21"
+    },
+    {
+      "name": "Düzce Province",
+      "state_code": "81"
+    },
+    {
+      "name": "Edirne Province",
+      "state_code": "22"
+    },
+    {
+      "name": "Elazığ Province",
+      "state_code": "23"
+    },
+    {
+      "name": "Erzincan Province",
+      "state_code": "24"
+    },
+    {
+      "name": "Erzurum Province",
+      "state_code": "25"
+    },
+    {
+      "name": "Eskişehir Province",
+      "state_code": "26"
+    },
+    {
+      "name": "Gaziantep Province",
+      "state_code": "27"
+    },
+    {
+      "name": "Giresun Province",
+      "state_code": "28"
+    },
+    {
+      "name": "Gümüşhane Province",
+      "state_code": "29"
+    },
+    {
+      "name": "Hakkâri Province",
+      "state_code": "30"
+    },
+    {
+      "name": "Hatay Province",
+      "state_code": "31"
+    },
+    {
+      "name": "Iğdır Province",
+      "state_code": "76"
+    },
+    {
+      "name": "Isparta Province",
+      "state_code": "32"
+    },
+    {
+      "name": "Istanbul Province",
+      "state_code": "34"
+    },
+    {
+      "name": "İzmir Province",
+      "state_code": "35"
+    },
+    {
+      "name": "Kahramanmaraş Province",
+      "state_code": "46"
+    },
+    {
+      "name": "Karabük Province",
+      "state_code": "78"
+    },
+    {
+      "name": "Karaman Province",
+      "state_code": "70"
+    },
+    {
+      "name": "Kars Province",
+      "state_code": "36"
+    },
+    {
+      "name": "Kastamonu Province",
+      "state_code": "37"
+    },
+    {
+      "name": "Kayseri Province",
+      "state_code": "38"
+    },
+    {
+      "name": "Kilis Province",
+      "state_code": "79"
+    },
+    {
+      "name": "Kırıkkale Province",
+      "state_code": "71"
+    },
+    {
+      "name": "Kırklareli Province",
+      "state_code": "39"
+    },
+    {
+      "name": "Kırşehir Province",
+      "state_code": "40"
+    },
+    {
+      "name": "Kocaeli Province",
+      "state_code": "41"
+    },
+    {
+      "name": "Konya Province",
+      "state_code": "42"
+    },
+    {
+      "name": "Kütahya Province",
+      "state_code": "43"
+    },
+    {
+      "name": "Malatya Province",
+      "state_code": "44"
+    },
+    {
+      "name": "Manisa Province",
+      "state_code": "45"
+    },
+    {
+      "name": "Mardin Province",
+      "state_code": "47"
+    },
+    {
+      "name": "Mersin Province",
+      "state_code": "33"
+    },
+    {
+      "name": "Muğla Province",
+      "state_code": "48"
+    },
+    {
+      "name": "Muş Province",
+      "state_code": "49"
+    },
+    {
+      "name": "Nevşehir Province",
+      "state_code": "50"
+    },
+    {
+      "name": "Niğde Province",
+      "state_code": "51"
+    },
+    {
+      "name": "Ordu Province",
+      "state_code": "52"
+    },
+    {
+      "name": "Osmaniye Province",
+      "state_code": "80"
+    },
+    {
+      "name": "Rize Province",
+      "state_code": "53"
+    },
+    {
+      "name": "Sakarya Province",
+      "state_code": "54"
+    },
+    {
+      "name": "Samsun Province",
+      "state_code": "55"
+    },
+    {
+      "name": "Şanlıurfa Province",
+      "state_code": "63"
+    },
+    {
+      "name": "Siirt Province",
+      "state_code": "56"
+    },
+    {
+      "name": "Sinop Province",
+      "state_code": "57"
+    },
+    {
+      "name": "Sivas Province",
+      "state_code": "58"
+    },
+    {
+      "name": "Şırnak Province",
+      "state_code": "73"
+    },
+    {
+      "name": "Tekirdağ Province",
+      "state_code": "59"
+    },
+    {
+      "name": "Tokat Province",
+      "state_code": "60"
+    },
+    {
+      "name": "Trabzon Province",
+      "state_code": "61"
+    },
+    {
+      "name": "Tunceli Province",
+      "state_code": "62"
+    },
+    {
+      "name": "Uşak Province",
+      "state_code": "64"
+    },
+    {
+      "name": "Van Province",
+      "state_code": "65"
+    },
+    {
+      "name": "Yalova Province",
+      "state_code": "77"
+    },
+    {
+      "name": "Yozgat Province",
+      "state_code": "66"
+    },
+    {
+      "name": "Zonguldak Province",
+      "state_code": "67"
+    }
+  ]
+}

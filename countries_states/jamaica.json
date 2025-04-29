@@ -1,0 +1,62 @@
+{
+  "name": "Jamaica",
+  "iso3": "JAM",
+  "states": [
+    {
+      "name": "Clarendon Parish",
+      "state_code": "13"
+    },
+    {
+      "name": "Hanover Parish",
+      "state_code": "09"
+    },
+    {
+      "name": "Kingston Parish",
+      "state_code": "01"
+    },
+    {
+      "name": "Manchester Parish",
+      "state_code": "12"
+    },
+    {
+      "name": "Portland Parish",
+      "state_code": "04"
+    },
+    {
+      "name": "Saint Andrew",
+      "state_code": "02"
+    },
+    {
+      "name": "Saint Ann Parish",
+      "state_code": "06"
+    },
+    {
+      "name": "Saint Catherine Parish",
+      "state_code": "14"
+    },
+    {
+      "name": "Saint Elizabeth Parish",
+      "state_code": "11"
+    },
+    {
+      "name": "Saint James Parish",
+      "state_code": "08"
+    },
+    {
+      "name": "Saint Mary Parish",
+      "state_code": "05"
+    },
+    {
+      "name": "Saint Thomas Parish",
+      "state_code": "03"
+    },
+    {
+      "name": "Trelawny Parish",
+      "state_code": "07"
+    },
+    {
+      "name": "Westmoreland Parish",
+      "state_code": "10"
+    }
+  ]
+}

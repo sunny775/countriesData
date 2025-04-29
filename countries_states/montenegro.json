@@ -1,0 +1,94 @@
+{
+  "name": "Montenegro",
+  "iso3": "MNE",
+  "states": [
+    {
+      "name": "Andrijevica Municipality",
+      "state_code": "01"
+    },
+    {
+      "name": "Bar Municipality",
+      "state_code": "02"
+    },
+    {
+      "name": "Berane Municipality",
+      "state_code": "03"
+    },
+    {
+      "name": "Bijelo Polje Municipality",
+      "state_code": "04"
+    },
+    {
+      "name": "Budva Municipality",
+      "state_code": "05"
+    },
+    {
+      "name": "Danilovgrad Municipality",
+      "state_code": "07"
+    },
+    {
+      "name": "Gusinje Municipality",
+      "state_code": "22"
+    },
+    {
+      "name": "Kolašin Municipality",
+      "state_code": "09"
+    },
+    {
+      "name": "Kotor Municipality",
+      "state_code": "10"
+    },
+    {
+      "name": "Mojkovac Municipality",
+      "state_code": "11"
+    },
+    {
+      "name": "Nikšić Municipality",
+      "state_code": "12"
+    },
+    {
+      "name": "Old Royal Capital Cetinje",
+      "state_code": "06"
+    },
+    {
+      "name": "Petnjica Municipality",
+      "state_code": "23"
+    },
+    {
+      "name": "Plav Municipality",
+      "state_code": "13"
+    },
+    {
+      "name": "Pljevlja Municipality",
+      "state_code": "14"
+    },
+    {
+      "name": "Plužine Municipality",
+      "state_code": "15"
+    },
+    {
+      "name": "Podgorica Municipality",
+      "state_code": "16"
+    },
+    {
+      "name": "Rožaje Municipality",
+      "state_code": "17"
+    },
+    {
+      "name": "Šavnik Municipality",
+      "state_code": "18"
+    },
+    {
+      "name": "Tivat Municipality",
+      "state_code": "19"
+    },
+    {
+      "name": "Ulcinj Municipality",
+      "state_code": "20"
+    },
+    {
+      "name": "Žabljak Municipality",
+      "state_code": "21"
+    }
+  ]
+}

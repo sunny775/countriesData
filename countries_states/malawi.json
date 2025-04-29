@@ -1,0 +1,126 @@
+{
+  "name": "Malawi",
+  "iso3": "MWI",
+  "states": [
+    {
+      "name": "Balaka District",
+      "state_code": "BA"
+    },
+    {
+      "name": "Blantyre District",
+      "state_code": "BL"
+    },
+    {
+      "name": "Central Region",
+      "state_code": "C"
+    },
+    {
+      "name": "Chikwawa District",
+      "state_code": "CK"
+    },
+    {
+      "name": "Chiradzulu District",
+      "state_code": "CR"
+    },
+    {
+      "name": "Chitipa district",
+      "state_code": "CT"
+    },
+    {
+      "name": "Dedza District",
+      "state_code": "DE"
+    },
+    {
+      "name": "Dowa District",
+      "state_code": "DO"
+    },
+    {
+      "name": "Karonga District",
+      "state_code": "KR"
+    },
+    {
+      "name": "Kasungu District",
+      "state_code": "KS"
+    },
+    {
+      "name": "Likoma District",
+      "state_code": "LK"
+    },
+    {
+      "name": "Lilongwe District",
+      "state_code": "LI"
+    },
+    {
+      "name": "Machinga District",
+      "state_code": "MH"
+    },
+    {
+      "name": "Mangochi District",
+      "state_code": "MG"
+    },
+    {
+      "name": "Mchinji District",
+      "state_code": "MC"
+    },
+    {
+      "name": "Mulanje District",
+      "state_code": "MU"
+    },
+    {
+      "name": "Mwanza District",
+      "state_code": "MW"
+    },
+    {
+      "name": "Mzimba District",
+      "state_code": "MZ"
+    },
+    {
+      "name": "Nkhata Bay District",
+      "state_code": "NB"
+    },
+    {
+      "name": "Nkhotakota District",
+      "state_code": "NK"
+    },
+    {
+      "name": "Northern Region",
+      "state_code": "N"
+    },
+    {
+      "name": "Nsanje District",
+      "state_code": "NS"
+    },
+    {
+      "name": "Ntcheu District",
+      "state_code": "NU"
+    },
+    {
+      "name": "Ntchisi District",
+      "state_code": "NI"
+    },
+    {
+      "name": "Phalombe District",
+      "state_code": "PH"
+    },
+    {
+      "name": "Rumphi District",
+      "state_code": "RU"
+    },
+    {
+      "name": "Salima District",
+      "state_code": "SA"
+    },
+    {
+      "name": "Southern Region",
+      "state_code": "S"
+    },
+    {
+      "name": "Thyolo District",
+      "state_code": "TH"
+    },
+    {
+      "name": "Zomba District",
+      "state_code": "ZO"
+    }
+  ]
+}

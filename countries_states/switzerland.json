@@ -1,0 +1,106 @@
+{
+  "name": "Switzerland",
+  "iso3": "CHE",
+  "states": [
+    {
+      "name": "Aargau",
+      "state_code": "AG"
+    },
+    {
+      "name": "Appenzell Ausserrhoden",
+      "state_code": "AR"
+    },
+    {
+      "name": "Appenzell Innerrhoden",
+      "state_code": "AI"
+    },
+    {
+      "name": "Basel-Landschaft",
+      "state_code": "BL"
+    },
+    {
+      "name": "canton of Bern",
+      "state_code": "BE"
+    },
+    {
+      "name": "Canton of Fribourg",
+      "state_code": "FR"
+    },
+    {
+      "name": "Canton of Geneva",
+      "state_code": "GE"
+    },
+    {
+      "name": "Canton of Jura",
+      "state_code": "JU"
+    },
+    {
+      "name": "Canton of Lucerne",
+      "state_code": "LU"
+    },
+    {
+      "name": "Canton of Neuchâtel",
+      "state_code": "NE"
+    },
+    {
+      "name": "Canton of Schaffhausen",
+      "state_code": "SH"
+    },
+    {
+      "name": "Canton of Solothurn",
+      "state_code": "SO"
+    },
+    {
+      "name": "Canton of St. Gallen",
+      "state_code": "SG"
+    },
+    {
+      "name": "Canton of Valais",
+      "state_code": "VS"
+    },
+    {
+      "name": "Canton of Vaud",
+      "state_code": "VD"
+    },
+    {
+      "name": "Canton of Zug",
+      "state_code": "ZG"
+    },
+    {
+      "name": "canton of Zürich",
+      "state_code": "ZH"
+    },
+    {
+      "name": "Glarus",
+      "state_code": "GL"
+    },
+    {
+      "name": "Graubünden",
+      "state_code": "GR"
+    },
+    {
+      "name": "Nidwalden",
+      "state_code": "NW"
+    },
+    {
+      "name": "Obwalden",
+      "state_code": "OW"
+    },
+    {
+      "name": "Schwyz",
+      "state_code": "SZ"
+    },
+    {
+      "name": "Thurgau",
+      "state_code": "TG"
+    },
+    {
+      "name": "Ticino",
+      "state_code": "TI"
+    },
+    {
+      "name": "Uri",
+      "state_code": "UR"
+    }
+  ]
+}

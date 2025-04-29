@@ -1,0 +1,66 @@
+{
+  "name": "Netherlands The",
+  "iso3": "NLD",
+  "states": [
+    {
+      "name": "Bonaire",
+      "state_code": "BQ1"
+    },
+    {
+      "name": "Drenthe",
+      "state_code": "DR"
+    },
+    {
+      "name": "Flevoland",
+      "state_code": "FL"
+    },
+    {
+      "name": "Friesland",
+      "state_code": "FR"
+    },
+    {
+      "name": "Gelderland",
+      "state_code": "GE"
+    },
+    {
+      "name": "Groningen",
+      "state_code": "GR"
+    },
+    {
+      "name": "Limburg",
+      "state_code": "LI"
+    },
+    {
+      "name": "North Brabant",
+      "state_code": "NB"
+    },
+    {
+      "name": "North Holland",
+      "state_code": "NH"
+    },
+    {
+      "name": "Overijssel",
+      "state_code": "OV"
+    },
+    {
+      "name": "Saba",
+      "state_code": "BQ2"
+    },
+    {
+      "name": "Sint Eustatius",
+      "state_code": "BQ3"
+    },
+    {
+      "name": "South Holland",
+      "state_code": "ZH"
+    },
+    {
+      "name": "Utrecht",
+      "state_code": "UT"
+    },
+    {
+      "name": "Zeeland",
+      "state_code": "ZE"
+    }
+  ]
+}

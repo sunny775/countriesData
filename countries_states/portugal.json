@@ -1,0 +1,86 @@
+{
+  "name": "Portugal",
+  "iso3": "PRT",
+  "states": [
+    {
+      "name": "Aveiro District",
+      "state_code": "01"
+    },
+    {
+      "name": "Azores",
+      "state_code": "20"
+    },
+    {
+      "name": "Beja District",
+      "state_code": "02"
+    },
+    {
+      "name": "Braga District",
+      "state_code": "03"
+    },
+    {
+      "name": "Bragança District",
+      "state_code": "04"
+    },
+    {
+      "name": "Castelo Branco District",
+      "state_code": "05"
+    },
+    {
+      "name": "Coimbra District",
+      "state_code": "06"
+    },
+    {
+      "name": "Évora District",
+      "state_code": "07"
+    },
+    {
+      "name": "Faro District",
+      "state_code": "08"
+    },
+    {
+      "name": "Guarda District",
+      "state_code": "09"
+    },
+    {
+      "name": "Leiria District",
+      "state_code": "10"
+    },
+    {
+      "name": "Lisbon District",
+      "state_code": "11"
+    },
+    {
+      "name": "Madeira",
+      "state_code": "30"
+    },
+    {
+      "name": "Portalegre District",
+      "state_code": "12"
+    },
+    {
+      "name": "Porto District",
+      "state_code": "13"
+    },
+    {
+      "name": "Santarém District",
+      "state_code": "14"
+    },
+    {
+      "name": "Setúbal District",
+      "state_code": "15"
+    },
+    {
+      "name": "Viana do Castelo District",
+      "state_code": "16"
+    },
+    {
+      "name": "Vila Real District",
+      "state_code": "17"
+    },
+    {
+      "name": "Viseu District",
+      "state_code": "18"
+    }
+  ]
+}

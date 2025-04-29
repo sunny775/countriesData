@@ -1,0 +1,46 @@
+{
+  "name": "Guyana",
+  "iso3": "GUY",
+  "states": [
+    {
+      "name": "Barima-Waini",
+      "state_code": "BA"
+    },
+    {
+      "name": "Cuyuni-Mazaruni",
+      "state_code": "CU"
+    },
+    {
+      "name": "Demerara-Mahaica",
+      "state_code": "DE"
+    },
+    {
+      "name": "East Berbice-Corentyne",
+      "state_code": "EB"
+    },
+    {
+      "name": "Essequibo Islands-West Demerara",
+      "state_code": "ES"
+    },
+    {
+      "name": "Mahaica-Berbice",
+      "state_code": "MA"
+    },
+    {
+      "name": "Pomeroon-Supenaam",
+      "state_code": "PM"
+    },
+    {
+      "name": "Potaro-Siparuni",
+      "state_code": "PT"
+    },
+    {
+      "name": "Upper Demerara-Berbice",
+      "state_code": "UD"
+    },
+    {
+      "name": "Upper Takutu-Upper Essequibo",
+      "state_code": "UT"
+    }
+  ]
+}

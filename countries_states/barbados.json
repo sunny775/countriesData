@@ -1,0 +1,50 @@
+{
+  "name": "Barbados",
+  "iso3": "BRB",
+  "states": [
+    {
+      "name": "Christ Church",
+      "state_code": "01"
+    },
+    {
+      "name": "Saint Andrew",
+      "state_code": "02"
+    },
+    {
+      "name": "Saint George",
+      "state_code": "03"
+    },
+    {
+      "name": "Saint James",
+      "state_code": "04"
+    },
+    {
+      "name": "Saint John",
+      "state_code": "05"
+    },
+    {
+      "name": "Saint Joseph",
+      "state_code": "06"
+    },
+    {
+      "name": "Saint Lucy",
+      "state_code": "07"
+    },
+    {
+      "name": "Saint Michael",
+      "state_code": "08"
+    },
+    {
+      "name": "Saint Peter",
+      "state_code": "09"
+    },
+    {
+      "name": "Saint Philip",
+      "state_code": "10"
+    },
+    {
+      "name": "Saint Thomas",
+      "state_code": "11"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Dominica",
+  "iso3": "DMA",
+  "states": [
+    {
+      "name": "Saint Andrew Parish",
+      "state_code": "02"
+    },
+    {
+      "name": "Saint David Parish",
+      "state_code": "03"
+    },
+    {
+      "name": "Saint George Parish",
+      "state_code": "04"
+    },
+    {
+      "name": "Saint John Parish",
+      "state_code": "05"
+    },
+    {
+      "name": "Saint Joseph Parish",
+      "state_code": "06"
+    },
+    {
+      "name": "Saint Luke Parish",
+      "state_code": "07"
+    },
+    {
+      "name": "Saint Mark Parish",
+      "state_code": "08"
+    },
+    {
+      "name": "Saint Patrick Parish",
+      "state_code": "09"
+    },
+    {
+      "name": "Saint Paul Parish",
+      "state_code": "10"
+    },
+    {
+      "name": "Saint Peter Parish",
+      "state_code": "11"
+    }
+  ]
+}

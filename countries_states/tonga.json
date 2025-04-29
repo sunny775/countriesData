@@ -1,0 +1,26 @@
+{
+  "name": "Tonga",
+  "iso3": "TON",
+  "states": [
+    {
+      "name": "Haʻapai",
+      "state_code": "02"
+    },
+    {
+      "name": "ʻEua",
+      "state_code": "01"
+    },
+    {
+      "name": "Niuas",
+      "state_code": "03"
+    },
+    {
+      "name": "Tongatapu",
+      "state_code": "04"
+    },
+    {
+      "name": "Vavaʻu",
+      "state_code": "05"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Palau",
+  "iso3": "PLW",
+  "states": [
+    {
+      "name": "Aimeliik",
+      "state_code": "002"
+    },
+    {
+      "name": "Airai",
+      "state_code": "004"
+    },
+    {
+      "name": "Angaur",
+      "state_code": "010"
+    },
+    {
+      "name": "Hatohobei",
+      "state_code": "050"
+    },
+    {
+      "name": "Kayangel",
+      "state_code": "100"
+    },
+    {
+      "name": "Koror",
+      "state_code": "150"
+    },
+    {
+      "name": "Melekeok",
+      "state_code": "212"
+    },
+    {
+      "name": "Ngaraard",
+      "state_code": "214"
+    },
+    {
+      "name": "Ngarchelong",
+      "state_code": "218"
+    },
+    {
+      "name": "Ngardmau",
+      "state_code": "222"
+    },
+    {
+      "name": "Ngatpang",
+      "state_code": "224"
+    },
+    {
+      "name": "Ngchesar",
+      "state_code": "226"
+    },
+    {
+      "name": "Ngeremlengui",
+      "state_code": "227"
+    },
+    {
+      "name": "Ngiwal",
+      "state_code": "228"
+    },
+    {
+      "name": "Peleliu",
+      "state_code": "350"
+    },
+    {
+      "name": "Sonsorol",
+      "state_code": "370"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Egypt",
+  "iso3": "EGY",
+  "states": [
+    {
+      "name": "Alexandria Governorate",
+      "state_code": "ALX"
+    },
+    {
+      "name": "Aswan Governorate",
+      "state_code": "ASN"
+    },
+    {
+      "name": "Asyut Governorate",
+      "state_code": "AST"
+    },
+    {
+      "name": "Beheira Governorate",
+      "state_code": "BH"
+    },
+    {
+      "name": "Beni Suef Governorate",
+      "state_code": "BNS"
+    },
+    {
+      "name": "Cairo Governorate",
+      "state_code": "C"
+    },
+    {
+      "name": "Dakahlia Governorate",
+      "state_code": "DK"
+    },
+    {
+      "name": "Damietta Governorate",
+      "state_code": "DT"
+    },
+    {
+      "name": "Faiyum Governorate",
+      "state_code": "FYM"
+    },
+    {
+      "name": "Gharbia Governorate",
+      "state_code": "GH"
+    },
+    {
+      "name": "Giza Governorate",
+      "state_code": "GZ"
+    },
+    {
+      "name": "Ismailia Governorate",
+      "state_code": "IS"
+    },
+    {
+      "name": "Kafr el-Sheikh Governorate",
+      "state_code": "KFS"
+    },
+    {
+      "name": "Luxor Governorate",
+      "state_code": "LX"
+    },
+    {
+      "name": "Matrouh Governorate",
+      "state_code": "MT"
+    },
+    {
+      "name": "Minya Governorate",
+      "state_code": "MN"
+    },
+    {
+      "name": "Monufia Governorate",
+      "state_code": "MNF"
+    },
+    {
+      "name": "New Valley Governorate",
+      "state_code": "WAD"
+    },
+    {
+      "name": "North Sinai Governorate",
+      "state_code": "SIN"
+    },
+    {
+      "name": "Port Said Governorate",
+      "state_code": "PTS"
+    },
+    {
+      "name": "Qalyubia Governorate",
+      "state_code": "KB"
+    },
+    {
+      "name": "Qena Governorate",
+      "state_code": "KN"
+    },
+    {
+      "name": "Red Sea Governorate",
+      "state_code": "BA"
+    },
+    {
+      "name": "Sohag Governorate",
+      "state_code": "SHG"
+    },
+    {
+      "name": "South Sinai Governorate",
+      "state_code": "JS"
+    },
+    {
+      "name": "Suez Governorate",
+      "state_code": "SUZ"
+    }
+  ]
+}

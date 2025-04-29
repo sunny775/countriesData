@@ -1,0 +1,82 @@
+{
+  "name": "Bhutan",
+  "iso3": "BTN",
+  "states": [
+    {
+      "name": "Bumthang District",
+      "state_code": "33"
+    },
+    {
+      "name": "Chukha District",
+      "state_code": "12"
+    },
+    {
+      "name": "Dagana District",
+      "state_code": "22"
+    },
+    {
+      "name": "Gasa District",
+      "state_code": "GA"
+    },
+    {
+      "name": "Haa District",
+      "state_code": "13"
+    },
+    {
+      "name": "Lhuntse District",
+      "state_code": "44"
+    },
+    {
+      "name": "Mongar District",
+      "state_code": "42"
+    },
+    {
+      "name": "Paro District",
+      "state_code": "11"
+    },
+    {
+      "name": "Pemagatshel District",
+      "state_code": "43"
+    },
+    {
+      "name": "Punakha District",
+      "state_code": "23"
+    },
+    {
+      "name": "Samdrup Jongkhar District",
+      "state_code": "45"
+    },
+    {
+      "name": "Samtse District",
+      "state_code": "14"
+    },
+    {
+      "name": "Sarpang District",
+      "state_code": "31"
+    },
+    {
+      "name": "Thimphu District",
+      "state_code": "15"
+    },
+    {
+      "name": "Trashigang District",
+      "state_code": "41"
+    },
+    {
+      "name": "Trongsa District",
+      "state_code": "32"
+    },
+    {
+      "name": "Tsirang District",
+      "state_code": "21"
+    },
+    {
+      "name": "Wangdue Phodrang District",
+      "state_code": "24"
+    },
+    {
+      "name": "Zhemgang District",
+      "state_code": "34"
+    }
+  ]
+}

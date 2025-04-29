@@ -1,0 +1,262 @@
+{
+  "name": "Spain",
+  "iso3": "ESP",
+  "states": [
+    {
+      "name": "A Coruña Province",
+      "state_code": "C"
+    },
+    {
+      "name": "Albacete Province",
+      "state_code": "AB"
+    },
+    {
+      "name": "Alicante Province",
+      "state_code": "A"
+    },
+    {
+      "name": "Almería Province",
+      "state_code": "AL"
+    },
+    {
+      "name": "Andalusia",
+      "state_code": "AN"
+    },
+    {
+      "name": "Araba Álava",
+      "state_code": "VI"
+    },
+    {
+      "name": "Aragon",
+      "state_code": "AR"
+    },
+    {
+      "name": "Badajoz Province",
+      "state_code": "BA"
+    },
+    {
+      "name": "Balearic Islands",
+      "state_code": "PM"
+    },
+    {
+      "name": "Barcelona Province",
+      "state_code": "B"
+    },
+    {
+      "name": "Basque Country",
+      "state_code": "PV"
+    },
+    {
+      "name": "Biscay",
+      "state_code": "BI"
+    },
+    {
+      "name": "Burgos Province",
+      "state_code": "BU"
+    },
+    {
+      "name": "Cáceres Province",
+      "state_code": "CC"
+    },
+    {
+      "name": "Cádiz Province",
+      "state_code": "CA"
+    },
+    {
+      "name": "Canary Islands",
+      "state_code": "CN"
+    },
+    {
+      "name": "Cantabria",
+      "state_code": "S"
+    },
+    {
+      "name": "Castellón Province",
+      "state_code": "CS"
+    },
+    {
+      "name": "Castile and León",
+      "state_code": "CL"
+    },
+    {
+      "name": "Castile-La Mancha",
+      "state_code": "CM"
+    },
+    {
+      "name": "Catalonia",
+      "state_code": "CT"
+    },
+    {
+      "name": "Ceuta",
+      "state_code": "CE"
+    },
+    {
+      "name": "Ciudad Real Province",
+      "state_code": "CR"
+    },
+    {
+      "name": "Community of Madrid",
+      "state_code": "MD"
+    },
+    {
+      "name": "Córdoba Province",
+      "state_code": "CO"
+    },
+    {
+      "name": "Cuenca Province",
+      "state_code": "CU"
+    },
+    {
+      "name": "Extremadura",
+      "state_code": "EX"
+    },
+    {
+      "name": "Galicia",
+      "state_code": "GA"
+    },
+    {
+      "name": "Gipuzkoa",
+      "state_code": "SS"
+    },
+    {
+      "name": "Girona Province",
+      "state_code": "GI"
+    },
+    {
+      "name": "Granada Province",
+      "state_code": "GR"
+    },
+    {
+      "name": "Guadalajara Province",
+      "state_code": "GU"
+    },
+    {
+      "name": "Huelva Province",
+      "state_code": "H"
+    },
+    {
+      "name": "Huesca Province",
+      "state_code": "HU"
+    },
+    {
+      "name": "Jaén Province",
+      "state_code": "J"
+    },
+    {
+      "name": "La Rioja",
+      "state_code": "RI"
+    },
+    {
+      "name": "Las Palmas Province",
+      "state_code": "GC"
+    },
+    {
+      "name": "León Province",
+      "state_code": "LE"
+    },
+    {
+      "name": "Lleida Province",
+      "state_code": "L"
+    },
+    {
+      "name": "Lugo Province",
+      "state_code": "LU"
+    },
+    {
+      "name": "Madrid Province",
+      "state_code": "M"
+    },
+    {
+      "name": "Málaga Province",
+      "state_code": "MA"
+    },
+    {
+      "name": "Melilla",
+      "state_code": "ML"
+    },
+    {
+      "name": "Murcia Province",
+      "state_code": "MU"
+    },
+    {
+      "name": "Navarre",
+      "state_code": "NC"
+    },
+    {
+      "name": "Ourense Province",
+      "state_code": "OR"
+    },
+    {
+      "name": "Palencia Province",
+      "state_code": "P"
+    },
+    {
+      "name": "Pontevedra Province",
+      "state_code": "PO"
+    },
+    {
+      "name": "Province of Asturias",
+      "state_code": "O"
+    },
+    {
+      "name": "Province of Ávila",
+      "state_code": "AV"
+    },
+    {
+      "name": "Region of Murcia",
+      "state_code": "MC"
+    },
+    {
+      "name": "Salamanca Province",
+      "state_code": "SA"
+    },
+    {
+      "name": "Santa Cruz de Tenerife Province",
+      "state_code": "TF"
+    },
+    {
+      "name": "Segovia Province",
+      "state_code": "SG"
+    },
+    {
+      "name": "Seville Province",
+      "state_code": "SE"
+    },
+    {
+      "name": "Soria Province",
+      "state_code": "SO"
+    },
+    {
+      "name": "Tarragona Province",
+      "state_code": "T"
+    },
+    {
+      "name": "Teruel Province",
+      "state_code": "TE"
+    },
+    {
+      "name": "Toledo Province",
+      "state_code": "TO"
+    },
+    {
+      "name": "Valencia Province",
+      "state_code": "V"
+    },
+    {
+      "name": "Valencian Community",
+      "state_code": "VC"
+    },
+    {
+      "name": "Valladolid Province",
+      "state_code": "VA"
+    },
+    {
+      "name": "Zamora Province",
+      "state_code": "ZA"
+    },
+    {
+      "name": "Zaragoza Province",
+      "state_code": "Z"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Trinidad And Tobago",
+  "iso3": "TTO",
+  "states": [
+    {
+      "name": "Arima",
+      "state_code": "ARI"
+    },
+    {
+      "name": "Chaguanas",
+      "state_code": "CHA"
+    },
+    {
+      "name": "Couva-Tabaquite-Talparo Regional Corporation",
+      "state_code": "CTT"
+    },
+    {
+      "name": "Diego Martin Regional Corporation",
+      "state_code": "DMN"
+    },
+    {
+      "name": "Eastern Tobago",
+      "state_code": "ETO"
+    },
+    {
+      "name": "Penal-Debe Regional Corporation",
+      "state_code": "PED"
+    },
+    {
+      "name": "Point Fortin",
+      "state_code": "PTF"
+    },
+    {
+      "name": "Port of Spain",
+      "state_code": "POS"
+    },
+    {
+      "name": "Princes Town Regional Corporation",
+      "state_code": "PRT"
+    },
+    {
+      "name": "Rio Claro-Mayaro Regional Corporation",
+      "state_code": "MRC"
+    },
+    {
+      "name": "San Fernando",
+      "state_code": "SFO"
+    },
+    {
+      "name": "San Juan-Laventille Regional Corporation",
+      "state_code": "SJL"
+    },
+    {
+      "name": "Sangre Grande Regional Corporation",
+      "state_code": "SGE"
+    },
+    {
+      "name": "Siparia Regional Corporation",
+      "state_code": "SIP"
+    },
+    {
+      "name": "Tunapuna-Piarco Regional Corporation",
+      "state_code": "TUP"
+    },
+    {
+      "name": "Western Tobago",
+      "state_code": "WTO"
+    }
+  ]
+}

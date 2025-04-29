@@ -1,0 +1,42 @@
+{
+  "name": "Gabon",
+  "iso3": "GAB",
+  "states": [
+    {
+      "name": "Estuaire Province",
+      "state_code": "1"
+    },
+    {
+      "name": "Haut-Ogooué Province",
+      "state_code": "2"
+    },
+    {
+      "name": "Moyen-Ogooué Province",
+      "state_code": "3"
+    },
+    {
+      "name": "Ngounié Province",
+      "state_code": "4"
+    },
+    {
+      "name": "Nyanga Province",
+      "state_code": "5"
+    },
+    {
+      "name": "Ogooué-Ivindo Province",
+      "state_code": "6"
+    },
+    {
+      "name": "Ogooué-Lolo Province",
+      "state_code": "7"
+    },
+    {
+      "name": "Ogooué-Maritime Province",
+      "state_code": "8"
+    },
+    {
+      "name": "Woleu-Ntem Province",
+      "state_code": "9"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Mali",
+  "iso3": "MLI",
+  "states": [
+    {
+      "name": "Bamako",
+      "state_code": "BKO"
+    },
+    {
+      "name": "Gao Region",
+      "state_code": "7"
+    },
+    {
+      "name": "Kayes Region",
+      "state_code": "1"
+    },
+    {
+      "name": "Kidal Region",
+      "state_code": "8"
+    },
+    {
+      "name": "Koulikoro Region",
+      "state_code": "2"
+    },
+    {
+      "name": "Ménaka Region",
+      "state_code": "9"
+    },
+    {
+      "name": "Mopti Region",
+      "state_code": "5"
+    },
+    {
+      "name": "Ségou Region",
+      "state_code": "4"
+    },
+    {
+      "name": "Sikasso Region",
+      "state_code": "3"
+    },
+    {
+      "name": "Taoudénit Region",
+      "state_code": "10"
+    },
+    {
+      "name": "Tombouctou Region",
+      "state_code": "6"
+    }
+  ]
+}

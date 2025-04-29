@@ -1,0 +1,30 @@
+{
+  "name": "Turkmenistan",
+  "iso3": "TKM",
+  "states": [
+    {
+      "name": "Ahal Region",
+      "state_code": "A"
+    },
+    {
+      "name": "Ashgabat",
+      "state_code": "S"
+    },
+    {
+      "name": "Balkan Region",
+      "state_code": "B"
+    },
+    {
+      "name": "Daşoguz Region",
+      "state_code": "D"
+    },
+    {
+      "name": "Lebap Region",
+      "state_code": "L"
+    },
+    {
+      "name": "Mary Region",
+      "state_code": "M"
+    }
+  ]
+}

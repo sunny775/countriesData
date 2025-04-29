@@ -1,0 +1,254 @@
+{
+  "name": "Morocco",
+  "iso3": "MAR",
+  "states": [
+    {
+      "name": "Al Haouz Province",
+      "state_code": "HAO"
+    },
+    {
+      "name": "Al Hoceïma Province",
+      "state_code": "HOC"
+    },
+    {
+      "name": "Aousserd Province",
+      "state_code": "AOU"
+    },
+    {
+      "name": "Assa-Zag Province",
+      "state_code": "ASZ"
+    },
+    {
+      "name": "Azilal Province",
+      "state_code": "AZI"
+    },
+    {
+      "name": "Ben Slimane Province",
+      "state_code": "BES"
+    },
+    {
+      "name": "Béni Mellal-Khénifra",
+      "state_code": "05"
+    },
+    {
+      "name": "Béni-Mellal Province",
+      "state_code": "BEM"
+    },
+    {
+      "name": "Berkane Province",
+      "state_code": "BER"
+    },
+    {
+      "name": "Boujdour Province",
+      "state_code": "BOD"
+    },
+    {
+      "name": "Boulemane Province",
+      "state_code": "BOM"
+    },
+    {
+      "name": "Casablanca-Settat",
+      "state_code": "06"
+    },
+    {
+      "name": "Chefchaouen Province",
+      "state_code": "CHE"
+    },
+    {
+      "name": "Chichaoua Province",
+      "state_code": "CHI"
+    },
+    {
+      "name": "Dakhla-Oued Ed-Dahab",
+      "state_code": "12"
+    },
+    {
+      "name": "Drâa-Tafilalet",
+      "state_code": "08"
+    },
+    {
+      "name": "El Hajeb Province",
+      "state_code": "HAJ"
+    },
+    {
+      "name": "El Jadida Province",
+      "state_code": "JDI"
+    },
+    {
+      "name": "Errachidia Province",
+      "state_code": "ERR"
+    },
+    {
+      "name": "Es Semara Province",
+      "state_code": "ESM"
+    },
+    {
+      "name": "Essaouira Province",
+      "state_code": "ESI"
+    },
+    {
+      "name": "Fahs Anjra Province",
+      "state_code": "FAH"
+    },
+    {
+      "name": "Fès-Meknès",
+      "state_code": "03"
+    },
+    {
+      "name": "Figuig Province",
+      "state_code": "FIG"
+    },
+    {
+      "name": "Guelmim Province",
+      "state_code": "GUE"
+    },
+    {
+      "name": "Guelmim-Oued Noun",
+      "state_code": "10"
+    },
+    {
+      "name": "Ifrane Province",
+      "state_code": "IFR"
+    },
+    {
+      "name": "Inezgane-Aït Melloul Prefecture",
+      "state_code": "INE"
+    },
+    {
+      "name": "Jerada Province",
+      "state_code": "JRA"
+    },
+    {
+      "name": "Kelaat Sraghna Province",
+      "state_code": "KES"
+    },
+    {
+      "name": "Kénitra Province",
+      "state_code": "KEN"
+    },
+    {
+      "name": "Khémisset Province",
+      "state_code": "KHE"
+    },
+    {
+      "name": "Khénifra Province",
+      "state_code": "KHN"
+    },
+    {
+      "name": "Khouribga Province",
+      "state_code": "KHO"
+    },
+    {
+      "name": "Laâyoune Province",
+      "state_code": "LAA"
+    },
+    {
+      "name": "Laâyoune-Sakia El Hamra",
+      "state_code": "11"
+    },
+    {
+      "name": "Larache Province",
+      "state_code": "LAR"
+    },
+    {
+      "name": "Marrakesh-Safi",
+      "state_code": "07"
+    },
+    {
+      "name": "Mediouna Province",
+      "state_code": "MED"
+    },
+    {
+      "name": "Moulay Yacoub Province",
+      "state_code": "MOU"
+    },
+    {
+      "name": "Nador Province",
+      "state_code": "NAD"
+    },
+    {
+      "name": "Nouaceur Province",
+      "state_code": "NOU"
+    },
+    {
+      "name": "Oriental",
+      "state_code": "02"
+    },
+    {
+      "name": "Ouarzazate Province",
+      "state_code": "OUA"
+    },
+    {
+      "name": "Oued Ed-Dahab Province",
+      "state_code": "OUD"
+    },
+    {
+      "name": "Safi Province",
+      "state_code": "SAF"
+    },
+    {
+      "name": "Sefrou Province",
+      "state_code": "SEF"
+    },
+    {
+      "name": "Settat Province",
+      "state_code": "SET"
+    },
+    {
+      "name": "Shtouka Ait Baha Province",
+      "state_code": "CHT"
+    },
+    {
+      "name": "Sidi Kacem Province",
+      "state_code": "SIK"
+    },
+    {
+      "name": "Sidi Youssef Ben Ali",
+      "state_code": "SYB"
+    },
+    {
+      "name": "Souss-Massa",
+      "state_code": "09"
+    },
+    {
+      "name": "Tan-Tan Province",
+      "state_code": "TNT"
+    },
+    {
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "state_code": "01"
+    },
+    {
+      "name": "Taounate Province",
+      "state_code": "TAO"
+    },
+    {
+      "name": "Taourirt Province",
+      "state_code": "TAI"
+    },
+    {
+      "name": "Taroudant Province",
+      "state_code": "TAR"
+    },
+    {
+      "name": "Tata Province",
+      "state_code": "TAT"
+    },
+    {
+      "name": "Taza Province",
+      "state_code": "TAZ"
+    },
+    {
+      "name": "Tétouan Province",
+      "state_code": "TET"
+    },
+    {
+      "name": "Tiznit Province",
+      "state_code": "TIZ"
+    },
+    {
+      "name": "Zagora Province",
+      "state_code": "ZAG"
+    }
+  ]
+}

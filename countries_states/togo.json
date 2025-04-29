@@ -1,0 +1,26 @@
+{
+  "name": "Togo",
+  "iso3": "TGO",
+  "states": [
+    {
+      "name": "Centrale Region",
+      "state_code": "C"
+    },
+    {
+      "name": "Kara Region",
+      "state_code": "K"
+    },
+    {
+      "name": "Maritime",
+      "state_code": "M"
+    },
+    {
+      "name": "Plateaux Region",
+      "state_code": "P"
+    },
+    {
+      "name": "Savanes Region",
+      "state_code": "S"
+    }
+  ]
+}

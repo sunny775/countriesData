@@ -1,0 +1,46 @@
+{
+  "name": "Ghana",
+  "iso3": "GHA",
+  "states": [
+    {
+      "name": "Ashanti Region",
+      "state_code": "AH"
+    },
+    {
+      "name": "Brong-Ahafo Region",
+      "state_code": "BA"
+    },
+    {
+      "name": "Central Region",
+      "state_code": "CP"
+    },
+    {
+      "name": "Eastern Region",
+      "state_code": "EP"
+    },
+    {
+      "name": "Greater Accra Region",
+      "state_code": "AA"
+    },
+    {
+      "name": "Northern Region",
+      "state_code": "NP"
+    },
+    {
+      "name": "Upper East Region",
+      "state_code": "UE"
+    },
+    {
+      "name": "Upper West Region",
+      "state_code": "UW"
+    },
+    {
+      "name": "Volta Region",
+      "state_code": "TV"
+    },
+    {
+      "name": "Western Region",
+      "state_code": "WP"
+    }
+  ]
+}

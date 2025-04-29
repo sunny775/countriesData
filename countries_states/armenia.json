@@ -1,0 +1,50 @@
+{
+  "name": "Armenia",
+  "iso3": "ARM",
+  "states": [
+    {
+      "name": "Aragatsotn Region",
+      "state_code": "AG"
+    },
+    {
+      "name": "Ararat Province",
+      "state_code": "AR"
+    },
+    {
+      "name": "Armavir Region",
+      "state_code": "AV"
+    },
+    {
+      "name": "Gegharkunik Province",
+      "state_code": "GR"
+    },
+    {
+      "name": "Kotayk Region",
+      "state_code": "KT"
+    },
+    {
+      "name": "Lori Region",
+      "state_code": "LO"
+    },
+    {
+      "name": "Shirak Region",
+      "state_code": "SH"
+    },
+    {
+      "name": "Syunik Province",
+      "state_code": "SU"
+    },
+    {
+      "name": "Tavush Region",
+      "state_code": "TV"
+    },
+    {
+      "name": "Vayots Dzor Region",
+      "state_code": "VD"
+    },
+    {
+      "name": "Yerevan",
+      "state_code": "ER"
+    }
+  ]
+}

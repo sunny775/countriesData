@@ -1,0 +1,30 @@
+{
+  "name": "Saint Vincent And The Grenadines",
+  "iso3": "VCT",
+  "states": [
+    {
+      "name": "Charlotte Parish",
+      "state_code": "01"
+    },
+    {
+      "name": "Grenadines Parish",
+      "state_code": "06"
+    },
+    {
+      "name": "Saint Andrew Parish",
+      "state_code": "02"
+    },
+    {
+      "name": "Saint David Parish",
+      "state_code": "03"
+    },
+    {
+      "name": "Saint George Parish",
+      "state_code": "04"
+    },
+    {
+      "name": "Saint Patrick Parish",
+      "state_code": "05"
+    }
+  ]
+}

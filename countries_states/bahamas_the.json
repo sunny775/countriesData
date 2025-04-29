@@ -1,0 +1,170 @@
+{
+  "name": "Bahamas The",
+  "iso3": "BHS",
+  "states": [
+    {
+      "name": "Acklins",
+      "state_code": "AK"
+    },
+    {
+      "name": "Acklins and Crooked Islands",
+      "state_code": "AC"
+    },
+    {
+      "name": "Berry Islands",
+      "state_code": "BY"
+    },
+    {
+      "name": "Bimini",
+      "state_code": "BI"
+    },
+    {
+      "name": "Black Point",
+      "state_code": "BP"
+    },
+    {
+      "name": "Cat Island",
+      "state_code": "CI"
+    },
+    {
+      "name": "Central Abaco",
+      "state_code": "CO"
+    },
+    {
+      "name": "Central Andros",
+      "state_code": "CS"
+    },
+    {
+      "name": "Central Eleuthera",
+      "state_code": "CE"
+    },
+    {
+      "name": "Crooked Island",
+      "state_code": "CK"
+    },
+    {
+      "name": "East Grand Bahama",
+      "state_code": "EG"
+    },
+    {
+      "name": "Exuma",
+      "state_code": "EX"
+    },
+    {
+      "name": "Freeport",
+      "state_code": "FP"
+    },
+    {
+      "name": "Fresh Creek",
+      "state_code": "FC"
+    },
+    {
+      "name": "Governor's Harbour",
+      "state_code": "GH"
+    },
+    {
+      "name": "Grand Cay",
+      "state_code": "GC"
+    },
+    {
+      "name": "Green Turtle Cay",
+      "state_code": "GT"
+    },
+    {
+      "name": "Harbour Island",
+      "state_code": "HI"
+    },
+    {
+      "name": "High Rock",
+      "state_code": "HR"
+    },
+    {
+      "name": "Hope Town",
+      "state_code": "HT"
+    },
+    {
+      "name": "Inagua",
+      "state_code": "IN"
+    },
+    {
+      "name": "Kemps Bay",
+      "state_code": "KB"
+    },
+    {
+      "name": "Long Island",
+      "state_code": "LI"
+    },
+    {
+      "name": "Mangrove Cay",
+      "state_code": "MC"
+    },
+    {
+      "name": "Marsh Harbour",
+      "state_code": "MH"
+    },
+    {
+      "name": "Mayaguana District",
+      "state_code": "MG"
+    },
+    {
+      "name": "Nichollstown and Berry Islands",
+      "state_code": "NB"
+    },
+    {
+      "name": "North Abaco",
+      "state_code": "NO"
+    },
+    {
+      "name": "North Andros",
+      "state_code": "NS"
+    },
+    {
+      "name": "North Eleuthera",
+      "state_code": "NE"
+    },
+    {
+      "name": "Ragged Island",
+      "state_code": "RI"
+    },
+    {
+      "name": "Rock Sound",
+      "state_code": "RS"
+    },
+    {
+      "name": "Rum Cay District",
+      "state_code": "RC"
+    },
+    {
+      "name": "San Salvador and Rum Cay",
+      "state_code": "SR"
+    },
+    {
+      "name": "San Salvador Island",
+      "state_code": "SS"
+    },
+    {
+      "name": "Sandy Point",
+      "state_code": "SP"
+    },
+    {
+      "name": "South Abaco",
+      "state_code": "SO"
+    },
+    {
+      "name": "South Andros",
+      "state_code": "SA"
+    },
+    {
+      "name": "South Eleuthera",
+      "state_code": "SE"
+    },
+    {
+      "name": "Spanish Wells",
+      "state_code": "SW"
+    },
+    {
+      "name": "West Grand Bahama",
+      "state_code": "WG"
+    }
+  ]
+}

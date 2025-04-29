@@ -1,0 +1,74 @@
+{
+  "name": "Kazakhstan",
+  "iso3": "KAZ",
+  "states": [
+    {
+      "name": "Akmola Region",
+      "state_code": "AKM"
+    },
+    {
+      "name": "Aktobe Region",
+      "state_code": "AKT"
+    },
+    {
+      "name": "Almaty",
+      "state_code": "ALA"
+    },
+    {
+      "name": "Almaty Region",
+      "state_code": "ALM"
+    },
+    {
+      "name": "Atyrau Region",
+      "state_code": "ATY"
+    },
+    {
+      "name": "Baikonur",
+      "state_code": "BAY"
+    },
+    {
+      "name": "East Kazakhstan Region",
+      "state_code": "VOS"
+    },
+    {
+      "name": "Jambyl Region",
+      "state_code": "ZHA"
+    },
+    {
+      "name": "Karaganda Region",
+      "state_code": "KAR"
+    },
+    {
+      "name": "Kostanay Region",
+      "state_code": "KUS"
+    },
+    {
+      "name": "Kyzylorda Region",
+      "state_code": "KZY"
+    },
+    {
+      "name": "Mangystau Region",
+      "state_code": "MAN"
+    },
+    {
+      "name": "North Kazakhstan Region",
+      "state_code": "SEV"
+    },
+    {
+      "name": "Nur-Sultan",
+      "state_code": "AST"
+    },
+    {
+      "name": "Pavlodar Region",
+      "state_code": "PAV"
+    },
+    {
+      "name": "Turkestan Region",
+      "state_code": "YUZ"
+    },
+    {
+      "name": "West Kazakhstan Province",
+      "state_code": "ZAP"
+    }
+  ]
+}

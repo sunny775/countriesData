@@ -1,0 +1,506 @@
+{
+  "name": "Uganda",
+  "iso3": "UGA",
+  "states": [
+    {
+      "name": "Abim District",
+      "state_code": "314"
+    },
+    {
+      "name": "Adjumani District",
+      "state_code": "301"
+    },
+    {
+      "name": "Agago District",
+      "state_code": "322"
+    },
+    {
+      "name": "Alebtong District",
+      "state_code": "323"
+    },
+    {
+      "name": "Amolatar District",
+      "state_code": "315"
+    },
+    {
+      "name": "Amudat District",
+      "state_code": "324"
+    },
+    {
+      "name": "Amuria District",
+      "state_code": "216"
+    },
+    {
+      "name": "Amuru District",
+      "state_code": "316"
+    },
+    {
+      "name": "Apac District",
+      "state_code": "302"
+    },
+    {
+      "name": "Arua District",
+      "state_code": "303"
+    },
+    {
+      "name": "Budaka District",
+      "state_code": "217"
+    },
+    {
+      "name": "Bududa District",
+      "state_code": "218"
+    },
+    {
+      "name": "Bugiri District",
+      "state_code": "201"
+    },
+    {
+      "name": "Buhweju District",
+      "state_code": "420"
+    },
+    {
+      "name": "Buikwe District",
+      "state_code": "117"
+    },
+    {
+      "name": "Bukedea District",
+      "state_code": "219"
+    },
+    {
+      "name": "Bukomansimbi District",
+      "state_code": "118"
+    },
+    {
+      "name": "Bukwo District",
+      "state_code": "220"
+    },
+    {
+      "name": "Bulambuli District",
+      "state_code": "225"
+    },
+    {
+      "name": "Buliisa District",
+      "state_code": "416"
+    },
+    {
+      "name": "Bundibugyo District",
+      "state_code": "401"
+    },
+    {
+      "name": "Bunyangabu District",
+      "state_code": "430"
+    },
+    {
+      "name": "Bushenyi District",
+      "state_code": "402"
+    },
+    {
+      "name": "Busia District",
+      "state_code": "202"
+    },
+    {
+      "name": "Butaleja District",
+      "state_code": "221"
+    },
+    {
+      "name": "Butambala District",
+      "state_code": "119"
+    },
+    {
+      "name": "Butebo District",
+      "state_code": "233"
+    },
+    {
+      "name": "Buvuma District",
+      "state_code": "120"
+    },
+    {
+      "name": "Buyende District",
+      "state_code": "226"
+    },
+    {
+      "name": "Central Region",
+      "state_code": "C"
+    },
+    {
+      "name": "Dokolo District",
+      "state_code": "317"
+    },
+    {
+      "name": "Eastern Region",
+      "state_code": "E"
+    },
+    {
+      "name": "Gomba District",
+      "state_code": "121"
+    },
+    {
+      "name": "Gulu District",
+      "state_code": "304"
+    },
+    {
+      "name": "Ibanda District",
+      "state_code": "417"
+    },
+    {
+      "name": "Iganga District",
+      "state_code": "203"
+    },
+    {
+      "name": "Isingiro District",
+      "state_code": "418"
+    },
+    {
+      "name": "Jinja District",
+      "state_code": "204"
+    },
+    {
+      "name": "Kaabong District",
+      "state_code": "318"
+    },
+    {
+      "name": "Kabale District",
+      "state_code": "404"
+    },
+    {
+      "name": "Kabarole District",
+      "state_code": "405"
+    },
+    {
+      "name": "Kaberamaido District",
+      "state_code": "213"
+    },
+    {
+      "name": "Kagadi District",
+      "state_code": "427"
+    },
+    {
+      "name": "Kakumiro District",
+      "state_code": "428"
+    },
+    {
+      "name": "Kalangala District",
+      "state_code": "101"
+    },
+    {
+      "name": "Kaliro District",
+      "state_code": "222"
+    },
+    {
+      "name": "Kalungu District",
+      "state_code": "122"
+    },
+    {
+      "name": "Kampala District",
+      "state_code": "102"
+    },
+    {
+      "name": "Kamuli District",
+      "state_code": "205"
+    },
+    {
+      "name": "Kamwenge District",
+      "state_code": "413"
+    },
+    {
+      "name": "Kanungu District",
+      "state_code": "414"
+    },
+    {
+      "name": "Kapchorwa District",
+      "state_code": "206"
+    },
+    {
+      "name": "Kasese District",
+      "state_code": "406"
+    },
+    {
+      "name": "Katakwi District",
+      "state_code": "207"
+    },
+    {
+      "name": "Kayunga District",
+      "state_code": "112"
+    },
+    {
+      "name": "Kibaale District",
+      "state_code": "407"
+    },
+    {
+      "name": "Kiboga District",
+      "state_code": "103"
+    },
+    {
+      "name": "Kibuku District",
+      "state_code": "227"
+    },
+    {
+      "name": "Kiruhura District",
+      "state_code": "419"
+    },
+    {
+      "name": "Kiryandongo District",
+      "state_code": "421"
+    },
+    {
+      "name": "Kisoro District",
+      "state_code": "408"
+    },
+    {
+      "name": "Kitgum District",
+      "state_code": "305"
+    },
+    {
+      "name": "Koboko District",
+      "state_code": "319"
+    },
+    {
+      "name": "Kole District",
+      "state_code": "325"
+    },
+    {
+      "name": "Kotido District",
+      "state_code": "306"
+    },
+    {
+      "name": "Kumi District",
+      "state_code": "208"
+    },
+    {
+      "name": "Kween District",
+      "state_code": "228"
+    },
+    {
+      "name": "Kyankwanzi District",
+      "state_code": "123"
+    },
+    {
+      "name": "Kyegegwa District",
+      "state_code": "422"
+    },
+    {
+      "name": "Kyenjojo District",
+      "state_code": "415"
+    },
+    {
+      "name": "Kyotera District",
+      "state_code": "125"
+    },
+    {
+      "name": "Lamwo District",
+      "state_code": "326"
+    },
+    {
+      "name": "Lira District",
+      "state_code": "307"
+    },
+    {
+      "name": "Luuka District",
+      "state_code": "229"
+    },
+    {
+      "name": "Luwero District",
+      "state_code": "104"
+    },
+    {
+      "name": "Lwengo District",
+      "state_code": "124"
+    },
+    {
+      "name": "Lyantonde District",
+      "state_code": "114"
+    },
+    {
+      "name": "Manafwa District",
+      "state_code": "223"
+    },
+    {
+      "name": "Maracha District",
+      "state_code": "320"
+    },
+    {
+      "name": "Masaka District",
+      "state_code": "105"
+    },
+    {
+      "name": "Masindi District",
+      "state_code": "409"
+    },
+    {
+      "name": "Mayuge District",
+      "state_code": "214"
+    },
+    {
+      "name": "Mbale District",
+      "state_code": "209"
+    },
+    {
+      "name": "Mbarara District",
+      "state_code": "410"
+    },
+    {
+      "name": "Mitooma District",
+      "state_code": "423"
+    },
+    {
+      "name": "Mityana District",
+      "state_code": "115"
+    },
+    {
+      "name": "Moroto District",
+      "state_code": "308"
+    },
+    {
+      "name": "Moyo District",
+      "state_code": "309"
+    },
+    {
+      "name": "Mpigi District",
+      "state_code": "106"
+    },
+    {
+      "name": "Mubende District",
+      "state_code": "107"
+    },
+    {
+      "name": "Mukono District",
+      "state_code": "108"
+    },
+    {
+      "name": "Nakapiripirit District",
+      "state_code": "311"
+    },
+    {
+      "name": "Nakaseke District",
+      "state_code": "116"
+    },
+    {
+      "name": "Nakasongola District",
+      "state_code": "109"
+    },
+    {
+      "name": "Namayingo District",
+      "state_code": "230"
+    },
+    {
+      "name": "Namisindwa District",
+      "state_code": "234"
+    },
+    {
+      "name": "Namutumba District",
+      "state_code": "224"
+    },
+    {
+      "name": "Napak District",
+      "state_code": "327"
+    },
+    {
+      "name": "Nebbi District",
+      "state_code": "310"
+    },
+    {
+      "name": "Ngora District",
+      "state_code": "231"
+    },
+    {
+      "name": "Northern Region",
+      "state_code": "N"
+    },
+    {
+      "name": "Ntoroko District",
+      "state_code": "424"
+    },
+    {
+      "name": "Ntungamo District",
+      "state_code": "411"
+    },
+    {
+      "name": "Nwoya District",
+      "state_code": "328"
+    },
+    {
+      "name": "Omoro District",
+      "state_code": "331"
+    },
+    {
+      "name": "Otuke District",
+      "state_code": "329"
+    },
+    {
+      "name": "Oyam District",
+      "state_code": "321"
+    },
+    {
+      "name": "Pader District",
+      "state_code": "312"
+    },
+    {
+      "name": "Pakwach District",
+      "state_code": "332"
+    },
+    {
+      "name": "Pallisa District",
+      "state_code": "210"
+    },
+    {
+      "name": "Rakai District",
+      "state_code": "110"
+    },
+    {
+      "name": "Rubanda District",
+      "state_code": "429"
+    },
+    {
+      "name": "Rubirizi District",
+      "state_code": "425"
+    },
+    {
+      "name": "Rukiga District",
+      "state_code": "431"
+    },
+    {
+      "name": "Rukungiri District",
+      "state_code": "412"
+    },
+    {
+      "name": "Sembabule District",
+      "state_code": "111"
+    },
+    {
+      "name": "Serere District",
+      "state_code": "232"
+    },
+    {
+      "name": "Sheema District",
+      "state_code": "426"
+    },
+    {
+      "name": "Sironko District",
+      "state_code": "215"
+    },
+    {
+      "name": "Soroti District",
+      "state_code": "211"
+    },
+    {
+      "name": "Tororo District",
+      "state_code": "212"
+    },
+    {
+      "name": "Wakiso District",
+      "state_code": "113"
+    },
+    {
+      "name": "Western Region",
+      "state_code": "W"
+    },
+    {
+      "name": "Yumbe District",
+      "state_code": "313"
+    },
+    {
+      "name": "Zombo District",
+      "state_code": "330"
+    }
+  ]
+}

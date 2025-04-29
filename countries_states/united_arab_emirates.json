@@ -1,0 +1,34 @@
+{
+  "name": "United Arab Emirates",
+  "iso3": "ARE",
+  "states": [
+    {
+      "name": "Abu Dhabi Emirate",
+      "state_code": "AZ"
+    },
+    {
+      "name": "Ajman Emirate",
+      "state_code": "AJ"
+    },
+    {
+      "name": "Dubai",
+      "state_code": "DU"
+    },
+    {
+      "name": "Fujairah",
+      "state_code": "FU"
+    },
+    {
+      "name": "Ras al-Khaimah",
+      "state_code": "RK"
+    },
+    {
+      "name": "Sharjah Emirate",
+      "state_code": "SH"
+    },
+    {
+      "name": "Umm al-Quwain",
+      "state_code": "UQ"
+    }
+  ]
+}

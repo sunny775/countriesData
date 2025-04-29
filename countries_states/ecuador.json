@@ -1,0 +1,98 @@
+{
+  "name": "Ecuador",
+  "iso3": "ECU",
+  "states": [
+    {
+      "name": "Azuay Province",
+      "state_code": "A"
+    },
+    {
+      "name": "Bolívar Province",
+      "state_code": "B"
+    },
+    {
+      "name": "Cañar Province",
+      "state_code": "F"
+    },
+    {
+      "name": "Carchi Province",
+      "state_code": "C"
+    },
+    {
+      "name": "Chimborazo Province",
+      "state_code": "H"
+    },
+    {
+      "name": "Cotopaxi Province",
+      "state_code": "X"
+    },
+    {
+      "name": "El Oro Province",
+      "state_code": "O"
+    },
+    {
+      "name": "Esmeraldas",
+      "state_code": "E"
+    },
+    {
+      "name": "Galápagos Province",
+      "state_code": "W"
+    },
+    {
+      "name": "Guayas Province",
+      "state_code": "G"
+    },
+    {
+      "name": "Imbabura Province",
+      "state_code": "I"
+    },
+    {
+      "name": "Los Ríos Province",
+      "state_code": "R"
+    },
+    {
+      "name": "Manabí Province",
+      "state_code": "M"
+    },
+    {
+      "name": "Morona-Santiago Province",
+      "state_code": "S"
+    },
+    {
+      "name": "Napo Province",
+      "state_code": "N"
+    },
+    {
+      "name": "Orellana Province",
+      "state_code": "D"
+    },
+    {
+      "name": "Pastaza Province",
+      "state_code": "Y"
+    },
+    {
+      "name": "Pichincha Province",
+      "state_code": "P"
+    },
+    {
+      "name": "Santa Elena Province",
+      "state_code": "SE"
+    },
+    {
+      "name": "Santo Domingo de los Tsáchilas Province",
+      "state_code": "SD"
+    },
+    {
+      "name": "Sucumbíos Province",
+      "state_code": "U"
+    },
+    {
+      "name": "Tungurahua Province",
+      "state_code": "T"
+    },
+    {
+      "name": "Zamora-Chinchipe Province",
+      "state_code": "Z"
+    }
+  ]
+}

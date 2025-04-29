@@ -1,0 +1,342 @@
+{
+  "name": "Macedonia",
+  "iso3": "MKD",
+  "states": [
+    {
+      "name": "Aerodrom Municipality",
+      "state_code": "01"
+    },
+    {
+      "name": "Aračinovo Municipality",
+      "state_code": "02"
+    },
+    {
+      "name": "Berovo Municipality",
+      "state_code": "03"
+    },
+    {
+      "name": "Bitola Municipality",
+      "state_code": "04"
+    },
+    {
+      "name": "Bogdanci Municipality",
+      "state_code": "05"
+    },
+    {
+      "name": "Bogovinje Municipality",
+      "state_code": "06"
+    },
+    {
+      "name": "Bosilovo Municipality",
+      "state_code": "07"
+    },
+    {
+      "name": "Brvenica Municipality",
+      "state_code": "08"
+    },
+    {
+      "name": "Butel Municipality",
+      "state_code": "09"
+    },
+    {
+      "name": "Čair Municipality",
+      "state_code": "79"
+    },
+    {
+      "name": "Čaška Municipality",
+      "state_code": "80"
+    },
+    {
+      "name": "Centar Municipality",
+      "state_code": "77"
+    },
+    {
+      "name": "Centar Župa Municipality",
+      "state_code": "78"
+    },
+    {
+      "name": "Češinovo-Obleševo Municipality",
+      "state_code": "81"
+    },
+    {
+      "name": "Čučer-Sandevo Municipality",
+      "state_code": "82"
+    },
+    {
+      "name": "Debarca Municipality",
+      "state_code": "22"
+    },
+    {
+      "name": "Delčevo Municipality",
+      "state_code": "23"
+    },
+    {
+      "name": "Demir Hisar Municipality",
+      "state_code": "25"
+    },
+    {
+      "name": "Demir Kapija Municipality",
+      "state_code": "24"
+    },
+    {
+      "name": "Dojran Municipality",
+      "state_code": "26"
+    },
+    {
+      "name": "Dolneni Municipality",
+      "state_code": "27"
+    },
+    {
+      "name": "Drugovo Municipality",
+      "state_code": "28"
+    },
+    {
+      "name": "Gazi Baba Municipality",
+      "state_code": "17"
+    },
+    {
+      "name": "Gevgelija Municipality",
+      "state_code": "18"
+    },
+    {
+      "name": "Gjorče Petrov Municipality",
+      "state_code": "29"
+    },
+    {
+      "name": "Gostivar Municipality",
+      "state_code": "19"
+    },
+    {
+      "name": "Gradsko Municipality",
+      "state_code": "20"
+    },
+    {
+      "name": "Greater Skopje",
+      "state_code": "85"
+    },
+    {
+      "name": "Ilinden Municipality",
+      "state_code": "34"
+    },
+    {
+      "name": "Jegunovce Municipality",
+      "state_code": "35"
+    },
+    {
+      "name": "Karbinci",
+      "state_code": "37"
+    },
+    {
+      "name": "Karpoš Municipality",
+      "state_code": "38"
+    },
+    {
+      "name": "Kavadarci Municipality",
+      "state_code": "36"
+    },
+    {
+      "name": "Kičevo Municipality",
+      "state_code": "40"
+    },
+    {
+      "name": "Kisela Voda Municipality",
+      "state_code": "39"
+    },
+    {
+      "name": "Kočani Municipality",
+      "state_code": "42"
+    },
+    {
+      "name": "Konče Municipality",
+      "state_code": "41"
+    },
+    {
+      "name": "Kratovo Municipality",
+      "state_code": "43"
+    },
+    {
+      "name": "Kriva Palanka Municipality",
+      "state_code": "44"
+    },
+    {
+      "name": "Krivogaštani Municipality",
+      "state_code": "45"
+    },
+    {
+      "name": "Kruševo Municipality",
+      "state_code": "46"
+    },
+    {
+      "name": "Kumanovo Municipality",
+      "state_code": "47"
+    },
+    {
+      "name": "Lipkovo Municipality",
+      "state_code": "48"
+    },
+    {
+      "name": "Lozovo Municipality",
+      "state_code": "49"
+    },
+    {
+      "name": "Makedonska Kamenica Municipality",
+      "state_code": "51"
+    },
+    {
+      "name": "Makedonski Brod Municipality",
+      "state_code": "52"
+    },
+    {
+      "name": "Mavrovo and Rostuša Municipality",
+      "state_code": "50"
+    },
+    {
+      "name": "Mogila Municipality",
+      "state_code": "53"
+    },
+    {
+      "name": "Negotino Municipality",
+      "state_code": "54"
+    },
+    {
+      "name": "Novaci Municipality",
+      "state_code": "55"
+    },
+    {
+      "name": "Novo Selo Municipality",
+      "state_code": "56"
+    },
+    {
+      "name": "Ohrid Municipality",
+      "state_code": "58"
+    },
+    {
+      "name": "Oslomej Municipality",
+      "state_code": "57"
+    },
+    {
+      "name": "Pehčevo Municipality",
+      "state_code": "60"
+    },
+    {
+      "name": "Petrovec Municipality",
+      "state_code": "59"
+    },
+    {
+      "name": "Plasnica Municipality",
+      "state_code": "61"
+    },
+    {
+      "name": "Prilep Municipality",
+      "state_code": "62"
+    },
+    {
+      "name": "Probištip Municipality",
+      "state_code": "63"
+    },
+    {
+      "name": "Radoviš Municipality",
+      "state_code": "64"
+    },
+    {
+      "name": "Rankovce Municipality",
+      "state_code": "65"
+    },
+    {
+      "name": "Resen Municipality",
+      "state_code": "66"
+    },
+    {
+      "name": "Rosoman Municipality",
+      "state_code": "67"
+    },
+    {
+      "name": "Saraj Municipality",
+      "state_code": "68"
+    },
+    {
+      "name": "Sopište Municipality",
+      "state_code": "70"
+    },
+    {
+      "name": "Staro Nagoričane Municipality",
+      "state_code": "71"
+    },
+    {
+      "name": "Štip Municipality",
+      "state_code": "83"
+    },
+    {
+      "name": "Struga Municipality",
+      "state_code": "72"
+    },
+    {
+      "name": "Strumica Municipality",
+      "state_code": "73"
+    },
+    {
+      "name": "Studeničani Municipality",
+      "state_code": "74"
+    },
+    {
+      "name": "Šuto Orizari Municipality",
+      "state_code": "84"
+    },
+    {
+      "name": "Sveti Nikole Municipality",
+      "state_code": "69"
+    },
+    {
+      "name": "Tearce Municipality",
+      "state_code": "75"
+    },
+    {
+      "name": "Tetovo Municipality",
+      "state_code": "76"
+    },
+    {
+      "name": "Valandovo Municipality",
+      "state_code": "10"
+    },
+    {
+      "name": "Vasilevo Municipality",
+      "state_code": "11"
+    },
+    {
+      "name": "Veles Municipality",
+      "state_code": "13"
+    },
+    {
+      "name": "Vevčani Municipality",
+      "state_code": "12"
+    },
+    {
+      "name": "Vinica Municipality",
+      "state_code": "14"
+    },
+    {
+      "name": "Vraneštica Municipality",
+      "state_code": "15"
+    },
+    {
+      "name": "Vrapčište Municipality",
+      "state_code": "16"
+    },
+    {
+      "name": "Zajas Municipality",
+      "state_code": "31"
+    },
+    {
+      "name": "Zelenikovo Municipality",
+      "state_code": "32"
+    },
+    {
+      "name": "Želino Municipality",
+      "state_code": "30"
+    },
+    {
+      "name": "Zrnovci Municipality",
+      "state_code": "33"
+    }
+  ]
+}

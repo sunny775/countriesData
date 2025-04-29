@@ -1,0 +1,90 @@
+{
+  "name": "Yemen",
+  "iso3": "YEM",
+  "states": [
+    {
+      "name": "'Adan Governorate",
+      "state_code": "AD"
+    },
+    {
+      "name": "'Amran Governorate",
+      "state_code": "AM"
+    },
+    {
+      "name": "Abyan Governorate",
+      "state_code": "AB"
+    },
+    {
+      "name": "Al Bayda' Governorate",
+      "state_code": "BA"
+    },
+    {
+      "name": "Al Hudaydah Governorate",
+      "state_code": "HU"
+    },
+    {
+      "name": "Al Jawf Governorate",
+      "state_code": "JA"
+    },
+    {
+      "name": "Al Mahrah Governorate",
+      "state_code": "MR"
+    },
+    {
+      "name": "Al Mahwit Governorate",
+      "state_code": "MW"
+    },
+    {
+      "name": "Dhamar Governorate",
+      "state_code": "DH"
+    },
+    {
+      "name": "Hadhramaut Governorate",
+      "state_code": "HD"
+    },
+    {
+      "name": "Hajjah Governorate",
+      "state_code": "HJ"
+    },
+    {
+      "name": "Ibb Governorate",
+      "state_code": "IB"
+    },
+    {
+      "name": "Lahij Governorate",
+      "state_code": "LA"
+    },
+    {
+      "name": "Ma'rib Governorate",
+      "state_code": "MA"
+    },
+    {
+      "name": "Raymah Governorate",
+      "state_code": "RA"
+    },
+    {
+      "name": "Saada Governorate",
+      "state_code": "SD"
+    },
+    {
+      "name": "Sana'a",
+      "state_code": "SA"
+    },
+    {
+      "name": "Sana'a Governorate",
+      "state_code": "SN"
+    },
+    {
+      "name": "Shabwah Governorate",
+      "state_code": "SH"
+    },
+    {
+      "name": "Socotra Governorate",
+      "state_code": "SU"
+    },
+    {
+      "name": "Ta'izz Governorate",
+      "state_code": "TA"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Serbia",
+  "iso3": "SRB",
+  "states": [
+    {
+      "name": "Belgrade",
+      "state_code": "00"
+    },
+    {
+      "name": "Bor District",
+      "state_code": "14"
+    },
+    {
+      "name": "Braničevo District",
+      "state_code": "11"
+    },
+    {
+      "name": "Central Banat District",
+      "state_code": "02"
+    },
+    {
+      "name": "Jablanica District",
+      "state_code": "23"
+    },
+    {
+      "name": "Kolubara District",
+      "state_code": "09"
+    },
+    {
+      "name": "Mačva District",
+      "state_code": "08"
+    },
+    {
+      "name": "Moravica District",
+      "state_code": "17"
+    },
+    {
+      "name": "Nišava District",
+      "state_code": "20"
+    },
+    {
+      "name": "North Bačka District",
+      "state_code": "01"
+    },
+    {
+      "name": "North Banat District",
+      "state_code": "03"
+    },
+    {
+      "name": "Pčinja District",
+      "state_code": "24"
+    },
+    {
+      "name": "Pirot District",
+      "state_code": "22"
+    },
+    {
+      "name": "Podunavlje District",
+      "state_code": "10"
+    },
+    {
+      "name": "Pomoravlje District",
+      "state_code": "13"
+    },
+    {
+      "name": "Rasina District",
+      "state_code": "19"
+    },
+    {
+      "name": "Raška District",
+      "state_code": "18"
+    },
+    {
+      "name": "South Bačka District",
+      "state_code": "06"
+    },
+    {
+      "name": "South Banat District",
+      "state_code": "04"
+    },
+    {
+      "name": "Srem District",
+      "state_code": "07"
+    },
+    {
+      "name": "Šumadija District",
+      "state_code": "12"
+    },
+    {
+      "name": "Toplica District",
+      "state_code": "21"
+    },
+    {
+      "name": "Vojvodina",
+      "state_code": "VO"
+    },
+    {
+      "name": "West Bačka District",
+      "state_code": "05"
+    },
+    {
+      "name": "Zaječar District",
+      "state_code": "15"
+    },
+    {
+      "name": "Zlatibor District",
+      "state_code": "16"
+    }
+  ]
+}

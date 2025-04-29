@@ -1,0 +1,50 @@
+{
+  "name": "Bermuda",
+  "iso3": "BMU",
+  "states": [
+    {
+      "name": "Devonshire Parish",
+      "state_code": "DEV"
+    },
+    {
+      "name": "Hamilton Municipality",
+      "state_code": "HAM"
+    },
+    {
+      "name": "Hamilton Parish",
+      "state_code": "HA"
+    },
+    {
+      "name": "Paget Parish",
+      "state_code": "PAG"
+    },
+    {
+      "name": "Pembroke Parish",
+      "state_code": "PEM"
+    },
+    {
+      "name": "Saint George's Municipality",
+      "state_code": "SG"
+    },
+    {
+      "name": "Saint George's Parish",
+      "state_code": "SGE"
+    },
+    {
+      "name": "Sandys Parish",
+      "state_code": "SAN"
+    },
+    {
+      "name": "Smith's Parish,",
+      "state_code": "SMI"
+    },
+    {
+      "name": "Southampton Parish",
+      "state_code": "SOU"
+    },
+    {
+      "name": "Warwick Parish",
+      "state_code": "WAR"
+    }
+  ]
+}

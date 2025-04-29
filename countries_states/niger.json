@@ -1,0 +1,34 @@
+{
+  "name": "Niger",
+  "iso3": "NER",
+  "states": [
+    {
+      "name": "Agadez Region",
+      "state_code": "1"
+    },
+    {
+      "name": "Diffa Region",
+      "state_code": "2"
+    },
+    {
+      "name": "Dosso Region",
+      "state_code": "3"
+    },
+    {
+      "name": "Maradi Region",
+      "state_code": "4"
+    },
+    {
+      "name": "Tahoua Region",
+      "state_code": "5"
+    },
+    {
+      "name": "Tillabéri Region",
+      "state_code": "6"
+    },
+    {
+      "name": "Zinder Region",
+      "state_code": "7"
+    }
+  ]
+}

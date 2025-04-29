@@ -1,0 +1,82 @@
+{
+  "name": "Laos",
+  "iso3": "LAO",
+  "states": [
+    {
+      "name": "Attapeu Province",
+      "state_code": "AT"
+    },
+    {
+      "name": "Bokeo Province",
+      "state_code": "BK"
+    },
+    {
+      "name": "Bolikhamsai Province",
+      "state_code": "BL"
+    },
+    {
+      "name": "Champasak Province",
+      "state_code": "CH"
+    },
+    {
+      "name": "Houaphanh Province",
+      "state_code": "HO"
+    },
+    {
+      "name": "Khammouane Province",
+      "state_code": "KH"
+    },
+    {
+      "name": "Luang Namtha Province",
+      "state_code": "LM"
+    },
+    {
+      "name": "Luang Prabang Province",
+      "state_code": "LP"
+    },
+    {
+      "name": "Oudomxay Province",
+      "state_code": "OU"
+    },
+    {
+      "name": "Phongsaly Province",
+      "state_code": "PH"
+    },
+    {
+      "name": "Sainyabuli Province",
+      "state_code": "XA"
+    },
+    {
+      "name": "Salavan Province",
+      "state_code": "SL"
+    },
+    {
+      "name": "Savannakhet Province",
+      "state_code": "SV"
+    },
+    {
+      "name": "Sekong Province",
+      "state_code": "XE"
+    },
+    {
+      "name": "Vientiane Prefecture",
+      "state_code": "VT"
+    },
+    {
+      "name": "Vientiane Province",
+      "state_code": "VI"
+    },
+    {
+      "name": "Xaisomboun",
+      "state_code": "XN"
+    },
+    {
+      "name": "Xaisomboun Province",
+      "state_code": "XS"
+    },
+    {
+      "name": "Xiangkhouang Province",
+      "state_code": "XI"
+    }
+  ]
+}

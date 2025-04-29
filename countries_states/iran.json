@@ -1,0 +1,126 @@
+{
+  "name": "Iran",
+  "iso3": "IRN",
+  "states": [
+    {
+      "name": "Alborz Province",
+      "state_code": "32"
+    },
+    {
+      "name": "Ardabil Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Bushehr Province",
+      "state_code": "06"
+    },
+    {
+      "name": "Chaharmahal and Bakhtiari Province",
+      "state_code": "08"
+    },
+    {
+      "name": "East Azerbaijan Province",
+      "state_code": "01"
+    },
+    {
+      "name": "Fars Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Gilan Province",
+      "state_code": "19"
+    },
+    {
+      "name": "Golestan Province",
+      "state_code": "27"
+    },
+    {
+      "name": "Hormozgan Province",
+      "state_code": "23"
+    },
+    {
+      "name": "Ilam Province",
+      "state_code": "05"
+    },
+    {
+      "name": "Isfahan Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Kerman Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Kermanshah Province",
+      "state_code": "17"
+    },
+    {
+      "name": "Khuzestan Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Kohgiluyeh and Boyer-Ahmad Province",
+      "state_code": "18"
+    },
+    {
+      "name": "Kurdistan Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Lorestan Province",
+      "state_code": "20"
+    },
+    {
+      "name": "Markazi Province",
+      "state_code": "22"
+    },
+    {
+      "name": "Mazandaran Province",
+      "state_code": "21"
+    },
+    {
+      "name": "North Khorasan Province",
+      "state_code": "31"
+    },
+    {
+      "name": "Qazvin Province",
+      "state_code": "28"
+    },
+    {
+      "name": "Qom Province",
+      "state_code": "26"
+    },
+    {
+      "name": "Razavi Khorasan Province",
+      "state_code": "30"
+    },
+    {
+      "name": "Semnan Province",
+      "state_code": "12"
+    },
+    {
+      "name": "Sistan and Baluchestan",
+      "state_code": "13"
+    },
+    {
+      "name": "South Khorasan Province",
+      "state_code": "29"
+    },
+    {
+      "name": "Tehran Province",
+      "state_code": "07"
+    },
+    {
+      "name": "West Azarbaijan Province",
+      "state_code": "02"
+    },
+    {
+      "name": "Yazd Province",
+      "state_code": "25"
+    },
+    {
+      "name": "Zanjan Province",
+      "state_code": "11"
+    }
+  ]
+}

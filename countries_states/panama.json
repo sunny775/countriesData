@@ -1,0 +1,58 @@
+{
+  "name": "Panama",
+  "iso3": "PAN",
+  "states": [
+    {
+      "name": "Bocas del Toro Province",
+      "state_code": "1"
+    },
+    {
+      "name": "Chiriquí Province",
+      "state_code": "4"
+    },
+    {
+      "name": "Coclé Province",
+      "state_code": "2"
+    },
+    {
+      "name": "Colón Province",
+      "state_code": "3"
+    },
+    {
+      "name": "Darién Province",
+      "state_code": "5"
+    },
+    {
+      "name": "Emberá-Wounaan Comarca",
+      "state_code": "EM"
+    },
+    {
+      "name": "Guna Yala",
+      "state_code": "KY"
+    },
+    {
+      "name": "Herrera Province",
+      "state_code": "6"
+    },
+    {
+      "name": "Los Santos Province",
+      "state_code": "7"
+    },
+    {
+      "name": "Ngöbe-Buglé Comarca",
+      "state_code": "NB"
+    },
+    {
+      "name": "Panamá Oeste Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Panamá Province",
+      "state_code": "8"
+    },
+    {
+      "name": "Veraguas Province",
+      "state_code": "9"
+    }
+  ]
+}

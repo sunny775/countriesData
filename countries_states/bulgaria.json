@@ -1,0 +1,114 @@
+{
+  "name": "Bulgaria",
+  "iso3": "BGR",
+  "states": [
+    {
+      "name": "Blagoevgrad Province",
+      "state_code": "01"
+    },
+    {
+      "name": "Burgas Province",
+      "state_code": "02"
+    },
+    {
+      "name": "Dobrich Province",
+      "state_code": "08"
+    },
+    {
+      "name": "Gabrovo Province",
+      "state_code": "07"
+    },
+    {
+      "name": "Haskovo Province",
+      "state_code": "26"
+    },
+    {
+      "name": "Kardzhali Province",
+      "state_code": "09"
+    },
+    {
+      "name": "Kyustendil Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Lovech Province",
+      "state_code": "11"
+    },
+    {
+      "name": "Montana Province",
+      "state_code": "12"
+    },
+    {
+      "name": "Pazardzhik Province",
+      "state_code": "13"
+    },
+    {
+      "name": "Pernik Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Pleven Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Plovdiv Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Razgrad Province",
+      "state_code": "17"
+    },
+    {
+      "name": "Ruse Province",
+      "state_code": "18"
+    },
+    {
+      "name": "Silistra Province",
+      "state_code": "19"
+    },
+    {
+      "name": "Sliven Province",
+      "state_code": "20"
+    },
+    {
+      "name": "Smolyan Province",
+      "state_code": "21"
+    },
+    {
+      "name": "Sofia City Province",
+      "state_code": "22"
+    },
+    {
+      "name": "Sofia Province",
+      "state_code": "23"
+    },
+    {
+      "name": "Stara Zagora Province",
+      "state_code": "24"
+    },
+    {
+      "name": "Targovishte Province",
+      "state_code": "25"
+    },
+    {
+      "name": "Varna Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Veliko Tarnovo Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Vidin Province",
+      "state_code": "05"
+    },
+    {
+      "name": "Vratsa Province",
+      "state_code": "06"
+    },
+    {
+      "name": "Yambol Province",
+      "state_code": "28"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Oman",
+  "iso3": "OMN",
+  "states": [
+    {
+      "name": "Ad Dakhiliyah Governorate",
+      "state_code": "DA"
+    },
+    {
+      "name": "Ad Dhahirah Governorate",
+      "state_code": "ZA"
+    },
+    {
+      "name": "Al Batinah North Governorate",
+      "state_code": "BS"
+    },
+    {
+      "name": "Al Batinah Region",
+      "state_code": "BA"
+    },
+    {
+      "name": "Al Batinah South Governorate",
+      "state_code": "BJ"
+    },
+    {
+      "name": "Al Buraimi Governorate",
+      "state_code": "BU"
+    },
+    {
+      "name": "Al Wusta Governorate",
+      "state_code": "WU"
+    },
+    {
+      "name": "Ash Sharqiyah North Governorate",
+      "state_code": "SS"
+    },
+    {
+      "name": "Ash Sharqiyah Region",
+      "state_code": "SH"
+    },
+    {
+      "name": "Ash Sharqiyah South Governorate",
+      "state_code": "SJ"
+    },
+    {
+      "name": "Dhofar Governorate",
+      "state_code": "ZU"
+    },
+    {
+      "name": "Musandam Governorate",
+      "state_code": "MU"
+    },
+    {
+      "name": "Muscat Governorate",
+      "state_code": "MA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Lebanon",
+  "iso3": "LBN",
+  "states": [
+    {
+      "name": "Akkar Governorate",
+      "state_code": "AK"
+    },
+    {
+      "name": "Baalbek-Hermel Governorate",
+      "state_code": "BH"
+    },
+    {
+      "name": "Beirut Governorate",
+      "state_code": "BA"
+    },
+    {
+      "name": "Beqaa Governorate",
+      "state_code": "BI"
+    },
+    {
+      "name": "Mount Lebanon Governorate",
+      "state_code": "JL"
+    },
+    {
+      "name": "Nabatieh Governorate",
+      "state_code": "NA"
+    },
+    {
+      "name": "North Governorate",
+      "state_code": "AS"
+    },
+    {
+      "name": "South Governorate",
+      "state_code": "JA"
+    }
+  ]
+}

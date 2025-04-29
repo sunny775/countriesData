@@ -1,0 +1,86 @@
+{
+  "name": "Sweden",
+  "iso3": "SWE",
+  "states": [
+    {
+      "name": "Blekinge",
+      "state_code": "K"
+    },
+    {
+      "name": "Dalarna County",
+      "state_code": "W"
+    },
+    {
+      "name": "Gävleborg County",
+      "state_code": "X"
+    },
+    {
+      "name": "Gotland County",
+      "state_code": "I"
+    },
+    {
+      "name": "Halland County",
+      "state_code": "N"
+    },
+    {
+      "name": "Jönköping County",
+      "state_code": "F"
+    },
+    {
+      "name": "Kalmar County",
+      "state_code": "H"
+    },
+    {
+      "name": "Kronoberg County",
+      "state_code": "G"
+    },
+    {
+      "name": "Norrbotten County",
+      "state_code": "BD"
+    },
+    {
+      "name": "Örebro County",
+      "state_code": "T"
+    },
+    {
+      "name": "Östergötland County",
+      "state_code": "E"
+    },
+    {
+      "name": "Skåne County",
+      "state_code": "M"
+    },
+    {
+      "name": "Södermanland County",
+      "state_code": "D"
+    },
+    {
+      "name": "Stockholm County",
+      "state_code": "AB"
+    },
+    {
+      "name": "Uppsala County",
+      "state_code": "C"
+    },
+    {
+      "name": "Värmland County",
+      "state_code": "S"
+    },
+    {
+      "name": "Västerbotten County",
+      "state_code": "AC"
+    },
+    {
+      "name": "Västernorrland County",
+      "state_code": "Y"
+    },
+    {
+      "name": "Västmanland County",
+      "state_code": "U"
+    },
+    {
+      "name": "Västra Götaland County",
+      "state_code": "O"
+    }
+  ]
+}

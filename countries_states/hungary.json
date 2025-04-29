@@ -1,0 +1,174 @@
+{
+  "name": "Hungary",
+  "iso3": "HUN",
+  "states": [
+    {
+      "name": "Bács-Kiskun County",
+      "state_code": "BK"
+    },
+    {
+      "name": "Baranya County",
+      "state_code": "BA"
+    },
+    {
+      "name": "Békés County",
+      "state_code": "BE"
+    },
+    {
+      "name": "Békéscsaba",
+      "state_code": "BC"
+    },
+    {
+      "name": "Borsod-Abaúj-Zemplén County",
+      "state_code": "BZ"
+    },
+    {
+      "name": "Budapest",
+      "state_code": "BU"
+    },
+    {
+      "name": "Csongrád County",
+      "state_code": "CS"
+    },
+    {
+      "name": "Debrecen",
+      "state_code": "DE"
+    },
+    {
+      "name": "Dunaújváros",
+      "state_code": "DU"
+    },
+    {
+      "name": "Eger",
+      "state_code": "EG"
+    },
+    {
+      "name": "Érd",
+      "state_code": "ER"
+    },
+    {
+      "name": "Fejér County",
+      "state_code": "FE"
+    },
+    {
+      "name": "Győr",
+      "state_code": "GY"
+    },
+    {
+      "name": "Győr-Moson-Sopron County",
+      "state_code": "GS"
+    },
+    {
+      "name": "Hajdú-Bihar County",
+      "state_code": "HB"
+    },
+    {
+      "name": "Heves County",
+      "state_code": "HE"
+    },
+    {
+      "name": "Hódmezővásárhely",
+      "state_code": "HV"
+    },
+    {
+      "name": "Jász-Nagykun-Szolnok County",
+      "state_code": "JN"
+    },
+    {
+      "name": "Kaposvár",
+      "state_code": "KV"
+    },
+    {
+      "name": "Kecskemét",
+      "state_code": "KM"
+    },
+    {
+      "name": "Miskolc",
+      "state_code": "MI"
+    },
+    {
+      "name": "Nagykanizsa",
+      "state_code": "NK"
+    },
+    {
+      "name": "Nógrád County",
+      "state_code": "NO"
+    },
+    {
+      "name": "Nyíregyháza",
+      "state_code": "NY"
+    },
+    {
+      "name": "Pécs",
+      "state_code": "PS"
+    },
+    {
+      "name": "Pest County",
+      "state_code": "PE"
+    },
+    {
+      "name": "Salgótarján",
+      "state_code": "ST"
+    },
+    {
+      "name": "Somogy County",
+      "state_code": "SO"
+    },
+    {
+      "name": "Sopron",
+      "state_code": "SN"
+    },
+    {
+      "name": "Szabolcs-Szatmár-Bereg County",
+      "state_code": "SZ"
+    },
+    {
+      "name": "Szeged",
+      "state_code": "SD"
+    },
+    {
+      "name": "Székesfehérvár",
+      "state_code": "SF"
+    },
+    {
+      "name": "Szekszárd",
+      "state_code": "SS"
+    },
+    {
+      "name": "Szolnok",
+      "state_code": "SK"
+    },
+    {
+      "name": "Szombathely",
+      "state_code": "SH"
+    },
+    {
+      "name": "Tatabánya",
+      "state_code": "TB"
+    },
+    {
+      "name": "Tolna County",
+      "state_code": "TO"
+    },
+    {
+      "name": "Vas County",
+      "state_code": "VA"
+    },
+    {
+      "name": "Veszprém",
+      "state_code": "VM"
+    },
+    {
+      "name": "Veszprém County",
+      "state_code": "VE"
+    },
+    {
+      "name": "Zala County",
+      "state_code": "ZA"
+    },
+    {
+      "name": "Zalaegerszeg",
+      "state_code": "ZE"
+    }
+  ]
+}

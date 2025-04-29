@@ -1,0 +1,518 @@
+{
+  "name": "Italy",
+  "iso3": "ITA",
+  "states": [
+    {
+      "name": "Abruzzo",
+      "state_code": "65"
+    },
+    {
+      "name": "Aosta Valley",
+      "state_code": "23"
+    },
+    {
+      "name": "Apulia",
+      "state_code": "75"
+    },
+    {
+      "name": "Basilicata",
+      "state_code": "77"
+    },
+    {
+      "name": "Benevento Province",
+      "state_code": "BN"
+    },
+    {
+      "name": "Calabria",
+      "state_code": "78"
+    },
+    {
+      "name": "Campania",
+      "state_code": "72"
+    },
+    {
+      "name": "Emilia-Romagna",
+      "state_code": "45"
+    },
+    {
+      "name": "Friuli–Venezia Giulia",
+      "state_code": "36"
+    },
+    {
+      "name": "Lazio",
+      "state_code": "62"
+    },
+    {
+      "name": "Libero consorzio comunale di Agrigento",
+      "state_code": "AG"
+    },
+    {
+      "name": "Libero consorzio comunale di Caltanissetta",
+      "state_code": "CL"
+    },
+    {
+      "name": "Libero consorzio comunale di Enna",
+      "state_code": "EN"
+    },
+    {
+      "name": "Libero consorzio comunale di Ragusa",
+      "state_code": "RG"
+    },
+    {
+      "name": "Libero consorzio comunale di Siracusa",
+      "state_code": "SR"
+    },
+    {
+      "name": "Libero consorzio comunale di Trapani",
+      "state_code": "TP"
+    },
+    {
+      "name": "Liguria",
+      "state_code": "42"
+    },
+    {
+      "name": "Lombardy",
+      "state_code": "25"
+    },
+    {
+      "name": "Marche",
+      "state_code": "57"
+    },
+    {
+      "name": "Metropolitan City of Bari",
+      "state_code": "BA"
+    },
+    {
+      "name": "Metropolitan City of Bologna",
+      "state_code": "BO"
+    },
+    {
+      "name": "Metropolitan City of Cagliari",
+      "state_code": "CA"
+    },
+    {
+      "name": "Metropolitan City of Catania",
+      "state_code": "CT"
+    },
+    {
+      "name": "Metropolitan City of Florence",
+      "state_code": "FI"
+    },
+    {
+      "name": "Metropolitan City of Genoa",
+      "state_code": "GE"
+    },
+    {
+      "name": "Metropolitan City of Messina",
+      "state_code": "ME"
+    },
+    {
+      "name": "Metropolitan City of Milan",
+      "state_code": "MI"
+    },
+    {
+      "name": "Metropolitan City of Naples",
+      "state_code": "NA"
+    },
+    {
+      "name": "Metropolitan City of Palermo",
+      "state_code": "PA"
+    },
+    {
+      "name": "Metropolitan City of Reggio Calabria",
+      "state_code": "RC"
+    },
+    {
+      "name": "Metropolitan City of Rome",
+      "state_code": "RM"
+    },
+    {
+      "name": "Metropolitan City of Turin",
+      "state_code": "TO"
+    },
+    {
+      "name": "Metropolitan City of Venice",
+      "state_code": "VE"
+    },
+    {
+      "name": "Molise",
+      "state_code": "67"
+    },
+    {
+      "name": "Pesaro and Urbino Province",
+      "state_code": "PU"
+    },
+    {
+      "name": "Piedmont",
+      "state_code": "21"
+    },
+    {
+      "name": "Province of Alessandria",
+      "state_code": "AL"
+    },
+    {
+      "name": "Province of Ancona",
+      "state_code": "AN"
+    },
+    {
+      "name": "Province of Ascoli Piceno",
+      "state_code": "AP"
+    },
+    {
+      "name": "Province of Asti",
+      "state_code": "AT"
+    },
+    {
+      "name": "Province of Avellino",
+      "state_code": "AV"
+    },
+    {
+      "name": "Province of Barletta-Andria-Trani",
+      "state_code": "BT"
+    },
+    {
+      "name": "Province of Belluno",
+      "state_code": "BL"
+    },
+    {
+      "name": "Province of Bergamo",
+      "state_code": "BG"
+    },
+    {
+      "name": "Province of Biella",
+      "state_code": "BI"
+    },
+    {
+      "name": "Province of Brescia",
+      "state_code": "BS"
+    },
+    {
+      "name": "Province of Brindisi",
+      "state_code": "BR"
+    },
+    {
+      "name": "Province of Campobasso",
+      "state_code": "CB"
+    },
+    {
+      "name": "Province of Carbonia-Iglesias",
+      "state_code": "CI"
+    },
+    {
+      "name": "Province of Caserta",
+      "state_code": "CE"
+    },
+    {
+      "name": "Province of Catanzaro",
+      "state_code": "CZ"
+    },
+    {
+      "name": "Province of Chieti",
+      "state_code": "CH"
+    },
+    {
+      "name": "Province of Como",
+      "state_code": "CO"
+    },
+    {
+      "name": "Province of Cosenza",
+      "state_code": "CS"
+    },
+    {
+      "name": "Province of Cremona",
+      "state_code": "CR"
+    },
+    {
+      "name": "Province of Crotone",
+      "state_code": "KR"
+    },
+    {
+      "name": "Province of Cuneo",
+      "state_code": "CN"
+    },
+    {
+      "name": "Province of Fermo",
+      "state_code": "FM"
+    },
+    {
+      "name": "Province of Ferrara",
+      "state_code": "FE"
+    },
+    {
+      "name": "Province of Foggia",
+      "state_code": "FG"
+    },
+    {
+      "name": "Province of Forlì-Cesena",
+      "state_code": "FC"
+    },
+    {
+      "name": "Province of Frosinone",
+      "state_code": "FR"
+    },
+    {
+      "name": "Province of Gorizia",
+      "state_code": "GO"
+    },
+    {
+      "name": "Province of Grosseto",
+      "state_code": "GR"
+    },
+    {
+      "name": "Province of Imperia",
+      "state_code": "IM"
+    },
+    {
+      "name": "Province of Isernia",
+      "state_code": "IS"
+    },
+    {
+      "name": "Province of L'Aquila",
+      "state_code": "AQ"
+    },
+    {
+      "name": "Province of La Spezia",
+      "state_code": "SP"
+    },
+    {
+      "name": "Province of Latina",
+      "state_code": "LT"
+    },
+    {
+      "name": "Province of Lecce",
+      "state_code": "LE"
+    },
+    {
+      "name": "Province of Lecco",
+      "state_code": "LC"
+    },
+    {
+      "name": "Province of Livorno",
+      "state_code": "LI"
+    },
+    {
+      "name": "Province of Lodi",
+      "state_code": "LO"
+    },
+    {
+      "name": "Province of Lucca",
+      "state_code": "LU"
+    },
+    {
+      "name": "Province of Macerata",
+      "state_code": "MC"
+    },
+    {
+      "name": "Province of Mantua",
+      "state_code": "MN"
+    },
+    {
+      "name": "Province of Massa and Carrara",
+      "state_code": "MS"
+    },
+    {
+      "name": "Province of Matera",
+      "state_code": "MT"
+    },
+    {
+      "name": "Province of Medio Campidano",
+      "state_code": "VS"
+    },
+    {
+      "name": "Province of Modena",
+      "state_code": "MO"
+    },
+    {
+      "name": "Province of Monza and Brianza",
+      "state_code": "MB"
+    },
+    {
+      "name": "Province of Novara",
+      "state_code": "NO"
+    },
+    {
+      "name": "Province of Nuoro",
+      "state_code": "NU"
+    },
+    {
+      "name": "Province of Ogliastra",
+      "state_code": "OG"
+    },
+    {
+      "name": "Province of Olbia-Tempio",
+      "state_code": "OT"
+    },
+    {
+      "name": "Province of Oristano",
+      "state_code": "OR"
+    },
+    {
+      "name": "Province of Padua",
+      "state_code": "PD"
+    },
+    {
+      "name": "Province of Parma",
+      "state_code": "PR"
+    },
+    {
+      "name": "Province of Pavia",
+      "state_code": "PV"
+    },
+    {
+      "name": "Province of Perugia",
+      "state_code": "PG"
+    },
+    {
+      "name": "Province of Pescara",
+      "state_code": "PE"
+    },
+    {
+      "name": "Province of Piacenza",
+      "state_code": "PC"
+    },
+    {
+      "name": "Province of Pisa",
+      "state_code": "PI"
+    },
+    {
+      "name": "Province of Pistoia",
+      "state_code": "PT"
+    },
+    {
+      "name": "Province of Pordenone",
+      "state_code": "PN"
+    },
+    {
+      "name": "Province of Potenza",
+      "state_code": "PZ"
+    },
+    {
+      "name": "Province of Prato",
+      "state_code": "PO"
+    },
+    {
+      "name": "Province of Ravenna",
+      "state_code": "RA"
+    },
+    {
+      "name": "Province of Reggio Emilia",
+      "state_code": "RE"
+    },
+    {
+      "name": "Province of Rieti",
+      "state_code": "RI"
+    },
+    {
+      "name": "Province of Rimini",
+      "state_code": "RN"
+    },
+    {
+      "name": "Province of Rovigo",
+      "state_code": "RO"
+    },
+    {
+      "name": "Province of Salerno",
+      "state_code": "SA"
+    },
+    {
+      "name": "Province of Sassari",
+      "state_code": "SS"
+    },
+    {
+      "name": "Province of Savona",
+      "state_code": "SV"
+    },
+    {
+      "name": "Province of Siena",
+      "state_code": "SI"
+    },
+    {
+      "name": "Province of Sondrio",
+      "state_code": "SO"
+    },
+    {
+      "name": "Province of Taranto",
+      "state_code": "TA"
+    },
+    {
+      "name": "Province of Teramo",
+      "state_code": "TE"
+    },
+    {
+      "name": "Province of Terni",
+      "state_code": "TR"
+    },
+    {
+      "name": "Province of Treviso",
+      "state_code": "TV"
+    },
+    {
+      "name": "Province of Trieste",
+      "state_code": "TS"
+    },
+    {
+      "name": "Province of Udine",
+      "state_code": "UD"
+    },
+    {
+      "name": "Province of Varese",
+      "state_code": "VA"
+    },
+    {
+      "name": "Province of Verbano-Cusio-Ossola",
+      "state_code": "VB"
+    },
+    {
+      "name": "Province of Vercelli",
+      "state_code": "VC"
+    },
+    {
+      "name": "Province of Verona",
+      "state_code": "VR"
+    },
+    {
+      "name": "Province of Vibo Valentia",
+      "state_code": "VV"
+    },
+    {
+      "name": "Province of Vicenza",
+      "state_code": "VI"
+    },
+    {
+      "name": "Province of Viterbo",
+      "state_code": "VT"
+    },
+    {
+      "name": "Sardinia",
+      "state_code": "88"
+    },
+    {
+      "name": "Sicily",
+      "state_code": "82"
+    },
+    {
+      "name": "South Tyrol",
+      "state_code": "BZ"
+    },
+    {
+      "name": "Trentino",
+      "state_code": "TN"
+    },
+    {
+      "name": "Trentino-South Tyrol",
+      "state_code": "32"
+    },
+    {
+      "name": "Tuscany",
+      "state_code": "52"
+    },
+    {
+      "name": "Umbria",
+      "state_code": "55"
+    },
+    {
+      "name": "Veneto",
+      "state_code": "34"
+    }
+  ]
+}

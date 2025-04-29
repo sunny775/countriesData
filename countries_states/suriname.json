@@ -1,0 +1,46 @@
+{
+  "name": "Suriname",
+  "iso3": "SUR",
+  "states": [
+    {
+      "name": "Brokopondo District",
+      "state_code": "BR"
+    },
+    {
+      "name": "Commewijne District",
+      "state_code": "CM"
+    },
+    {
+      "name": "Coronie District",
+      "state_code": "CR"
+    },
+    {
+      "name": "Marowijne District",
+      "state_code": "MA"
+    },
+    {
+      "name": "Nickerie District",
+      "state_code": "NI"
+    },
+    {
+      "name": "Para District",
+      "state_code": "PR"
+    },
+    {
+      "name": "Paramaribo District",
+      "state_code": "PM"
+    },
+    {
+      "name": "Saramacca District",
+      "state_code": "SA"
+    },
+    {
+      "name": "Sipaliwini District",
+      "state_code": "SI"
+    },
+    {
+      "name": "Wanica District",
+      "state_code": "WA"
+    }
+  ]
+}

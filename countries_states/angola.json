@@ -1,0 +1,74 @@
+{
+  "name": "Angola",
+  "iso3": "AGO",
+  "states": [
+    {
+      "name": "Bengo Province",
+      "state_code": "BGO"
+    },
+    {
+      "name": "Benguela Province",
+      "state_code": "BGU"
+    },
+    {
+      "name": "Bié Province",
+      "state_code": "BIE"
+    },
+    {
+      "name": "Cabinda Province",
+      "state_code": "CAB"
+    },
+    {
+      "name": "Cuando Cubango Province",
+      "state_code": "CCU"
+    },
+    {
+      "name": "Cuanza Norte Province",
+      "state_code": "CNO"
+    },
+    {
+      "name": "Cuanza Sul",
+      "state_code": "CUS"
+    },
+    {
+      "name": "Cunene Province",
+      "state_code": "CNN"
+    },
+    {
+      "name": "Huambo Province",
+      "state_code": "HUA"
+    },
+    {
+      "name": "Huíla Province",
+      "state_code": "HUI"
+    },
+    {
+      "name": "Luanda Province",
+      "state_code": "LUA"
+    },
+    {
+      "name": "Lunda Norte Province",
+      "state_code": "LNO"
+    },
+    {
+      "name": "Lunda Sul Province",
+      "state_code": "LSU"
+    },
+    {
+      "name": "Malanje Province",
+      "state_code": "MAL"
+    },
+    {
+      "name": "Moxico Province",
+      "state_code": "MOX"
+    },
+    {
+      "name": "Uíge Province",
+      "state_code": "UIG"
+    },
+    {
+      "name": "Zaire Province",
+      "state_code": "ZAI"
+    }
+  ]
+}

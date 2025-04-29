@@ -1,0 +1,18 @@
+{
+  "name": "Kiribati",
+  "iso3": "KIR",
+  "states": [
+    {
+      "name": "Gilbert Islands",
+      "state_code": "G"
+    },
+    {
+      "name": "Line Islands",
+      "state_code": "L"
+    },
+    {
+      "name": "Phoenix Islands",
+      "state_code": "P"
+    }
+  ]
+}

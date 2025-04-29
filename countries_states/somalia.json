@@ -1,0 +1,70 @@
+{
+  "name": "Somalia",
+  "iso3": "SOM",
+  "states": [
+    {
+      "name": "Awdal Region",
+      "state_code": "AW"
+    },
+    {
+      "name": "Bakool",
+      "state_code": "BK"
+    },
+    {
+      "name": "Banaadir",
+      "state_code": "BN"
+    },
+    {
+      "name": "Bari",
+      "state_code": "BR"
+    },
+    {
+      "name": "Bay",
+      "state_code": "BY"
+    },
+    {
+      "name": "Galguduud",
+      "state_code": "GA"
+    },
+    {
+      "name": "Gedo",
+      "state_code": "GE"
+    },
+    {
+      "name": "Hiran",
+      "state_code": "HI"
+    },
+    {
+      "name": "Lower Juba",
+      "state_code": "JH"
+    },
+    {
+      "name": "Lower Shebelle",
+      "state_code": "SH"
+    },
+    {
+      "name": "Middle Juba",
+      "state_code": "JD"
+    },
+    {
+      "name": "Middle Shebelle",
+      "state_code": "SD"
+    },
+    {
+      "name": "Mudug",
+      "state_code": "MU"
+    },
+    {
+      "name": "Nugal",
+      "state_code": "NU"
+    },
+    {
+      "name": "Sanaag Region",
+      "state_code": "SA"
+    },
+    {
+      "name": "Togdheer Region",
+      "state_code": "TO"
+    }
+  ]
+}

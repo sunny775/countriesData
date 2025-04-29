@@ -1,0 +1,58 @@
+{
+  "name": "Belgium",
+  "iso3": "BEL",
+  "states": [
+    {
+      "name": "Antwerp",
+      "state_code": "VAN"
+    },
+    {
+      "name": "Brussels-Capital Region",
+      "state_code": "BRU"
+    },
+    {
+      "name": "East Flanders",
+      "state_code": "VOV"
+    },
+    {
+      "name": "Flanders",
+      "state_code": "VLG"
+    },
+    {
+      "name": "Flemish Brabant",
+      "state_code": "VBR"
+    },
+    {
+      "name": "Hainaut",
+      "state_code": "WHT"
+    },
+    {
+      "name": "Liège",
+      "state_code": "WLG"
+    },
+    {
+      "name": "Limburg",
+      "state_code": "VLI"
+    },
+    {
+      "name": "Luxembourg",
+      "state_code": "WLX"
+    },
+    {
+      "name": "Namur",
+      "state_code": "WNA"
+    },
+    {
+      "name": "Wallonia",
+      "state_code": "WAL"
+    },
+    {
+      "name": "Walloon Brabant",
+      "state_code": "WBR"
+    },
+    {
+      "name": "West Flanders",
+      "state_code": "VWV"
+    }
+  ]
+}

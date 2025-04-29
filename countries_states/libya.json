@@ -1,0 +1,90 @@
+{
+  "name": "Libya",
+  "iso3": "LBY",
+  "states": [
+    {
+      "name": "Al Wahat District",
+      "state_code": "WA"
+    },
+    {
+      "name": "Benghazi",
+      "state_code": "BA"
+    },
+    {
+      "name": "Derna District",
+      "state_code": "DR"
+    },
+    {
+      "name": "Ghat District",
+      "state_code": "GT"
+    },
+    {
+      "name": "Jabal al Akhdar",
+      "state_code": "JA"
+    },
+    {
+      "name": "Jabal al Gharbi District",
+      "state_code": "JG"
+    },
+    {
+      "name": "Jafara",
+      "state_code": "JI"
+    },
+    {
+      "name": "Jufra",
+      "state_code": "JU"
+    },
+    {
+      "name": "Kufra District",
+      "state_code": "KF"
+    },
+    {
+      "name": "Marj District",
+      "state_code": "MJ"
+    },
+    {
+      "name": "Misrata District",
+      "state_code": "MI"
+    },
+    {
+      "name": "Murqub",
+      "state_code": "MB"
+    },
+    {
+      "name": "Murzuq District",
+      "state_code": "MQ"
+    },
+    {
+      "name": "Nalut District",
+      "state_code": "NL"
+    },
+    {
+      "name": "Nuqat al Khams",
+      "state_code": "NQ"
+    },
+    {
+      "name": "Sabha District",
+      "state_code": "SB"
+    },
+    {
+      "name": "Sirte District",
+      "state_code": "SR"
+    },
+    {
+      "name": "Tripoli District",
+      "state_code": "TB"
+    },
+    {
+      "name": "Wadi al Hayaa District",
+      "state_code": "WD"
+    },
+    {
+      "name": "Wadi al Shatii District",
+      "state_code": "WS"
+    },
+    {
+      "name": "Zawiya District",
+      "state_code": "ZA"
+    }
+  ]
+}

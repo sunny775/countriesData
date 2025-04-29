@@ -1,0 +1,30 @@
+{
+  "name": "Vanuatu",
+  "iso3": "VUT",
+  "states": [
+    {
+      "name": "Malampa",
+      "state_code": "MAP"
+    },
+    {
+      "name": "Penama",
+      "state_code": "PAM"
+    },
+    {
+      "name": "Sanma",
+      "state_code": "SAM"
+    },
+    {
+      "name": "Shefa",
+      "state_code": "SEE"
+    },
+    {
+      "name": "Tafea",
+      "state_code": "TAE"
+    },
+    {
+      "name": "Torba",
+      "state_code": "TOB"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Cuba",
+  "iso3": "CUB",
+  "states": [
+    {
+      "name": "Artemisa Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Camagüey Province",
+      "state_code": "09"
+    },
+    {
+      "name": "Ciego de Ávila Province",
+      "state_code": "08"
+    },
+    {
+      "name": "Cienfuegos Province",
+      "state_code": "06"
+    },
+    {
+      "name": "Granma Province",
+      "state_code": "12"
+    },
+    {
+      "name": "Guantánamo Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Havana Province",
+      "state_code": "03"
+    },
+    {
+      "name": "Holguín Province",
+      "state_code": "11"
+    },
+    {
+      "name": "Isla de la Juventud",
+      "state_code": "99"
+    },
+    {
+      "name": "Las Tunas Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Matanzas Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Mayabeque Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Pinar del Río Province",
+      "state_code": "01"
+    },
+    {
+      "name": "Sancti Spíritus Province",
+      "state_code": "07"
+    },
+    {
+      "name": "Santiago de Cuba Province",
+      "state_code": "13"
+    },
+    {
+      "name": "Villa Clara Province",
+      "state_code": "05"
+    }
+  ]
+}

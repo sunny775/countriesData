@@ -1,0 +1,26 @@
+{
+  "name": "Bahrain",
+  "iso3": "BHR",
+  "states": [
+    {
+      "name": "Capital Governorate",
+      "state_code": "13"
+    },
+    {
+      "name": "Central Governorate",
+      "state_code": "16"
+    },
+    {
+      "name": "Muharraq Governorate",
+      "state_code": "15"
+    },
+    {
+      "name": "Northern Governorate",
+      "state_code": "17"
+    },
+    {
+      "name": "Southern Governorate",
+      "state_code": "14"
+    }
+  ]
+}

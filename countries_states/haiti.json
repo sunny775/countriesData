@@ -1,0 +1,46 @@
+{
+  "name": "Haiti",
+  "iso3": "HTI",
+  "states": [
+    {
+      "name": "Artibonite",
+      "state_code": "AR"
+    },
+    {
+      "name": "Centre",
+      "state_code": "CE"
+    },
+    {
+      "name": "Grand'Anse",
+      "state_code": "GA"
+    },
+    {
+      "name": "Nippes",
+      "state_code": "NI"
+    },
+    {
+      "name": "Nord",
+      "state_code": "ND"
+    },
+    {
+      "name": "Nord-Est",
+      "state_code": "NE"
+    },
+    {
+      "name": "Nord-Ouest",
+      "state_code": "NO"
+    },
+    {
+      "name": "Ouest",
+      "state_code": "OU"
+    },
+    {
+      "name": "Sud",
+      "state_code": "SD"
+    },
+    {
+      "name": "Sud-Est",
+      "state_code": "SE"
+    }
+  ]
+}

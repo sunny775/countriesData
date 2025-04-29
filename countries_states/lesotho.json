@@ -1,0 +1,46 @@
+{
+  "name": "Lesotho",
+  "iso3": "LSO",
+  "states": [
+    {
+      "name": "Berea District",
+      "state_code": "D"
+    },
+    {
+      "name": "Butha-Buthe District",
+      "state_code": "B"
+    },
+    {
+      "name": "Leribe District",
+      "state_code": "C"
+    },
+    {
+      "name": "Mafeteng District",
+      "state_code": "E"
+    },
+    {
+      "name": "Maseru District",
+      "state_code": "A"
+    },
+    {
+      "name": "Mohale's Hoek District",
+      "state_code": "F"
+    },
+    {
+      "name": "Mokhotlong District",
+      "state_code": "J"
+    },
+    {
+      "name": "Qacha's Nek District",
+      "state_code": "H"
+    },
+    {
+      "name": "Quthing District",
+      "state_code": "G"
+    },
+    {
+      "name": "Thaba-Tseka District",
+      "state_code": "K"
+    }
+  ]
+}

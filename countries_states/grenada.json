@@ -1,0 +1,34 @@
+{
+  "name": "Grenada",
+  "iso3": "GRD",
+  "states": [
+    {
+      "name": "Carriacou and Petite Martinique",
+      "state_code": "10"
+    },
+    {
+      "name": "Saint Andrew Parish",
+      "state_code": "01"
+    },
+    {
+      "name": "Saint David Parish",
+      "state_code": "02"
+    },
+    {
+      "name": "Saint George Parish",
+      "state_code": "03"
+    },
+    {
+      "name": "Saint John Parish",
+      "state_code": "04"
+    },
+    {
+      "name": "Saint Mark Parish",
+      "state_code": "05"
+    },
+    {
+      "name": "Saint Patrick Parish",
+      "state_code": "06"
+    }
+  ]
+}

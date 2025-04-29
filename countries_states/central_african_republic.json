@@ -1,0 +1,74 @@
+{
+  "name": "Central African Republic",
+  "iso3": "CAF",
+  "states": [
+    {
+      "name": "Bamingui-Bangoran Prefecture",
+      "state_code": "BB"
+    },
+    {
+      "name": "Bangui",
+      "state_code": "BGF"
+    },
+    {
+      "name": "Basse-Kotto Prefecture",
+      "state_code": "BK"
+    },
+    {
+      "name": "Haut-Mbomou Prefecture",
+      "state_code": "HM"
+    },
+    {
+      "name": "Haute-Kotto Prefecture",
+      "state_code": "HK"
+    },
+    {
+      "name": "Kémo Prefecture",
+      "state_code": "KG"
+    },
+    {
+      "name": "Lobaye Prefecture",
+      "state_code": "LB"
+    },
+    {
+      "name": "Mambéré-Kadéï",
+      "state_code": "HS"
+    },
+    {
+      "name": "Mbomou Prefecture",
+      "state_code": "MB"
+    },
+    {
+      "name": "Nana-Grébizi Economic Prefecture",
+      "state_code": "KB"
+    },
+    {
+      "name": "Nana-Mambéré Prefecture",
+      "state_code": "NM"
+    },
+    {
+      "name": "Ombella-M'Poko Prefecture",
+      "state_code": "MP"
+    },
+    {
+      "name": "Ouaka Prefecture",
+      "state_code": "UK"
+    },
+    {
+      "name": "Ouham Prefecture",
+      "state_code": "AC"
+    },
+    {
+      "name": "Ouham-Pendé Prefecture",
+      "state_code": "OP"
+    },
+    {
+      "name": "Sangha-Mbaéré",
+      "state_code": "SE"
+    },
+    {
+      "name": "Vakaga Prefecture",
+      "state_code": "VK"
+    }
+  ]
+}

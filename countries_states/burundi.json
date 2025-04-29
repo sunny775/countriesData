@@ -1,0 +1,78 @@
+{
+  "name": "Burundi",
+  "iso3": "BDI",
+  "states": [
+    {
+      "name": "Bubanza Province",
+      "state_code": "BB"
+    },
+    {
+      "name": "Bujumbura Mairie Province",
+      "state_code": "BM"
+    },
+    {
+      "name": "Bujumbura Rural Province",
+      "state_code": "BL"
+    },
+    {
+      "name": "Bururi Province",
+      "state_code": "BR"
+    },
+    {
+      "name": "Cankuzo Province",
+      "state_code": "CA"
+    },
+    {
+      "name": "Cibitoke Province",
+      "state_code": "CI"
+    },
+    {
+      "name": "Gitega Province",
+      "state_code": "GI"
+    },
+    {
+      "name": "Karuzi Province",
+      "state_code": "KR"
+    },
+    {
+      "name": "Kayanza Province",
+      "state_code": "KY"
+    },
+    {
+      "name": "Kirundo Province",
+      "state_code": "KI"
+    },
+    {
+      "name": "Makamba Province",
+      "state_code": "MA"
+    },
+    {
+      "name": "Muramvya Province",
+      "state_code": "MU"
+    },
+    {
+      "name": "Muyinga Province",
+      "state_code": "MY"
+    },
+    {
+      "name": "Mwaro Province",
+      "state_code": "MW"
+    },
+    {
+      "name": "Ngozi Province",
+      "state_code": "NG"
+    },
+    {
+      "name": "Rumonge Province",
+      "state_code": "RM"
+    },
+    {
+      "name": "Rutana Province",
+      "state_code": "RT"
+    },
+    {
+      "name": "Ruyigi Province",
+      "state_code": "RY"
+    }
+  ]
+}

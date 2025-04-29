@@ -1,0 +1,42 @@
+{
+  "name": "San Marino",
+  "iso3": "SMR",
+  "states": [
+    {
+      "name": "Acquaviva",
+      "state_code": "01"
+    },
+    {
+      "name": "Borgo Maggiore",
+      "state_code": "06"
+    },
+    {
+      "name": "Chiesanuova",
+      "state_code": "02"
+    },
+    {
+      "name": "Domagnano",
+      "state_code": "03"
+    },
+    {
+      "name": "Faetano",
+      "state_code": "04"
+    },
+    {
+      "name": "Fiorentino",
+      "state_code": "05"
+    },
+    {
+      "name": "Montegiardino",
+      "state_code": "08"
+    },
+    {
+      "name": "San Marino",
+      "state_code": "07"
+    },
+    {
+      "name": "Serravalle",
+      "state_code": "09"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sao Tome and Principe",
+  "iso3": "STP",
+  "states": [
+    {
+      "name": "Príncipe Province",
+      "state_code": "P"
+    },
+    {
+      "name": "São Tomé Province",
+      "state_code": "S"
+    }
+  ]
+}

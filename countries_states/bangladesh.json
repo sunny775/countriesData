@@ -1,0 +1,286 @@
+{
+  "name": "Bangladesh",
+  "iso3": "BGD",
+  "states": [
+    {
+      "name": "Bagerhat District",
+      "state_code": "05"
+    },
+    {
+      "name": "Bahadia",
+      "state_code": "33"
+    },
+    {
+      "name": "Bandarban District",
+      "state_code": "01"
+    },
+    {
+      "name": "Barguna District",
+      "state_code": "02"
+    },
+    {
+      "name": "Barisal District",
+      "state_code": "06"
+    },
+    {
+      "name": "Barisal Division",
+      "state_code": "A"
+    },
+    {
+      "name": "Bhola District",
+      "state_code": "07"
+    },
+    {
+      "name": "Bogra District",
+      "state_code": "03"
+    },
+    {
+      "name": "Brahmanbaria District",
+      "state_code": "04"
+    },
+    {
+      "name": "Chandpur District",
+      "state_code": "09"
+    },
+    {
+      "name": "Chapai Nawabganj District",
+      "state_code": "45"
+    },
+    {
+      "name": "Chittagong District",
+      "state_code": "10"
+    },
+    {
+      "name": "Chittagong Division",
+      "state_code": "B"
+    },
+    {
+      "name": "Chuadanga District",
+      "state_code": "12"
+    },
+    {
+      "name": "Comilla District",
+      "state_code": "08"
+    },
+    {
+      "name": "Cox's Bazar District",
+      "state_code": "11"
+    },
+    {
+      "name": "Dhaka District",
+      "state_code": "13"
+    },
+    {
+      "name": "Dhaka Division",
+      "state_code": "C"
+    },
+    {
+      "name": "Dinajpur District",
+      "state_code": "14"
+    },
+    {
+      "name": "Faridpur District",
+      "state_code": "15"
+    },
+    {
+      "name": "Feni District",
+      "state_code": "16"
+    },
+    {
+      "name": "Gaibandha District",
+      "state_code": "19"
+    },
+    {
+      "name": "Gazipur District",
+      "state_code": "18"
+    },
+    {
+      "name": "Gopalganj District",
+      "state_code": "17"
+    },
+    {
+      "name": "Habiganj District",
+      "state_code": "20"
+    },
+    {
+      "name": "Jamalpur District",
+      "state_code": "21"
+    },
+    {
+      "name": "Jessore District",
+      "state_code": "22"
+    },
+    {
+      "name": "Jhalokati District",
+      "state_code": "25"
+    },
+    {
+      "name": "Jhenaidah District",
+      "state_code": "23"
+    },
+    {
+      "name": "Joypurhat District",
+      "state_code": "24"
+    },
+    {
+      "name": "Khagrachari District",
+      "state_code": "29"
+    },
+    {
+      "name": "Khulna District",
+      "state_code": "27"
+    },
+    {
+      "name": "Khulna Division",
+      "state_code": "D"
+    },
+    {
+      "name": "Kishoreganj District",
+      "state_code": "26"
+    },
+    {
+      "name": "Kurigram District",
+      "state_code": "28"
+    },
+    {
+      "name": "Kushtia District",
+      "state_code": "30"
+    },
+    {
+      "name": "Lakshmipur District",
+      "state_code": "31"
+    },
+    {
+      "name": "Lalmonirhat District",
+      "state_code": "32"
+    },
+    {
+      "name": "Madaripur District",
+      "state_code": "36"
+    },
+    {
+      "name": "Meherpur District",
+      "state_code": "39"
+    },
+    {
+      "name": "Moulvibazar District",
+      "state_code": "38"
+    },
+    {
+      "name": "Munshiganj District",
+      "state_code": "35"
+    },
+    {
+      "name": "Mymensingh District",
+      "state_code": "34"
+    },
+    {
+      "name": "Mymensingh Division",
+      "state_code": "H"
+    },
+    {
+      "name": "Naogaon District",
+      "state_code": "48"
+    },
+    {
+      "name": "Narail District",
+      "state_code": "43"
+    },
+    {
+      "name": "Narayanganj District",
+      "state_code": "40"
+    },
+    {
+      "name": "Natore District",
+      "state_code": "44"
+    },
+    {
+      "name": "Netrokona District",
+      "state_code": "41"
+    },
+    {
+      "name": "Nilphamari District",
+      "state_code": "46"
+    },
+    {
+      "name": "Noakhali District",
+      "state_code": "47"
+    },
+    {
+      "name": "Pabna District",
+      "state_code": "49"
+    },
+    {
+      "name": "Panchagarh District",
+      "state_code": "52"
+    },
+    {
+      "name": "Patuakhali District",
+      "state_code": "51"
+    },
+    {
+      "name": "Pirojpur District",
+      "state_code": "50"
+    },
+    {
+      "name": "Rajbari District",
+      "state_code": "53"
+    },
+    {
+      "name": "Rajshahi District",
+      "state_code": "54"
+    },
+    {
+      "name": "Rajshahi Division",
+      "state_code": "E"
+    },
+    {
+      "name": "Rangamati Hill District",
+      "state_code": "56"
+    },
+    {
+      "name": "Rangpur District",
+      "state_code": "55"
+    },
+    {
+      "name": "Rangpur Division",
+      "state_code": "F"
+    },
+    {
+      "name": "Satkhira District",
+      "state_code": "58"
+    },
+    {
+      "name": "Shariatpur District",
+      "state_code": "62"
+    },
+    {
+      "name": "Sherpur District",
+      "state_code": "57"
+    },
+    {
+      "name": "Sirajganj District",
+      "state_code": "59"
+    },
+    {
+      "name": "Sunamganj District",
+      "state_code": "61"
+    },
+    {
+      "name": "Sylhet District",
+      "state_code": "60"
+    },
+    {
+      "name": "Sylhet Division",
+      "state_code": "G"
+    },
+    {
+      "name": "Tangail District",
+      "state_code": "63"
+    },
+    {
+      "name": "Thakurgaon District",
+      "state_code": "64"
+    }
+  ]
+}

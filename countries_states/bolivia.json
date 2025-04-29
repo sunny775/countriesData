@@ -1,0 +1,42 @@
+{
+  "name": "Bolivia",
+  "iso3": "BOL",
+  "states": [
+    {
+      "name": "Beni Department",
+      "state_code": "B"
+    },
+    {
+      "name": "Chuquisaca Department",
+      "state_code": "H"
+    },
+    {
+      "name": "Cochabamba Department",
+      "state_code": "C"
+    },
+    {
+      "name": "La Paz Department",
+      "state_code": "L"
+    },
+    {
+      "name": "Oruro Department",
+      "state_code": "O"
+    },
+    {
+      "name": "Pando Department",
+      "state_code": "N"
+    },
+    {
+      "name": "Potosí Department",
+      "state_code": "P"
+    },
+    {
+      "name": "Santa Cruz Department",
+      "state_code": "S"
+    },
+    {
+      "name": "Tarija Department",
+      "state_code": "T"
+    }
+  ]
+}

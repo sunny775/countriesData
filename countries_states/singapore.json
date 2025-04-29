@@ -1,0 +1,26 @@
+{
+  "name": "Singapore",
+  "iso3": "SGP",
+  "states": [
+    {
+      "name": "Central Singapore Community Development Council",
+      "state_code": "01"
+    },
+    {
+      "name": "North East Community Development Council",
+      "state_code": "02"
+    },
+    {
+      "name": "North West Community Development Council",
+      "state_code": "03"
+    },
+    {
+      "name": "South East Community Development Council",
+      "state_code": "04"
+    },
+    {
+      "name": "South West Community Development Council",
+      "state_code": "05"
+    }
+  ]
+}

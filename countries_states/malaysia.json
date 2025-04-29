@@ -1,0 +1,70 @@
+{
+  "name": "Malaysia",
+  "iso3": "MYS",
+  "states": [
+    {
+      "name": "Johor",
+      "state_code": "01"
+    },
+    {
+      "name": "Kedah",
+      "state_code": "02"
+    },
+    {
+      "name": "Kelantan",
+      "state_code": "03"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "state_code": "14"
+    },
+    {
+      "name": "Labuan",
+      "state_code": "15"
+    },
+    {
+      "name": "Melaka",
+      "state_code": "04"
+    },
+    {
+      "name": "Negeri Sembilan",
+      "state_code": "05"
+    },
+    {
+      "name": "Pahang",
+      "state_code": "06"
+    },
+    {
+      "name": "Penang",
+      "state_code": "07"
+    },
+    {
+      "name": "Perak",
+      "state_code": "08"
+    },
+    {
+      "name": "Perlis",
+      "state_code": "09"
+    },
+    {
+      "name": "Putrajaya",
+      "state_code": "16"
+    },
+    {
+      "name": "Sabah",
+      "state_code": "12"
+    },
+    {
+      "name": "Sarawak",
+      "state_code": "13"
+    },
+    {
+      "name": "Selangor",
+      "state_code": "10"
+    },
+    {
+      "name": "Terengganu",
+      "state_code": "11"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Congo The Democratic Republic Of The",
+  "iso3": "COD",
+  "states": [
+    {
+      "name": "Bandundu Province",
+      "state_code": "BN"
+    },
+    {
+      "name": "Bas-Congo province",
+      "state_code": "BC"
+    },
+    {
+      "name": "Bas-Uele",
+      "state_code": "BU"
+    },
+    {
+      "name": "Équateur",
+      "state_code": "EQ"
+    },
+    {
+      "name": "Haut-Katanga Province",
+      "state_code": "HK"
+    },
+    {
+      "name": "Haut-Lomami District",
+      "state_code": "HL"
+    },
+    {
+      "name": "Haut-Uele",
+      "state_code": "HU"
+    },
+    {
+      "name": "Ituri Interim Administration",
+      "state_code": "IT"
+    },
+    {
+      "name": "Kasaï District",
+      "state_code": "KS"
+    },
+    {
+      "name": "Kasaï-Occidental",
+      "state_code": "KW"
+    },
+    {
+      "name": "Kasaï-Oriental",
+      "state_code": "KE"
+    },
+    {
+      "name": "Katanga Province",
+      "state_code": "KA"
+    },
+    {
+      "name": "Kinshasa",
+      "state_code": "KN"
+    },
+    {
+      "name": "Kwango District",
+      "state_code": "KG"
+    },
+    {
+      "name": "Kwilu District",
+      "state_code": "KL"
+    },
+    {
+      "name": "Lomami Province",
+      "state_code": "LO"
+    },
+    {
+      "name": "Mai-Ndombe Province",
+      "state_code": "MN"
+    },
+    {
+      "name": "Maniema",
+      "state_code": "MA"
+    },
+    {
+      "name": "Mongala District",
+      "state_code": "MO"
+    },
+    {
+      "name": "Nord-Ubangi District",
+      "state_code": "NU"
+    },
+    {
+      "name": "North Kivu",
+      "state_code": "NK"
+    },
+    {
+      "name": "Orientale Province",
+      "state_code": "OR"
+    },
+    {
+      "name": "Sankuru District",
+      "state_code": "SA"
+    },
+    {
+      "name": "South Kivu",
+      "state_code": "SK"
+    },
+    {
+      "name": "Sud-Ubangi",
+      "state_code": "SU"
+    },
+    {
+      "name": "Tanganyika Province",
+      "state_code": "TA"
+    },
+    {
+      "name": "Tshopo District",
+      "state_code": "TO"
+    },
+    {
+      "name": "Tshuapa District",
+      "state_code": "TU"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Ireland",
+  "iso3": "IRL",
+  "states": [
+    {
+      "name": "Connacht",
+      "state_code": "C"
+    },
+    {
+      "name": "County Carlow",
+      "state_code": "CW"
+    },
+    {
+      "name": "County Cavan",
+      "state_code": "CN"
+    },
+    {
+      "name": "County Clare",
+      "state_code": "CE"
+    },
+    {
+      "name": "County Cork",
+      "state_code": "CO"
+    },
+    {
+      "name": "County Donegal",
+      "state_code": "DL"
+    },
+    {
+      "name": "County Dublin",
+      "state_code": "D"
+    },
+    {
+      "name": "County Galway",
+      "state_code": "G"
+    },
+    {
+      "name": "County Kerry",
+      "state_code": "KY"
+    },
+    {
+      "name": "County Kildare",
+      "state_code": "KE"
+    },
+    {
+      "name": "County Kilkenny",
+      "state_code": "KK"
+    },
+    {
+      "name": "County Laois",
+      "state_code": "LS"
+    },
+    {
+      "name": "County Limerick",
+      "state_code": "LK"
+    },
+    {
+      "name": "County Longford",
+      "state_code": "LD"
+    },
+    {
+      "name": "County Louth",
+      "state_code": "LH"
+    },
+    {
+      "name": "County Mayo",
+      "state_code": "MO"
+    },
+    {
+      "name": "County Meath",
+      "state_code": "MH"
+    },
+    {
+      "name": "County Monaghan",
+      "state_code": "MN"
+    },
+    {
+      "name": "County Offaly",
+      "state_code": "OY"
+    },
+    {
+      "name": "County Roscommon",
+      "state_code": "RN"
+    },
+    {
+      "name": "County Sligo",
+      "state_code": "SO"
+    },
+    {
+      "name": "County Tipperary",
+      "state_code": "TA"
+    },
+    {
+      "name": "County Waterford",
+      "state_code": "WD"
+    },
+    {
+      "name": "County Westmeath",
+      "state_code": "WH"
+    },
+    {
+      "name": "County Wexford",
+      "state_code": "WX"
+    },
+    {
+      "name": "County Wicklow",
+      "state_code": "WW"
+    },
+    {
+      "name": "Leinster",
+      "state_code": "L"
+    },
+    {
+      "name": "Munster",
+      "state_code": "M"
+    },
+    {
+      "name": "Ulster",
+      "state_code": "U"
+    }
+  ]
+}

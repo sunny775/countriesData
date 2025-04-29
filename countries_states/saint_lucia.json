@@ -1,0 +1,54 @@
+{
+  "name": "Saint Lucia",
+  "iso3": "LCA",
+  "states": [
+    {
+      "name": "Anse la Raye Quarter",
+      "state_code": "01"
+    },
+    {
+      "name": "Canaries",
+      "state_code": "12"
+    },
+    {
+      "name": "Castries Quarter",
+      "state_code": "02"
+    },
+    {
+      "name": "Choiseul Quarter",
+      "state_code": "03"
+    },
+    {
+      "name": "Dauphin Quarter",
+      "state_code": "04"
+    },
+    {
+      "name": "Dennery Quarter",
+      "state_code": "05"
+    },
+    {
+      "name": "Gros Islet Quarter",
+      "state_code": "06"
+    },
+    {
+      "name": "Laborie Quarter",
+      "state_code": "07"
+    },
+    {
+      "name": "Micoud Quarter",
+      "state_code": "08"
+    },
+    {
+      "name": "Praslin Quarter",
+      "state_code": "09"
+    },
+    {
+      "name": "Soufrière Quarter",
+      "state_code": "10"
+    },
+    {
+      "name": "Vieux Fort Quarter",
+      "state_code": "11"
+    }
+  ]
+}

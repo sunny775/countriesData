@@ -1,0 +1,306 @@
+{
+  "name": "Azerbaijan",
+  "iso3": "AZE",
+  "states": [
+    {
+      "name": "Absheron District",
+      "state_code": "ABS"
+    },
+    {
+      "name": "Agdam District",
+      "state_code": "AGM"
+    },
+    {
+      "name": "Agdash District",
+      "state_code": "AGS"
+    },
+    {
+      "name": "Aghjabadi District",
+      "state_code": "AGC"
+    },
+    {
+      "name": "Agstafa District",
+      "state_code": "AGA"
+    },
+    {
+      "name": "Agsu District",
+      "state_code": "AGU"
+    },
+    {
+      "name": "Astara District",
+      "state_code": "AST"
+    },
+    {
+      "name": "Babek District",
+      "state_code": "BAB"
+    },
+    {
+      "name": "Baku",
+      "state_code": "BA"
+    },
+    {
+      "name": "Balakan District",
+      "state_code": "BAL"
+    },
+    {
+      "name": "Barda District",
+      "state_code": "BAR"
+    },
+    {
+      "name": "Beylagan District",
+      "state_code": "BEY"
+    },
+    {
+      "name": "Bilasuvar District",
+      "state_code": "BIL"
+    },
+    {
+      "name": "Dashkasan District",
+      "state_code": "DAS"
+    },
+    {
+      "name": "Fizuli District",
+      "state_code": "FUZ"
+    },
+    {
+      "name": "Ganja",
+      "state_code": "GA"
+    },
+    {
+      "name": "Gədəbəy",
+      "state_code": "GAD"
+    },
+    {
+      "name": "Gobustan District",
+      "state_code": "QOB"
+    },
+    {
+      "name": "Goranboy District",
+      "state_code": "GOR"
+    },
+    {
+      "name": "Goychay",
+      "state_code": "GOY"
+    },
+    {
+      "name": "Goygol District",
+      "state_code": "GYG"
+    },
+    {
+      "name": "Hajigabul District",
+      "state_code": "HAC"
+    },
+    {
+      "name": "Imishli District",
+      "state_code": "IMI"
+    },
+    {
+      "name": "Ismailli District",
+      "state_code": "ISM"
+    },
+    {
+      "name": "Jabrayil District",
+      "state_code": "CAB"
+    },
+    {
+      "name": "Jalilabad District",
+      "state_code": "CAL"
+    },
+    {
+      "name": "Julfa District",
+      "state_code": "CUL"
+    },
+    {
+      "name": "Kalbajar District",
+      "state_code": "KAL"
+    },
+    {
+      "name": "Kangarli District",
+      "state_code": "KAN"
+    },
+    {
+      "name": "Khachmaz District",
+      "state_code": "XAC"
+    },
+    {
+      "name": "Khizi District",
+      "state_code": "XIZ"
+    },
+    {
+      "name": "Khojali District",
+      "state_code": "XCI"
+    },
+    {
+      "name": "Kurdamir District",
+      "state_code": "KUR"
+    },
+    {
+      "name": "Lachin District",
+      "state_code": "LAC"
+    },
+    {
+      "name": "Lankaran",
+      "state_code": "LAN"
+    },
+    {
+      "name": "Lankaran District",
+      "state_code": "LA"
+    },
+    {
+      "name": "Lerik District",
+      "state_code": "LER"
+    },
+    {
+      "name": "Martuni",
+      "state_code": "XVD"
+    },
+    {
+      "name": "Masally District",
+      "state_code": "MAS"
+    },
+    {
+      "name": "Mingachevir",
+      "state_code": "MI"
+    },
+    {
+      "name": "Nakhchivan Autonomous Republic",
+      "state_code": "NX"
+    },
+    {
+      "name": "Neftchala District",
+      "state_code": "NEF"
+    },
+    {
+      "name": "Oghuz District",
+      "state_code": "OGU"
+    },
+    {
+      "name": "Ordubad District",
+      "state_code": "ORD"
+    },
+    {
+      "name": "Qabala District",
+      "state_code": "QAB"
+    },
+    {
+      "name": "Qakh District",
+      "state_code": "QAX"
+    },
+    {
+      "name": "Qazakh District",
+      "state_code": "QAZ"
+    },
+    {
+      "name": "Quba District",
+      "state_code": "QBA"
+    },
+    {
+      "name": "Qubadli District",
+      "state_code": "QBI"
+    },
+    {
+      "name": "Qusar District",
+      "state_code": "QUS"
+    },
+    {
+      "name": "Saatly District",
+      "state_code": "SAT"
+    },
+    {
+      "name": "Sabirabad District",
+      "state_code": "SAB"
+    },
+    {
+      "name": "Sadarak District",
+      "state_code": "SAD"
+    },
+    {
+      "name": "Salyan District",
+      "state_code": "SAL"
+    },
+    {
+      "name": "Samukh District",
+      "state_code": "SMX"
+    },
+    {
+      "name": "Shabran District",
+      "state_code": "SBN"
+    },
+    {
+      "name": "Shahbuz District",
+      "state_code": "SAH"
+    },
+    {
+      "name": "Shaki",
+      "state_code": "SA"
+    },
+    {
+      "name": "Shaki District",
+      "state_code": "SAK"
+    },
+    {
+      "name": "Shamakhi District",
+      "state_code": "SMI"
+    },
+    {
+      "name": "Shamkir District",
+      "state_code": "SKR"
+    },
+    {
+      "name": "Sharur District",
+      "state_code": "SAR"
+    },
+    {
+      "name": "Shirvan",
+      "state_code": "SR"
+    },
+    {
+      "name": "Shusha District",
+      "state_code": "SUS"
+    },
+    {
+      "name": "Siazan District",
+      "state_code": "SIY"
+    },
+    {
+      "name": "Sumqayit",
+      "state_code": "SM"
+    },
+    {
+      "name": "Tartar District",
+      "state_code": "TAR"
+    },
+    {
+      "name": "Tovuz District",
+      "state_code": "TOV"
+    },
+    {
+      "name": "Ujar District",
+      "state_code": "UCA"
+    },
+    {
+      "name": "Yardymli District",
+      "state_code": "YAR"
+    },
+    {
+      "name": "Yevlakh",
+      "state_code": "YE"
+    },
+    {
+      "name": "Yevlakh District",
+      "state_code": "YEV"
+    },
+    {
+      "name": "Zangilan District",
+      "state_code": "ZAN"
+    },
+    {
+      "name": "Zaqatala District",
+      "state_code": "ZAQ"
+    },
+    {
+      "name": "Zardab District",
+      "state_code": "ZAR"
+    }
+  ]
+}

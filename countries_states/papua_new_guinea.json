@@ -1,0 +1,90 @@
+{
+  "name": "Papua new Guinea",
+  "iso3": "PNG",
+  "states": [
+    {
+      "name": "Bougainville",
+      "state_code": "NSB"
+    },
+    {
+      "name": "Central Province",
+      "state_code": "CPM"
+    },
+    {
+      "name": "Chimbu Province",
+      "state_code": "CPK"
+    },
+    {
+      "name": "East New Britain",
+      "state_code": "EBR"
+    },
+    {
+      "name": "Eastern Highlands Province",
+      "state_code": "EHG"
+    },
+    {
+      "name": "Enga Province",
+      "state_code": "EPW"
+    },
+    {
+      "name": "Gulf",
+      "state_code": "GPK"
+    },
+    {
+      "name": "Hela",
+      "state_code": "HLA"
+    },
+    {
+      "name": "Jiwaka Province",
+      "state_code": "JWK"
+    },
+    {
+      "name": "Madang Province",
+      "state_code": "MPM"
+    },
+    {
+      "name": "Manus Province",
+      "state_code": "MRL"
+    },
+    {
+      "name": "Milne Bay Province",
+      "state_code": "MBA"
+    },
+    {
+      "name": "Morobe Province",
+      "state_code": "MPL"
+    },
+    {
+      "name": "New Ireland Province",
+      "state_code": "NIK"
+    },
+    {
+      "name": "Oro Province",
+      "state_code": "NPP"
+    },
+    {
+      "name": "Port Moresby",
+      "state_code": "NCD"
+    },
+    {
+      "name": "Sandaun Province",
+      "state_code": "SAN"
+    },
+    {
+      "name": "Southern Highlands Province",
+      "state_code": "SHM"
+    },
+    {
+      "name": "West New Britain Province",
+      "state_code": "WBK"
+    },
+    {
+      "name": "Western Highlands Province",
+      "state_code": "WHM"
+    },
+    {
+      "name": "Western Province",
+      "state_code": "WPD"
+    }
+  ]
+}

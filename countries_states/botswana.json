@@ -1,0 +1,46 @@
+{
+  "name": "Botswana",
+  "iso3": "BWA",
+  "states": [
+    {
+      "name": "Central District",
+      "state_code": "CE"
+    },
+    {
+      "name": "Ghanzi District",
+      "state_code": "GH"
+    },
+    {
+      "name": "Kgalagadi District",
+      "state_code": "KG"
+    },
+    {
+      "name": "Kgatleng District",
+      "state_code": "KL"
+    },
+    {
+      "name": "Kweneng District",
+      "state_code": "KW"
+    },
+    {
+      "name": "Ngamiland",
+      "state_code": "NG"
+    },
+    {
+      "name": "North-East District",
+      "state_code": "NE"
+    },
+    {
+      "name": "North-West District",
+      "state_code": "NW"
+    },
+    {
+      "name": "South-East District",
+      "state_code": "SE"
+    },
+    {
+      "name": "Southern District",
+      "state_code": "SO"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Guinea",
+  "iso3": "GIN",
+  "states": [
+    {
+      "name": "Beyla Prefecture",
+      "state_code": "BE"
+    },
+    {
+      "name": "Boffa Prefecture",
+      "state_code": "BF"
+    },
+    {
+      "name": "Boké Prefecture",
+      "state_code": "BK"
+    },
+    {
+      "name": "Boké Region",
+      "state_code": "B"
+    },
+    {
+      "name": "Conakry",
+      "state_code": "C"
+    },
+    {
+      "name": "Coyah Prefecture",
+      "state_code": "CO"
+    },
+    {
+      "name": "Dabola Prefecture",
+      "state_code": "DB"
+    },
+    {
+      "name": "Dalaba Prefecture",
+      "state_code": "DL"
+    },
+    {
+      "name": "Dinguiraye Prefecture",
+      "state_code": "DI"
+    },
+    {
+      "name": "Dubréka Prefecture",
+      "state_code": "DU"
+    },
+    {
+      "name": "Faranah Prefecture",
+      "state_code": "FA"
+    },
+    {
+      "name": "Forécariah Prefecture",
+      "state_code": "FO"
+    },
+    {
+      "name": "Fria Prefecture",
+      "state_code": "FR"
+    },
+    {
+      "name": "Gaoual Prefecture",
+      "state_code": "GA"
+    },
+    {
+      "name": "Guéckédou Prefecture",
+      "state_code": "GU"
+    },
+    {
+      "name": "Kankan Prefecture",
+      "state_code": "KA"
+    },
+    {
+      "name": "Kankan Region",
+      "state_code": "K"
+    },
+    {
+      "name": "Kérouané Prefecture",
+      "state_code": "KE"
+    },
+    {
+      "name": "Kindia Prefecture",
+      "state_code": "KD"
+    },
+    {
+      "name": "Kindia Region",
+      "state_code": "D"
+    },
+    {
+      "name": "Kissidougou Prefecture",
+      "state_code": "KS"
+    },
+    {
+      "name": "Koubia Prefecture",
+      "state_code": "KB"
+    },
+    {
+      "name": "Koundara Prefecture",
+      "state_code": "KN"
+    },
+    {
+      "name": "Kouroussa Prefecture",
+      "state_code": "KO"
+    },
+    {
+      "name": "Labé Prefecture",
+      "state_code": "LA"
+    },
+    {
+      "name": "Labé Region",
+      "state_code": "L"
+    },
+    {
+      "name": "Lélouma Prefecture",
+      "state_code": "LE"
+    },
+    {
+      "name": "Lola Prefecture",
+      "state_code": "LO"
+    },
+    {
+      "name": "Macenta Prefecture",
+      "state_code": "MC"
+    },
+    {
+      "name": "Mali Prefecture",
+      "state_code": "ML"
+    },
+    {
+      "name": "Mamou Prefecture",
+      "state_code": "MM"
+    },
+    {
+      "name": "Mamou Region",
+      "state_code": "M"
+    },
+    {
+      "name": "Mandiana Prefecture",
+      "state_code": "MD"
+    },
+    {
+      "name": "Nzérékoré Prefecture",
+      "state_code": "NZ"
+    },
+    {
+      "name": "Nzérékoré Region",
+      "state_code": "N"
+    },
+    {
+      "name": "Pita Prefecture",
+      "state_code": "PI"
+    },
+    {
+      "name": "Siguiri Prefecture",
+      "state_code": "SI"
+    },
+    {
+      "name": "Télimélé Prefecture",
+      "state_code": "TE"
+    },
+    {
+      "name": "Tougué Prefecture",
+      "state_code": "TO"
+    },
+    {
+      "name": "Yomou Prefecture",
+      "state_code": "YO"
+    }
+  ]
+}

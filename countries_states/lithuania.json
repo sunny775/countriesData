@@ -1,0 +1,282 @@
+{
+  "name": "Lithuania",
+  "iso3": "LTU",
+  "states": [
+    {
+      "name": "Akmenė District Municipality",
+      "state_code": "01"
+    },
+    {
+      "name": "Alytus City Municipality",
+      "state_code": "02"
+    },
+    {
+      "name": "Alytus County",
+      "state_code": "AL"
+    },
+    {
+      "name": "Alytus District Municipality",
+      "state_code": "03"
+    },
+    {
+      "name": "Birštonas Municipality",
+      "state_code": "05"
+    },
+    {
+      "name": "Biržai District Municipality",
+      "state_code": "06"
+    },
+    {
+      "name": "Druskininkai municipality",
+      "state_code": "07"
+    },
+    {
+      "name": "Elektrėnai municipality",
+      "state_code": "08"
+    },
+    {
+      "name": "Ignalina District Municipality",
+      "state_code": "09"
+    },
+    {
+      "name": "Jonava District Municipality",
+      "state_code": "10"
+    },
+    {
+      "name": "Joniškis District Municipality",
+      "state_code": "11"
+    },
+    {
+      "name": "Jurbarkas District Municipality",
+      "state_code": "12"
+    },
+    {
+      "name": "Kaišiadorys District Municipality",
+      "state_code": "13"
+    },
+    {
+      "name": "Kalvarija municipality",
+      "state_code": "14"
+    },
+    {
+      "name": "Kaunas City Municipality",
+      "state_code": "15"
+    },
+    {
+      "name": "Kaunas County",
+      "state_code": "KU"
+    },
+    {
+      "name": "Kaunas District Municipality",
+      "state_code": "16"
+    },
+    {
+      "name": "Kazlų Rūda municipality",
+      "state_code": "17"
+    },
+    {
+      "name": "Kėdainiai District Municipality",
+      "state_code": "18"
+    },
+    {
+      "name": "Kelmė District Municipality",
+      "state_code": "19"
+    },
+    {
+      "name": "Klaipeda City Municipality",
+      "state_code": "20"
+    },
+    {
+      "name": "Klaipėda County",
+      "state_code": "KL"
+    },
+    {
+      "name": "Klaipėda District Municipality",
+      "state_code": "21"
+    },
+    {
+      "name": "Kretinga District Municipality",
+      "state_code": "22"
+    },
+    {
+      "name": "Kupiškis District Municipality",
+      "state_code": "23"
+    },
+    {
+      "name": "Lazdijai District Municipality",
+      "state_code": "24"
+    },
+    {
+      "name": "Marijampolė County",
+      "state_code": "MR"
+    },
+    {
+      "name": "Marijampolė Municipality",
+      "state_code": "25"
+    },
+    {
+      "name": "Mažeikiai District Municipality",
+      "state_code": "26"
+    },
+    {
+      "name": "Molėtai District Municipality",
+      "state_code": "27"
+    },
+    {
+      "name": "Neringa Municipality",
+      "state_code": "28"
+    },
+    {
+      "name": "Pagėgiai municipality",
+      "state_code": "29"
+    },
+    {
+      "name": "Pakruojis District Municipality",
+      "state_code": "30"
+    },
+    {
+      "name": "Palanga City Municipality",
+      "state_code": "31"
+    },
+    {
+      "name": "Panevėžys City Municipality",
+      "state_code": "32"
+    },
+    {
+      "name": "Panevėžys County",
+      "state_code": "PN"
+    },
+    {
+      "name": "Panevėžys District Municipality",
+      "state_code": "33"
+    },
+    {
+      "name": "Pasvalys District Municipality",
+      "state_code": "34"
+    },
+    {
+      "name": "Plungė District Municipality",
+      "state_code": "35"
+    },
+    {
+      "name": "Prienai District Municipality",
+      "state_code": "36"
+    },
+    {
+      "name": "Radviliškis District Municipality",
+      "state_code": "37"
+    },
+    {
+      "name": "Raseiniai District Municipality",
+      "state_code": "38"
+    },
+    {
+      "name": "Rietavas municipality",
+      "state_code": "39"
+    },
+    {
+      "name": "Rokiškis District Municipality",
+      "state_code": "40"
+    },
+    {
+      "name": "Šakiai District Municipality",
+      "state_code": "41"
+    },
+    {
+      "name": "Šalčininkai District Municipality",
+      "state_code": "42"
+    },
+    {
+      "name": "Šiauliai City Municipality",
+      "state_code": "43"
+    },
+    {
+      "name": "Šiauliai County",
+      "state_code": "SA"
+    },
+    {
+      "name": "Šiauliai District Municipality",
+      "state_code": "44"
+    },
+    {
+      "name": "Šilalė District Municipality",
+      "state_code": "45"
+    },
+    {
+      "name": "Šilutė District Municipality",
+      "state_code": "46"
+    },
+    {
+      "name": "Širvintos District Municipality",
+      "state_code": "47"
+    },
+    {
+      "name": "Skuodas District Municipality",
+      "state_code": "48"
+    },
+    {
+      "name": "Švenčionys District Municipality",
+      "state_code": "49"
+    },
+    {
+      "name": "Tauragė County",
+      "state_code": "TA"
+    },
+    {
+      "name": "Tauragė District Municipality",
+      "state_code": "50"
+    },
+    {
+      "name": "Telšiai County",
+      "state_code": "TE"
+    },
+    {
+      "name": "Telšiai District Municipality",
+      "state_code": "51"
+    },
+    {
+      "name": "Trakai District Municipality",
+      "state_code": "52"
+    },
+    {
+      "name": "Ukmergė District Municipality",
+      "state_code": "53"
+    },
+    {
+      "name": "Utena County",
+      "state_code": "UT"
+    },
+    {
+      "name": "Utena District Municipality",
+      "state_code": "54"
+    },
+    {
+      "name": "Varėna District Municipality",
+      "state_code": "55"
+    },
+    {
+      "name": "Vilkaviškis District Municipality",
+      "state_code": "56"
+    },
+    {
+      "name": "Vilnius City Municipality",
+      "state_code": "57"
+    },
+    {
+      "name": "Vilnius County",
+      "state_code": "VL"
+    },
+    {
+      "name": "Vilnius District Municipality",
+      "state_code": "58"
+    },
+    {
+      "name": "Visaginas Municipality",
+      "state_code": "59"
+    },
+    {
+      "name": "Zarasai District Municipality",
+      "state_code": "60"
+    }
+  ]
+}

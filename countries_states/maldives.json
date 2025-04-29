@@ -1,0 +1,110 @@
+{
+  "name": "Maldives",
+  "iso3": "MDV",
+  "states": [
+    {
+      "name": "Addu Atoll",
+      "state_code": "01"
+    },
+    {
+      "name": "Alif Alif Atoll",
+      "state_code": "02"
+    },
+    {
+      "name": "Alif Dhaal Atoll",
+      "state_code": "00"
+    },
+    {
+      "name": "Central Province",
+      "state_code": "CE"
+    },
+    {
+      "name": "Dhaalu Atoll",
+      "state_code": "17"
+    },
+    {
+      "name": "Faafu Atoll",
+      "state_code": "14"
+    },
+    {
+      "name": "Gaafu Alif Atoll",
+      "state_code": "27"
+    },
+    {
+      "name": "Gaafu Dhaalu Atoll",
+      "state_code": "28"
+    },
+    {
+      "name": "Gnaviyani Atoll",
+      "state_code": "29"
+    },
+    {
+      "name": "Haa Alif Atoll",
+      "state_code": "07"
+    },
+    {
+      "name": "Haa Dhaalu Atoll",
+      "state_code": "23"
+    },
+    {
+      "name": "Kaafu Atoll",
+      "state_code": "26"
+    },
+    {
+      "name": "Laamu Atoll",
+      "state_code": "05"
+    },
+    {
+      "name": "Lhaviyani Atoll",
+      "state_code": "03"
+    },
+    {
+      "name": "Malé",
+      "state_code": "MLE"
+    },
+    {
+      "name": "Meemu Atoll",
+      "state_code": "12"
+    },
+    {
+      "name": "Noonu Atoll",
+      "state_code": "25"
+    },
+    {
+      "name": "North Central Province",
+      "state_code": "NC"
+    },
+    {
+      "name": "North Province",
+      "state_code": "NO"
+    },
+    {
+      "name": "Raa Atoll",
+      "state_code": "13"
+    },
+    {
+      "name": "Shaviyani Atoll",
+      "state_code": "24"
+    },
+    {
+      "name": "South Central Province",
+      "state_code": "SC"
+    },
+    {
+      "name": "South Province",
+      "state_code": "SU"
+    },
+    {
+      "name": "Thaa Atoll",
+      "state_code": "08"
+    },
+    {
+      "name": "Upper South Province",
+      "state_code": "US"
+    },
+    {
+      "name": "Vaavu Atoll",
+      "state_code": "04"
+    }
+  ]
+}

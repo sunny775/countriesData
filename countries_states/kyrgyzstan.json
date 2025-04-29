@@ -1,0 +1,42 @@
+{
+  "name": "Kyrgyzstan",
+  "iso3": "KGZ",
+  "states": [
+    {
+      "name": "Batken Region",
+      "state_code": "B"
+    },
+    {
+      "name": "Bishkek",
+      "state_code": "GB"
+    },
+    {
+      "name": "Chuy Region",
+      "state_code": "C"
+    },
+    {
+      "name": "Issyk-Kul Region",
+      "state_code": "Y"
+    },
+    {
+      "name": "Jalal-Abad Region",
+      "state_code": "J"
+    },
+    {
+      "name": "Naryn Region",
+      "state_code": "N"
+    },
+    {
+      "name": "Osh",
+      "state_code": "GO"
+    },
+    {
+      "name": "Osh Region",
+      "state_code": "O"
+    },
+    {
+      "name": "Talas Region",
+      "state_code": "T"
+    }
+  ]
+}

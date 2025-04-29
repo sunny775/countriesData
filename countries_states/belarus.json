@@ -1,0 +1,34 @@
+{
+  "name": "Belarus",
+  "iso3": "BLR",
+  "states": [
+    {
+      "name": "Brest Region",
+      "state_code": "BR"
+    },
+    {
+      "name": "Gomel Region",
+      "state_code": "HO"
+    },
+    {
+      "name": "Grodno Region",
+      "state_code": "HR"
+    },
+    {
+      "name": "Minsk",
+      "state_code": "HM"
+    },
+    {
+      "name": "Minsk Region",
+      "state_code": "MI"
+    },
+    {
+      "name": "Mogilev Region",
+      "state_code": "MA"
+    },
+    {
+      "name": "Vitebsk Region",
+      "state_code": "VI"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Belize",
+  "iso3": "BLZ",
+  "states": [
+    {
+      "name": "Belize District",
+      "state_code": "BZ"
+    },
+    {
+      "name": "Cayo District",
+      "state_code": "CY"
+    },
+    {
+      "name": "Corozal District",
+      "state_code": "CZL"
+    },
+    {
+      "name": "Orange Walk District",
+      "state_code": "OW"
+    },
+    {
+      "name": "Stann Creek District",
+      "state_code": "SC"
+    },
+    {
+      "name": "Toledo District",
+      "state_code": "TOL"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "name": "Algeria",
+  "iso3": "DZA",
+  "states": [
+    {
+      "name": "Adrar Province",
+      "state_code": "01"
+    },
+    {
+      "name": "Aïn Defla Province",
+      "state_code": "44"
+    },
+    {
+      "name": "Aïn Témouchent Province",
+      "state_code": "46"
+    },
+    {
+      "name": "Algiers Province",
+      "state_code": "16"
+    },
+    {
+      "name": "Annaba Province",
+      "state_code": "23"
+    },
+    {
+      "name": "Batna Province",
+      "state_code": "05"
+    },
+    {
+      "name": "Béchar Province",
+      "state_code": "08"
+    },
+    {
+      "name": "Béjaïa Province",
+      "state_code": "06"
+    },
+    {
+      "name": "Biskra",
+      "state_code": "07"
+    },
+    {
+      "name": "Blida Province",
+      "state_code": "09"
+    },
+    {
+      "name": "Bordj Bou Arréridj Province",
+      "state_code": "34"
+    },
+    {
+      "name": "Bouïra Province",
+      "state_code": "10"
+    },
+    {
+      "name": "Boumerdès Province",
+      "state_code": "35"
+    },
+    {
+      "name": "Chlef Province",
+      "state_code": "02"
+    },
+    {
+      "name": "Constantine Province",
+      "state_code": "25"
+    },
+    {
+      "name": "Djelfa Province",
+      "state_code": "17"
+    },
+    {
+      "name": "El Bayadh Province",
+      "state_code": "32"
+    },
+    {
+      "name": "El Oued Province",
+      "state_code": "39"
+    },
+    {
+      "name": "El Tarf Province",
+      "state_code": "36"
+    },
+    {
+      "name": "Ghardaïa Province",
+      "state_code": "47"
+    },
+    {
+      "name": "Guelma Province",
+      "state_code": "24"
+    },
+    {
+      "name": "Illizi Province",
+      "state_code": "33"
+    },
+    {
+      "name": "Jijel Province",
+      "state_code": "18"
+    },
+    {
+      "name": "Khenchela Province",
+      "state_code": "40"
+    },
+    {
+      "name": "Laghouat Province",
+      "state_code": "03"
+    },
+    {
+      "name": "M'Sila Province",
+      "state_code": "28"
+    },
+    {
+      "name": "Mascara Province",
+      "state_code": "29"
+    },
+    {
+      "name": "Médéa Province",
+      "state_code": "26"
+    },
+    {
+      "name": "Mila Province",
+      "state_code": "43"
+    },
+    {
+      "name": "Mostaganem Province",
+      "state_code": "27"
+    },
+    {
+      "name": "Naama Province",
+      "state_code": "45"
+    },
+    {
+      "name": "Oran Province",
+      "state_code": "31"
+    },
+    {
+      "name": "Ouargla Province",
+      "state_code": "30"
+    },
+    {
+      "name": "Oum El Bouaghi Province",
+      "state_code": "04"
+    },
+    {
+      "name": "Relizane Province",
+      "state_code": "48"
+    },
+    {
+      "name": "Saïda Province",
+      "state_code": "20"
+    },
+    {
+      "name": "Sétif Province",
+      "state_code": "19"
+    },
+    {
+      "name": "Skikda Province",
+      "state_code": "21"
+    },
+    {
+      "name": "Souk Ahras Province",
+      "state_code": "41"
+    },
+    {
+      "name": "Tamanghasset Province",
+      "state_code": "11"
+    },
+    {
+      "name": "Tébessa Province",
+      "state_code": "12"
+    },
+    {
+      "name": "Tiaret Province",
+      "state_code": "14"
+    },
+    {
+      "name": "Tindouf Province",
+      "state_code": "37"
+    },
+    {
+      "name": "Tipasa Province",
+      "state_code": "42"
+    },
+    {
+      "name": "Tissemsilt Province",
+      "state_code": "38"
+    },
+    {
+      "name": "Tizi Ouzou Province",
+      "state_code": "15"
+    },
+    {
+      "name": "Tlemcen Province",
+      "state_code": "13"
+    }
+  ]
+}

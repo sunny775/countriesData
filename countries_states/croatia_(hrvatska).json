@@ -1,0 +1,86 @@
+{
+  "name": "Croatia (Hrvatska)",
+  "iso3": "HRV",
+  "states": [
+    {
+      "name": "Bjelovar-Bilogora County",
+      "state_code": "07"
+    },
+    {
+      "name": "Brod-Posavina County",
+      "state_code": "12"
+    },
+    {
+      "name": "Dubrovnik-Neretva County",
+      "state_code": "19"
+    },
+    {
+      "name": "Istria County",
+      "state_code": "18"
+    },
+    {
+      "name": "Koprivnica-Križevci County",
+      "state_code": "06"
+    },
+    {
+      "name": "Krapina-Zagorje County",
+      "state_code": "02"
+    },
+    {
+      "name": "Lika-Senj County",
+      "state_code": "09"
+    },
+    {
+      "name": "Međimurje County",
+      "state_code": "20"
+    },
+    {
+      "name": "Osijek-Baranja County",
+      "state_code": "14"
+    },
+    {
+      "name": "Požega-Slavonia County",
+      "state_code": "11"
+    },
+    {
+      "name": "Primorje-Gorski Kotar County",
+      "state_code": "08"
+    },
+    {
+      "name": "Šibenik-Knin County",
+      "state_code": "15"
+    },
+    {
+      "name": "Sisak-Moslavina County",
+      "state_code": "03"
+    },
+    {
+      "name": "Split-Dalmatia County",
+      "state_code": "17"
+    },
+    {
+      "name": "Varaždin County",
+      "state_code": "05"
+    },
+    {
+      "name": "Virovitica-Podravina County",
+      "state_code": "10"
+    },
+    {
+      "name": "Vukovar-Syrmia County",
+      "state_code": "16"
+    },
+    {
+      "name": "Zadar County",
+      "state_code": "13"
+    },
+    {
+      "name": "Zagreb",
+      "state_code": "21"
+    },
+    {
+      "name": "Zagreb County",
+      "state_code": "01"
+    }
+  ]
+}

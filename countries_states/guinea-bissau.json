@@ -1,0 +1,50 @@
+{
+  "name": "Guinea-Bissau",
+  "iso3": "GNB",
+  "states": [
+    {
+      "name": "Bafatá",
+      "state_code": "BA"
+    },
+    {
+      "name": "Biombo Region",
+      "state_code": "BM"
+    },
+    {
+      "name": "Bolama Region",
+      "state_code": "BL"
+    },
+    {
+      "name": "Cacheu Region",
+      "state_code": "CA"
+    },
+    {
+      "name": "Gabú Region",
+      "state_code": "GA"
+    },
+    {
+      "name": "Leste Province",
+      "state_code": "L"
+    },
+    {
+      "name": "Norte Province",
+      "state_code": "N"
+    },
+    {
+      "name": "Oio Region",
+      "state_code": "OI"
+    },
+    {
+      "name": "Quinara Region",
+      "state_code": "QU"
+    },
+    {
+      "name": "Sul Province",
+      "state_code": "S"
+    },
+    {
+      "name": "Tombali Region",
+      "state_code": "TO"
+    }
+  ]
+}

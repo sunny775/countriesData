@@ -1,0 +1,78 @@
+{
+  "name": "Honduras",
+  "iso3": "HND",
+  "states": [
+    {
+      "name": "Atlántida Department",
+      "state_code": "AT"
+    },
+    {
+      "name": "Bay Islands Department",
+      "state_code": "IB"
+    },
+    {
+      "name": "Choluteca Department",
+      "state_code": "CH"
+    },
+    {
+      "name": "Colón Department",
+      "state_code": "CL"
+    },
+    {
+      "name": "Comayagua Department",
+      "state_code": "CM"
+    },
+    {
+      "name": "Copán Department",
+      "state_code": "CP"
+    },
+    {
+      "name": "Cortés Department",
+      "state_code": "CR"
+    },
+    {
+      "name": "El Paraíso Department",
+      "state_code": "EP"
+    },
+    {
+      "name": "Francisco Morazán Department",
+      "state_code": "FM"
+    },
+    {
+      "name": "Gracias a Dios Department",
+      "state_code": "GD"
+    },
+    {
+      "name": "Intibucá Department",
+      "state_code": "IN"
+    },
+    {
+      "name": "La Paz Department",
+      "state_code": "LP"
+    },
+    {
+      "name": "Lempira Department",
+      "state_code": "LE"
+    },
+    {
+      "name": "Ocotepeque Department",
+      "state_code": "OC"
+    },
+    {
+      "name": "Olancho Department",
+      "state_code": "OL"
+    },
+    {
+      "name": "Santa Bárbara Department",
+      "state_code": "SB"
+    },
+    {
+      "name": "Valle Department",
+      "state_code": "VA"
+    },
+    {
+      "name": "Yoro Department",
+      "state_code": "YO"
+    }
+  ]
+}

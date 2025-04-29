@@ -1,0 +1,190 @@
+{
+  "name": "Japan",
+  "iso3": "JPN",
+  "states": [
+    {
+      "name": "Aichi Prefecture",
+      "state_code": "23"
+    },
+    {
+      "name": "Akita Prefecture",
+      "state_code": "05"
+    },
+    {
+      "name": "Aomori Prefecture",
+      "state_code": "02"
+    },
+    {
+      "name": "Chiba Prefecture",
+      "state_code": "12"
+    },
+    {
+      "name": "Ehime Prefecture",
+      "state_code": "38"
+    },
+    {
+      "name": "Fukui Prefecture",
+      "state_code": "18"
+    },
+    {
+      "name": "Fukuoka Prefecture",
+      "state_code": "40"
+    },
+    {
+      "name": "Fukushima Prefecture",
+      "state_code": "07"
+    },
+    {
+      "name": "Gifu Prefecture",
+      "state_code": "21"
+    },
+    {
+      "name": "Gunma Prefecture",
+      "state_code": "10"
+    },
+    {
+      "name": "Hiroshima Prefecture",
+      "state_code": "34"
+    },
+    {
+      "name": "Hokkaidō Prefecture",
+      "state_code": "01"
+    },
+    {
+      "name": "Hyōgo Prefecture",
+      "state_code": "28"
+    },
+    {
+      "name": "Ibaraki Prefecture",
+      "state_code": "08"
+    },
+    {
+      "name": "Ishikawa Prefecture",
+      "state_code": "17"
+    },
+    {
+      "name": "Iwate Prefecture",
+      "state_code": "03"
+    },
+    {
+      "name": "Kagawa Prefecture",
+      "state_code": "37"
+    },
+    {
+      "name": "Kagoshima Prefecture",
+      "state_code": "46"
+    },
+    {
+      "name": "Kanagawa Prefecture",
+      "state_code": "14"
+    },
+    {
+      "name": "Kumamoto Prefecture",
+      "state_code": "43"
+    },
+    {
+      "name": "Kyōto Prefecture",
+      "state_code": "26"
+    },
+    {
+      "name": "Mie Prefecture",
+      "state_code": "24"
+    },
+    {
+      "name": "Miyagi Prefecture",
+      "state_code": "04"
+    },
+    {
+      "name": "Miyazaki Prefecture",
+      "state_code": "45"
+    },
+    {
+      "name": "Nagano Prefecture",
+      "state_code": "20"
+    },
+    {
+      "name": "Nagasaki Prefecture",
+      "state_code": "42"
+    },
+    {
+      "name": "Nara Prefecture",
+      "state_code": "29"
+    },
+    {
+      "name": "Niigata Prefecture",
+      "state_code": "15"
+    },
+    {
+      "name": "Ōita Prefecture",
+      "state_code": "44"
+    },
+    {
+      "name": "Okayama Prefecture",
+      "state_code": "33"
+    },
+    {
+      "name": "Okinawa Prefecture",
+      "state_code": "47"
+    },
+    {
+      "name": "Ōsaka Prefecture",
+      "state_code": "27"
+    },
+    {
+      "name": "Saga Prefecture",
+      "state_code": "41"
+    },
+    {
+      "name": "Saitama Prefecture",
+      "state_code": "11"
+    },
+    {
+      "name": "Shiga Prefecture",
+      "state_code": "25"
+    },
+    {
+      "name": "Shimane Prefecture",
+      "state_code": "32"
+    },
+    {
+      "name": "Shizuoka Prefecture",
+      "state_code": "22"
+    },
+    {
+      "name": "Tochigi Prefecture",
+      "state_code": "09"
+    },
+    {
+      "name": "Tokushima Prefecture",
+      "state_code": "36"
+    },
+    {
+      "name": "Tokyo",
+      "state_code": "13"
+    },
+    {
+      "name": "Tottori Prefecture",
+      "state_code": "31"
+    },
+    {
+      "name": "Toyama Prefecture",
+      "state_code": "16"
+    },
+    {
+      "name": "Wakayama Prefecture",
+      "state_code": "30"
+    },
+    {
+      "name": "Yamagata Prefecture",
+      "state_code": "06"
+    },
+    {
+      "name": "Yamaguchi Prefecture",
+      "state_code": "35"
+    },
+    {
+      "name": "Yamanashi Prefecture",
+      "state_code": "19"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Cameroon",
+  "iso3": "CMR",
+  "states": [
+    {
+      "name": "Adamawa",
+      "state_code": "AD"
+    },
+    {
+      "name": "Centre",
+      "state_code": "CE"
+    },
+    {
+      "name": "East",
+      "state_code": "ES"
+    },
+    {
+      "name": "Far North",
+      "state_code": "EN"
+    },
+    {
+      "name": "Littoral",
+      "state_code": "LT"
+    },
+    {
+      "name": "North",
+      "state_code": "NO"
+    },
+    {
+      "name": "Northwest",
+      "state_code": "NW"
+    },
+    {
+      "name": "South",
+      "state_code": "SU"
+    },
+    {
+      "name": "Southwest",
+      "state_code": "SW"
+    },
+    {
+      "name": "West",
+      "state_code": "OU"
+    }
+  ]
+}

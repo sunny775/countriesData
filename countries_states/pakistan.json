@@ -1,0 +1,38 @@
+{
+  "name": "Pakistan",
+  "iso3": "PAK",
+  "states": [
+    {
+      "name": "Azad Kashmir",
+      "state_code": "JK"
+    },
+    {
+      "name": "Balochistan",
+      "state_code": "BA"
+    },
+    {
+      "name": "Federally Administered Tribal Areas",
+      "state_code": "TA"
+    },
+    {
+      "name": "Gilgit-Baltistan",
+      "state_code": "GB"
+    },
+    {
+      "name": "Islamabad Capital Territory",
+      "state_code": "IS"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa",
+      "state_code": "KP"
+    },
+    {
+      "name": "Punjab",
+      "state_code": "PB"
+    },
+    {
+      "name": "Sindh",
+      "state_code": "SD"
+    }
+  ]
+}

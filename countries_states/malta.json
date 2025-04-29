@@ -1,0 +1,274 @@
+{
+  "name": "Malta",
+  "iso3": "MLT",
+  "states": [
+    {
+      "name": "Attard",
+      "state_code": "01"
+    },
+    {
+      "name": "Balzan",
+      "state_code": "02"
+    },
+    {
+      "name": "Birgu",
+      "state_code": "03"
+    },
+    {
+      "name": "Birkirkara",
+      "state_code": "04"
+    },
+    {
+      "name": "Birżebbuġa",
+      "state_code": "05"
+    },
+    {
+      "name": "Cospicua",
+      "state_code": "06"
+    },
+    {
+      "name": "Dingli",
+      "state_code": "07"
+    },
+    {
+      "name": "Fgura",
+      "state_code": "08"
+    },
+    {
+      "name": "Floriana",
+      "state_code": "09"
+    },
+    {
+      "name": "Fontana",
+      "state_code": "10"
+    },
+    {
+      "name": "Għajnsielem",
+      "state_code": "13"
+    },
+    {
+      "name": "Għarb",
+      "state_code": "14"
+    },
+    {
+      "name": "Għargħur",
+      "state_code": "15"
+    },
+    {
+      "name": "Għasri",
+      "state_code": "16"
+    },
+    {
+      "name": "Għaxaq",
+      "state_code": "17"
+    },
+    {
+      "name": "Gudja",
+      "state_code": "11"
+    },
+    {
+      "name": "Gżira",
+      "state_code": "12"
+    },
+    {
+      "name": "Ħamrun",
+      "state_code": "18"
+    },
+    {
+      "name": "Iklin",
+      "state_code": "19"
+    },
+    {
+      "name": "Kalkara",
+      "state_code": "21"
+    },
+    {
+      "name": "Kerċem",
+      "state_code": "22"
+    },
+    {
+      "name": "Kirkop",
+      "state_code": "23"
+    },
+    {
+      "name": "Lija",
+      "state_code": "24"
+    },
+    {
+      "name": "Luqa",
+      "state_code": "25"
+    },
+    {
+      "name": "Marsa",
+      "state_code": "26"
+    },
+    {
+      "name": "Marsaskala",
+      "state_code": "27"
+    },
+    {
+      "name": "Marsaxlokk",
+      "state_code": "28"
+    },
+    {
+      "name": "Mdina",
+      "state_code": "29"
+    },
+    {
+      "name": "Mellieħa",
+      "state_code": "30"
+    },
+    {
+      "name": "Mġarr",
+      "state_code": "31"
+    },
+    {
+      "name": "Mosta",
+      "state_code": "32"
+    },
+    {
+      "name": "Mqabba",
+      "state_code": "33"
+    },
+    {
+      "name": "Msida",
+      "state_code": "34"
+    },
+    {
+      "name": "Mtarfa",
+      "state_code": "35"
+    },
+    {
+      "name": "Munxar",
+      "state_code": "36"
+    },
+    {
+      "name": "Nadur",
+      "state_code": "37"
+    },
+    {
+      "name": "Naxxar",
+      "state_code": "38"
+    },
+    {
+      "name": "Paola",
+      "state_code": "39"
+    },
+    {
+      "name": "Pembroke",
+      "state_code": "40"
+    },
+    {
+      "name": "Pietà",
+      "state_code": "41"
+    },
+    {
+      "name": "Qala",
+      "state_code": "42"
+    },
+    {
+      "name": "Qormi",
+      "state_code": "43"
+    },
+    {
+      "name": "Qrendi",
+      "state_code": "44"
+    },
+    {
+      "name": "Rabat",
+      "state_code": "46"
+    },
+    {
+      "name": "Saint Lawrence",
+      "state_code": "50"
+    },
+    {
+      "name": "San Ġwann",
+      "state_code": "49"
+    },
+    {
+      "name": "Sannat",
+      "state_code": "52"
+    },
+    {
+      "name": "Santa Luċija",
+      "state_code": "53"
+    },
+    {
+      "name": "Santa Venera",
+      "state_code": "54"
+    },
+    {
+      "name": "Senglea",
+      "state_code": "20"
+    },
+    {
+      "name": "Siġġiewi",
+      "state_code": "55"
+    },
+    {
+      "name": "Sliema",
+      "state_code": "56"
+    },
+    {
+      "name": "St. Julian's",
+      "state_code": "48"
+    },
+    {
+      "name": "St. Paul's Bay",
+      "state_code": "51"
+    },
+    {
+      "name": "Swieqi",
+      "state_code": "57"
+    },
+    {
+      "name": "Ta' Xbiex",
+      "state_code": "58"
+    },
+    {
+      "name": "Tarxien",
+      "state_code": "59"
+    },
+    {
+      "name": "Valletta",
+      "state_code": "60"
+    },
+    {
+      "name": "Victoria",
+      "state_code": "45"
+    },
+    {
+      "name": "Xagħra",
+      "state_code": "61"
+    },
+    {
+      "name": "Xewkija",
+      "state_code": "62"
+    },
+    {
+      "name": "Xgħajra",
+      "state_code": "63"
+    },
+    {
+      "name": "Żabbar",
+      "state_code": "64"
+    },
+    {
+      "name": "Żebbuġ Gozo",
+      "state_code": "65"
+    },
+    {
+      "name": "Żebbuġ Malta",
+      "state_code": "66"
+    },
+    {
+      "name": "Żejtun",
+      "state_code": "67"
+    },
+    {
+      "name": "Żurrieq",
+      "state_code": "68"
+    }
+  ]
+}

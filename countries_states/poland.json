@@ -1,0 +1,74 @@
+{
+  "name": "Poland",
+  "iso3": "POL",
+  "states": [
+    {
+      "name": "Greater Poland Voivodeship",
+      "state_code": "WP"
+    },
+    {
+      "name": "Kielce",
+      "state_code": "KI"
+    },
+    {
+      "name": "Kuyavian-Pomeranian Voivodeship",
+      "state_code": "KP"
+    },
+    {
+      "name": "Lesser Poland Voivodeship",
+      "state_code": "MA"
+    },
+    {
+      "name": "Lower Silesian Voivodeship",
+      "state_code": "DS"
+    },
+    {
+      "name": "Lublin Voivodeship",
+      "state_code": "LU"
+    },
+    {
+      "name": "Lubusz Voivodeship",
+      "state_code": "LB"
+    },
+    {
+      "name": "Łódź Voivodeship",
+      "state_code": "LD"
+    },
+    {
+      "name": "Masovian Voivodeship",
+      "state_code": "MZ"
+    },
+    {
+      "name": "Opole Voivodeship",
+      "state_code": "OP"
+    },
+    {
+      "name": "Podkarpackie Voivodeship",
+      "state_code": "PK"
+    },
+    {
+      "name": "Podlaskie Voivodeship",
+      "state_code": "PD"
+    },
+    {
+      "name": "Pomeranian Voivodeship",
+      "state_code": "PM"
+    },
+    {
+      "name": "Silesian Voivodeship",
+      "state_code": "SL"
+    },
+    {
+      "name": "Świętokrzyskie Voivodeship",
+      "state_code": "SK"
+    },
+    {
+      "name": "Warmian-Masurian Voivodeship",
+      "state_code": "WN"
+    },
+    {
+      "name": "West Pomeranian Voivodeship",
+      "state_code": "ZP"
+    }
+  ]
+}

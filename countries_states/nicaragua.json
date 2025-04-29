@@ -1,0 +1,70 @@
+{
+  "name": "Nicaragua",
+  "iso3": "NIC",
+  "states": [
+    {
+      "name": "Boaco Department",
+      "state_code": "BO"
+    },
+    {
+      "name": "Carazo Department",
+      "state_code": "CA"
+    },
+    {
+      "name": "Chinandega Department",
+      "state_code": "CI"
+    },
+    {
+      "name": "Chontales Department",
+      "state_code": "CO"
+    },
+    {
+      "name": "Estelí Department",
+      "state_code": "ES"
+    },
+    {
+      "name": "Granada Department",
+      "state_code": "GR"
+    },
+    {
+      "name": "Jinotega Department",
+      "state_code": "JI"
+    },
+    {
+      "name": "León Department",
+      "state_code": "LE"
+    },
+    {
+      "name": "Madriz Department",
+      "state_code": "MD"
+    },
+    {
+      "name": "Managua Department",
+      "state_code": "MN"
+    },
+    {
+      "name": "Masaya Department",
+      "state_code": "MS"
+    },
+    {
+      "name": "Matagalpa Department",
+      "state_code": "MT"
+    },
+    {
+      "name": "North Caribbean Coast Autonomous Region",
+      "state_code": "AN"
+    },
+    {
+      "name": "Río San Juan Department",
+      "state_code": "SJ"
+    },
+    {
+      "name": "Rivas Department",
+      "state_code": "RI"
+    },
+    {
+      "name": "South Caribbean Coast Autonomous Region",
+      "state_code": "AS"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Jordan",
+  "iso3": "JOR",
+  "states": [
+    {
+      "name": "Ajloun Governorate",
+      "state_code": "AJ"
+    },
+    {
+      "name": "Amman Governorate",
+      "state_code": "AM"
+    },
+    {
+      "name": "Aqaba Governorate",
+      "state_code": "AQ"
+    },
+    {
+      "name": "Balqa Governorate",
+      "state_code": "BA"
+    },
+    {
+      "name": "Irbid Governorate",
+      "state_code": "IR"
+    },
+    {
+      "name": "Jerash Governorate",
+      "state_code": "JA"
+    },
+    {
+      "name": "Karak Governorate",
+      "state_code": "KA"
+    },
+    {
+      "name": "Ma'an Governorate",
+      "state_code": "MN"
+    },
+    {
+      "name": "Madaba Governorate",
+      "state_code": "MD"
+    },
+    {
+      "name": "Mafraq Governorate",
+      "state_code": "MA"
+    },
+    {
+      "name": "Tafilah Governorate",
+      "state_code": "AT"
+    },
+    {
+      "name": "Zarqa Governorate",
+      "state_code": "AZ"
+    }
+  ]
+}

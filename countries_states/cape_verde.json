@@ -1,0 +1,98 @@
+{
+  "name": "Cape Verde",
+  "iso3": "CPV",
+  "states": [
+    {
+      "name": "Barlavento Islands",
+      "state_code": "B"
+    },
+    {
+      "name": "Boa Vista",
+      "state_code": "BV"
+    },
+    {
+      "name": "Brava",
+      "state_code": "BR"
+    },
+    {
+      "name": "Maio Municipality",
+      "state_code": "MA"
+    },
+    {
+      "name": "Mosteiros",
+      "state_code": "MO"
+    },
+    {
+      "name": "Paul",
+      "state_code": "PA"
+    },
+    {
+      "name": "Porto Novo",
+      "state_code": "PN"
+    },
+    {
+      "name": "Praia",
+      "state_code": "PR"
+    },
+    {
+      "name": "Ribeira Brava Municipality",
+      "state_code": "RB"
+    },
+    {
+      "name": "Ribeira Grande",
+      "state_code": "RG"
+    },
+    {
+      "name": "Ribeira Grande de Santiago",
+      "state_code": "RS"
+    },
+    {
+      "name": "Sal",
+      "state_code": "SL"
+    },
+    {
+      "name": "Santa Catarina",
+      "state_code": "CA"
+    },
+    {
+      "name": "Santa Catarina do Fogo",
+      "state_code": "CF"
+    },
+    {
+      "name": "Santa Cruz",
+      "state_code": "CR"
+    },
+    {
+      "name": "São Domingos",
+      "state_code": "SD"
+    },
+    {
+      "name": "São Filipe",
+      "state_code": "SF"
+    },
+    {
+      "name": "São Lourenço dos Órgãos",
+      "state_code": "SO"
+    },
+    {
+      "name": "São Miguel",
+      "state_code": "SM"
+    },
+    {
+      "name": "São Vicente",
+      "state_code": "SV"
+    },
+    {
+      "name": "Sotavento Islands",
+      "state_code": "S"
+    },
+    {
+      "name": "Tarrafal",
+      "state_code": "TA"
+    },
+    {
+      "name": "Tarrafal de São Nicolau",
+      "state_code": "TS"
+    }
+  ]
+}

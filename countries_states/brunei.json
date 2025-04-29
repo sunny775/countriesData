@@ -1,0 +1,22 @@
+{
+  "name": "Brunei",
+  "iso3": "BRN",
+  "states": [
+    {
+      "name": "Belait District",
+      "state_code": "BE"
+    },
+    {
+      "name": "Brunei-Muara District",
+      "state_code": "BM"
+    },
+    {
+      "name": "Temburong District",
+      "state_code": "TE"
+    },
+    {
+      "name": "Tutong District",
+      "state_code": "TU"
+    }
+  ]
+}

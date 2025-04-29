@@ -1,0 +1,98 @@
+{
+  "name": "Tunisia",
+  "iso3": "TUN",
+  "states": [
+    {
+      "name": "Ariana Governorate",
+      "state_code": "12"
+    },
+    {
+      "name": "Ben Arous Governorate",
+      "state_code": "13"
+    },
+    {
+      "name": "Bizerte Governorate",
+      "state_code": "23"
+    },
+    {
+      "name": "Gabès Governorate",
+      "state_code": "81"
+    },
+    {
+      "name": "Gafsa Governorate",
+      "state_code": "71"
+    },
+    {
+      "name": "Jendouba Governorate",
+      "state_code": "32"
+    },
+    {
+      "name": "Kairouan Governorate",
+      "state_code": "41"
+    },
+    {
+      "name": "Kasserine Governorate",
+      "state_code": "42"
+    },
+    {
+      "name": "Kassrine",
+      "state_code": "31"
+    },
+    {
+      "name": "Kebili Governorate",
+      "state_code": "73"
+    },
+    {
+      "name": "Kef Governorate",
+      "state_code": "33"
+    },
+    {
+      "name": "Mahdia Governorate",
+      "state_code": "53"
+    },
+    {
+      "name": "Manouba Governorate",
+      "state_code": "14"
+    },
+    {
+      "name": "Medenine Governorate",
+      "state_code": "82"
+    },
+    {
+      "name": "Monastir Governorate",
+      "state_code": "52"
+    },
+    {
+      "name": "Sfax Governorate",
+      "state_code": "61"
+    },
+    {
+      "name": "Sidi Bouzid Governorate",
+      "state_code": "43"
+    },
+    {
+      "name": "Siliana Governorate",
+      "state_code": "34"
+    },
+    {
+      "name": "Sousse Governorate",
+      "state_code": "51"
+    },
+    {
+      "name": "Tataouine Governorate",
+      "state_code": "83"
+    },
+    {
+      "name": "Tozeur Governorate",
+      "state_code": "72"
+    },
+    {
+      "name": "Tunis Governorate",
+      "state_code": "11"
+    },
+    {
+      "name": "Zaghouan Governorate",
+      "state_code": "22"
+    }
+  ]
+}

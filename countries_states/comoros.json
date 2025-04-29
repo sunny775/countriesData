@@ -1,0 +1,18 @@
+{
+  "name": "Comoros",
+  "iso3": "COM",
+  "states": [
+    {
+      "name": "Anjouan",
+      "state_code": "A"
+    },
+    {
+      "name": "Grande Comore",
+      "state_code": "G"
+    },
+    {
+      "name": "Mohéli",
+      "state_code": "M"
+    }
+  ]
+}

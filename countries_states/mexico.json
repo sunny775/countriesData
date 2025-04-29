@@ -1,0 +1,134 @@
+{
+  "name": "Mexico",
+  "iso3": "MEX",
+  "states": [
+    {
+      "name": "Aguascalientes",
+      "state_code": "AGU"
+    },
+    {
+      "name": "Baja California",
+      "state_code": "BCN"
+    },
+    {
+      "name": "Baja California Sur",
+      "state_code": "BCS"
+    },
+    {
+      "name": "Campeche",
+      "state_code": "CAM"
+    },
+    {
+      "name": "Chiapas",
+      "state_code": "CHP"
+    },
+    {
+      "name": "Chihuahua",
+      "state_code": "CHH"
+    },
+    {
+      "name": "Coahuila",
+      "state_code": "COA"
+    },
+    {
+      "name": "Colima",
+      "state_code": "COL"
+    },
+    {
+      "name": "Durango",
+      "state_code": "DUR"
+    },
+    {
+      "name": "Guanajuato",
+      "state_code": "GUA"
+    },
+    {
+      "name": "Guerrero",
+      "state_code": "GRO"
+    },
+    {
+      "name": "Hidalgo",
+      "state_code": "HID"
+    },
+    {
+      "name": "Jalisco",
+      "state_code": "JAL"
+    },
+    {
+      "name": "México",
+      "state_code": "MEX"
+    },
+    {
+      "name": "Mexico City",
+      "state_code": "CMX"
+    },
+    {
+      "name": "Michoacán",
+      "state_code": "MIC"
+    },
+    {
+      "name": "Morelos",
+      "state_code": "MOR"
+    },
+    {
+      "name": "Nayarit",
+      "state_code": "NAY"
+    },
+    {
+      "name": "Nuevo León",
+      "state_code": "NLE"
+    },
+    {
+      "name": "Oaxaca",
+      "state_code": "OAX"
+    },
+    {
+      "name": "Puebla",
+      "state_code": "PUE"
+    },
+    {
+      "name": "Querétaro",
+      "state_code": "QUE"
+    },
+    {
+      "name": "Quintana Roo",
+      "state_code": "ROO"
+    },
+    {
+      "name": "San Luis Potosí",
+      "state_code": "SLP"
+    },
+    {
+      "name": "Sinaloa",
+      "state_code": "SIN"
+    },
+    {
+      "name": "Sonora",
+      "state_code": "SON"
+    },
+    {
+      "name": "Tabasco",
+      "state_code": "TAB"
+    },
+    {
+      "name": "Tamaulipas",
+      "state_code": "TAM"
+    },
+    {
+      "name": "Tlaxcala",
+      "state_code": "TLA"
+    },
+    {
+      "name": "Veracruz",
+      "state_code": "VER"
+    },
+    {
+      "name": "Yucatán",
+      "state_code": "YUC"
+    },
+    {
+      "name": "Zacatecas",
+      "state_code": "ZAC"
+    }
+  ]
+}

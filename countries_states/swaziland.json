@@ -1,0 +1,22 @@
+{
+  "name": "Swaziland",
+  "iso3": "SWZ",
+  "states": [
+    {
+      "name": "Hhohho District",
+      "state_code": "HH"
+    },
+    {
+      "name": "Lubombo District",
+      "state_code": "LU"
+    },
+    {
+      "name": "Manzini District",
+      "state_code": "MA"
+    },
+    {
+      "name": "Shiselweni District",
+      "state_code": "SH"
+    }
+  ]
+}
