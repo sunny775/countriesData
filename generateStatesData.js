@@ -9,8 +9,7 @@ function createCountryFiles(data) {
   }
 
   data.forEach(country => {
-    // const filename = `${country.name.toLowerCase().replace(/\s+/g, '_')}.json`;
-    const filename = `${country.iso3}.json`;
+    const filename = `${country.name.toLowerCase().replace(/\s+/g, '_')}.json`;
     const filePath = path.join(outputDir, filename);
     
     fs.writeFileSync(filePath, JSON.stringify(country, null, 2));
