@@ -8,15 +8,16 @@ function createCountryFiles(data) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  data.data.forEach(country => {
-    const filename = `${country.name.toLowerCase().replace(/\s+/g, '_')}.json`;
+  data.forEach(country => {
+    // const filename = `${country.name.toLowerCase().replace(/\s+/g, '_')}.json`;
+    const filename = `${country.iso3}.json`;
     const filePath = path.join(outputDir, filename);
     
     fs.writeFileSync(filePath, JSON.stringify(country, null, 2));
     console.log(`Created file: ${filename}`);
   });
 
-  console.log(`\nProcess complete. ${data.data.length} country files created in '${outputDir}' directory.`);
+  console.log(`\nProcess complete. ${data.length} country files created in '${outputDir}' directory.`);
 }
 
 
